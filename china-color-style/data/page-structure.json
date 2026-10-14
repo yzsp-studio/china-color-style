@@ -1,0 +1,3971 @@
+{
+ "pages": [
+  {
+   "page": 1,
+   "role": "封面",
+   "chapter": "",
+   "color_entries": 6,
+   "color_ratio": 53.6,
+   "chips": 25,
+   "top_colors": [
+    "#FB5531",
+    "#FCEED1",
+    "#315053",
+    "#FCBC33"
+   ]
+  },
+  {
+   "page": 2,
+   "role": "封面",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 2.4,
+   "chips": 1,
+   "top_colors": [
+    "#CC8E6B"
+   ]
+  },
+  {
+   "page": 3,
+   "role": "版权",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 0,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 4,
+   "role": "序言",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 0.7,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 5,
+   "role": "序言",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 0.1,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 6,
+   "role": "序言",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 0.1,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 7,
+   "role": "序言",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 0,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 8,
+   "role": "序言",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 0.1,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 9,
+   "role": "序言",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 0.1,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 10,
+   "role": "序言",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 0.1,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 11,
+   "role": "序言",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 0,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 12,
+   "role": "序言",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 0,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 13,
+   "role": "色值页",
+   "chapter": "",
+   "color_entries": 1,
+   "color_ratio": 90.9,
+   "chips": 5,
+   "top_colors": [
+    "#576414",
+    "#657028",
+    "#616D1C",
+    "#5D6921"
+   ]
+  },
+  {
+   "page": 14,
+   "role": "目录",
+   "chapter": "立春",
+   "color_entries": 96,
+   "color_ratio": 10.3,
+   "chips": 4,
+   "top_colors": [
+    "#454E37",
+    "#3C4933",
+    "#D07B4C",
+    "#D08454"
+   ]
+  },
+  {
+   "page": 15,
+   "role": "目录",
+   "chapter": "立夏",
+   "color_entries": 96,
+   "color_ratio": 11.3,
+   "chips": 4,
+   "top_colors": [
+    "#D6301C",
+    "#DB3525",
+    "#C6713B",
+    "#C77344"
+   ]
+  },
+  {
+   "page": 16,
+   "role": "目录",
+   "chapter": "立秋",
+   "color_entries": 97,
+   "color_ratio": 10.6,
+   "chips": 2,
+   "top_colors": [
+    "#F97534",
+    "#B07249"
+   ]
+  },
+  {
+   "page": 17,
+   "role": "目录",
+   "chapter": "立冬",
+   "color_entries": 96,
+   "color_ratio": 10.7,
+   "chips": 4,
+   "top_colors": [
+    "#193947",
+    "#A96A3B",
+    "#B07045",
+    "#294752"
+   ]
+  },
+  {
+   "page": 18,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 89.8,
+   "chips": 6,
+   "top_colors": [
+    "#5A6515",
+    "#525A0E",
+    "#636A18",
+    "#6A7327"
+   ]
+  },
+  {
+   "page": 19,
+   "role": "正文",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 79.9,
+   "chips": 8,
+   "top_colors": [
+    "#353B14",
+    "#3B4318",
+    "#4B4E29",
+    "#464519"
+   ]
+  },
+  {
+   "page": 20,
+   "role": "正文",
+   "chapter": "立春",
+   "color_entries": 12,
+   "color_ratio": 17.6,
+   "chips": 9,
+   "top_colors": [
+    "#FEFC75",
+    "#77462B",
+    "#B4D9C9",
+    "#FBC930"
+   ]
+  },
+  {
+   "page": 21,
+   "role": "正文",
+   "chapter": "鱼陟负冰",
+   "color_entries": 12,
+   "color_ratio": 24,
+   "chips": 14,
+   "top_colors": [
+    "#FCCFEB",
+    "#C7110F",
+    "#FC5645",
+    "#FC8B76"
+   ]
+  },
+  {
+   "page": 22,
+   "role": "正文",
+   "chapter": "候雁北",
+   "color_entries": 12,
+   "color_ratio": 24.1,
+   "chips": 14,
+   "top_colors": [
+    "#740E11",
+    "#B62A2F",
+    "#C6D385",
+    "#FD6832"
+   ]
+  },
+  {
+   "page": 23,
+   "role": "正文",
+   "chapter": "桃始华",
+   "color_entries": 12,
+   "color_ratio": 20.9,
+   "chips": 11,
+   "top_colors": [
+    "#FA4F6A",
+    "#FB7291",
+    "#342846",
+    "#FCAD29"
+   ]
+  },
+  {
+   "page": 24,
+   "role": "正文",
+   "chapter": "春分",
+   "color_entries": 12,
+   "color_ratio": 19.1,
+   "chips": 10,
+   "top_colors": [
+    "#F72A13",
+    "#B64E49",
+    "#EE968A",
+    "#D4090C"
+   ]
+  },
+  {
+   "page": 25,
+   "role": "正文",
+   "chapter": "始电",
+   "color_entries": 12,
+   "color_ratio": 21.7,
+   "chips": 12,
+   "top_colors": [
+    "#6A6355",
+    "#580D48",
+    "#750F53",
+    "#A9348F"
+   ]
+  },
+  {
+   "page": 26,
+   "role": "正文",
+   "chapter": "田鼠化为鴽",
+   "color_entries": 12,
+   "color_ratio": 23.9,
+   "chips": 13,
+   "top_colors": [
+    "#65346B",
+    "#946B97",
+    "#ECBBEE",
+    "#9857B0"
+   ]
+  },
+  {
+   "page": 27,
+   "role": "正文",
+   "chapter": "萍始生",
+   "color_entries": 12,
+   "color_ratio": 23.1,
+   "chips": 11,
+   "top_colors": [
+    "#485228",
+    "#ABCDFB",
+    "#2E2B4D",
+    "#65734D"
+   ]
+  },
+  {
+   "page": 28,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 87,
+   "chips": 60,
+   "top_colors": [
+    "#531308",
+    "#890C05",
+    "#8C280E",
+    "#B50C07"
+   ]
+  },
+  {
+   "page": 29,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 22.4,
+   "chips": 5,
+   "top_colors": [
+    "#FDD948",
+    "#FCD639",
+    "#FDDC6A",
+    "#FCE36F"
+   ]
+  },
+  {
+   "page": 30,
+   "role": "正文",
+   "chapter": "立春",
+   "color_entries": 4,
+   "color_ratio": 3.2,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 31,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 79.3,
+   "chips": 10,
+   "top_colors": [
+    "#52AC87",
+    "#68B88D",
+    "#379A77",
+    "#4BA67D"
+   ]
+  },
+  {
+   "page": 32,
+   "role": "正文",
+   "chapter": "一月（正月）",
+   "color_entries": 4,
+   "color_ratio": 1.3,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 33,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 16,
+   "chips": 9,
+   "top_colors": [
+    "#502B2C",
+    "#AE542E",
+    "#4C170F",
+    "#914A2F"
+   ]
+  },
+  {
+   "page": 34,
+   "role": "正文",
+   "chapter": "一月(正月)·蛰虫始振",
+   "color_entries": 4,
+   "color_ratio": 2.4,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 35,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 22.3,
+   "chips": 4,
+   "top_colors": [
+    "#F73330",
+    "#F7514B",
+    "#2C4F31",
+    "#F9900E"
+   ]
+  },
+  {
+   "page": 36,
+   "role": "正文",
+   "chapter": "鱼陟负冰",
+   "color_entries": 4,
+   "color_ratio": 3.3,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 37,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 17.6,
+   "chips": 10,
+   "top_colors": [
+    "#F6AFCF",
+    "#F58CB6",
+    "#F776A9",
+    "#F999C4"
+   ]
+  },
+  {
+   "page": 38,
+   "role": "正文",
+   "chapter": "一月（正月）·雨水",
+   "color_entries": 4,
+   "color_ratio": 2.9,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 39,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 77.2,
+   "chips": 31,
+   "top_colors": [
+    "#8E4B32",
+    "#72372A",
+    "#502930",
+    "#702F18"
+   ]
+  },
+  {
+   "page": 40,
+   "role": "正文",
+   "chapter": "一月（正月）",
+   "color_entries": 4,
+   "color_ratio": 3,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 41,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 37.2,
+   "chips": 16,
+   "top_colors": [
+    "#D6CBAD",
+    "#C9B095",
+    "#E7D1B8",
+    "#EFDAC6"
+   ]
+  },
+  {
+   "page": 42,
+   "role": "正文",
+   "chapter": "一月（正月）·候雁北",
+   "color_entries": 4,
+   "color_ratio": 3.1,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 43,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 13.9,
+   "chips": 2,
+   "top_colors": [
+    "#2A7351",
+    "#196E49"
+   ]
+  },
+  {
+   "page": 44,
+   "role": "正文",
+   "chapter": "一月（正月）·草木萌动",
+   "color_entries": 4,
+   "color_ratio": 2.6,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 45,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 4.4,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 46,
+   "role": "正文",
+   "chapter": "惊蛰",
+   "color_entries": 4,
+   "color_ratio": 3,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 47,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 17.2,
+   "chips": 3,
+   "top_colors": [
+    "#FC4E4D",
+    "#FC5966",
+    "#F93836"
+   ]
+  },
+  {
+   "page": 48,
+   "role": "正文",
+   "chapter": "二月（命月）",
+   "color_entries": 4,
+   "color_ratio": 3.2,
+   "chips": 1,
+   "top_colors": [
+    "#FBB6C8"
+   ]
+  },
+  {
+   "page": 49,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 34.8,
+   "chips": 10,
+   "top_colors": [
+    "#FCD50A",
+    "#FDE311",
+    "#F4D3C8",
+    "#EDCBB5"
+   ]
+  },
+  {
+   "page": 50,
+   "role": "正文",
+   "chapter": "二月（命月）·仓庚鸣",
+   "color_entries": 4,
+   "color_ratio": 3.3,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 51,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 22.5,
+   "chips": 14,
+   "top_colors": [
+    "#937369",
+    "#AD8B75",
+    "#CAAE95",
+    "#8E542E"
+   ]
+  },
+  {
+   "page": 52,
+   "role": "正文",
+   "chapter": "二月（命月）",
+   "color_entries": 4,
+   "color_ratio": 2.3,
+   "chips": 1,
+   "top_colors": [
+    "#2B3051"
+   ]
+  },
+  {
+   "page": 53,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 23.5,
+   "chips": 2,
+   "top_colors": [
+    "#4D2E2F",
+    "#352A2F"
+   ]
+  },
+  {
+   "page": 54,
+   "role": "正文",
+   "chapter": "春分",
+   "color_entries": 4,
+   "color_ratio": 1.6,
+   "chips": 1,
+   "top_colors": [
+    "#F8E5CA"
+   ]
+  },
+  {
+   "page": 55,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 75.6,
+   "chips": 9,
+   "top_colors": [
+    "#F6D4B9",
+    "#FADCC4",
+    "#FDE3C7",
+    "#B19090"
+   ]
+  },
+  {
+   "page": 56,
+   "role": "正文",
+   "chapter": "二月（命月）·玄鸟至",
+   "color_entries": 4,
+   "color_ratio": 3.1,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 57,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 13.7,
+   "chips": 3,
+   "top_colors": [
+    "#F9F6AE",
+    "#D00E0C",
+    "#EE1110"
+   ]
+  },
+  {
+   "page": 58,
+   "role": "正文",
+   "chapter": "二月（命月）·雷乃发声",
+   "color_entries": 4,
+   "color_ratio": 3.3,
+   "chips": 1,
+   "top_colors": [
+    "#F42F2E"
+   ]
+  },
+  {
+   "page": 59,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 15.1,
+   "chips": 3,
+   "top_colors": [
+    "#F72C2C",
+    "#FAF5CB",
+    "#700E15"
+   ]
+  },
+  {
+   "page": 60,
+   "role": "正文",
+   "chapter": "二月（命月）",
+   "color_entries": 4,
+   "color_ratio": 2.9,
+   "chips": 1,
+   "top_colors": [
+    "#13284F"
+   ]
+  },
+  {
+   "page": 61,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 25.9,
+   "chips": 11,
+   "top_colors": [
+    "#4D0830",
+    "#4E0C4F",
+    "#4B0516",
+    "#501669"
+   ]
+  },
+  {
+   "page": 62,
+   "role": "正文",
+   "chapter": "清明",
+   "color_entries": 4,
+   "color_ratio": 2.9,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 63,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 39,
+   "chips": 11,
+   "top_colors": [
+    "#CDD3AF",
+    "#B4B490",
+    "#8E524D",
+    "#B8C39C"
+   ]
+  },
+  {
+   "page": 64,
+   "role": "正文",
+   "chapter": "三月(桃月)",
+   "color_entries": 4,
+   "color_ratio": 1.8,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 65,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 23.1,
+   "chips": 9,
+   "top_colors": [
+    "#AED7B0",
+    "#91C898",
+    "#2F2F32",
+    "#FACEE7"
+   ]
+  },
+  {
+   "page": 66,
+   "role": "正文",
+   "chapter": "三月（桃月）",
+   "color_entries": 4,
+   "color_ratio": 2.6,
+   "chips": 1,
+   "top_colors": [
+    "#71366D"
+   ]
+  },
+  {
+   "page": 67,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 54.8,
+   "chips": 20,
+   "top_colors": [
+    "#F6D3AF",
+    "#FBECCA",
+    "#F9E6B7",
+    "#362B32"
+   ]
+  },
+  {
+   "page": 68,
+   "role": "正文",
+   "chapter": "虹始见",
+   "color_entries": 4,
+   "color_ratio": 3.1,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 69,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 13.2,
+   "chips": 5,
+   "top_colors": [
+    "#D58BCA",
+    "#B56DAF",
+    "#EDAED3",
+    "#C877B6"
+   ]
+  },
+  {
+   "page": 70,
+   "role": "正文",
+   "chapter": "谷雨",
+   "color_entries": 4,
+   "color_ratio": 2.9,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 71,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 39.1,
+   "chips": 14,
+   "top_colors": [
+    "#FBF4CA",
+    "#FAEBB4",
+    "#F86E12",
+    "#F75210"
+   ]
+  },
+  {
+   "page": 72,
+   "role": "正文",
+   "chapter": "三月 (桃月)",
+   "color_entries": 4,
+   "color_ratio": 2.8,
+   "chips": 1,
+   "top_colors": [
+    "#4B5536"
+   ]
+  },
+  {
+   "page": 73,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 27.2,
+   "chips": 11,
+   "top_colors": [
+    "#B3938B",
+    "#6E5253",
+    "#90716E",
+    "#4B3537"
+   ]
+  },
+  {
+   "page": 74,
+   "role": "正文",
+   "chapter": "三月（桃月）",
+   "color_entries": 4,
+   "color_ratio": 2.9,
+   "chips": 1,
+   "top_colors": [
+    "#302F53"
+   ]
+  },
+  {
+   "page": 75,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 20.4,
+   "chips": 12,
+   "top_colors": [
+    "#30342E",
+    "#8C766B",
+    "#4A5235",
+    "#384731"
+   ]
+  },
+  {
+   "page": 76,
+   "role": "正文",
+   "chapter": "三月（桃月）·戴胜降于桑",
+   "color_entries": 4,
+   "color_ratio": 2.9,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 77,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 39.9,
+   "chips": 13,
+   "top_colors": [
+    "#4F0604",
+    "#381009",
+    "#382B10",
+    "#4D2D11"
+   ]
+  },
+  {
+   "page": 78,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 31.6,
+   "chips": 16,
+   "top_colors": [
+    "#4E312F",
+    "#CDB594",
+    "#302C31",
+    "#B16C4A"
+   ]
+  },
+  {
+   "page": 79,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 20.6,
+   "chips": 8,
+   "top_colors": [
+    "#131039",
+    "#4D130A",
+    "#0A0A4D",
+    "#2D123B"
+   ]
+  },
+  {
+   "page": 80,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 39.7,
+   "chips": 15,
+   "top_colors": [
+    "#CA0405",
+    "#0E0C38",
+    "#0E0F4A",
+    "#C9B296"
+   ]
+  },
+  {
+   "page": 81,
+   "role": "色值页",
+   "chapter": "",
+   "color_entries": 1,
+   "color_ratio": 89.4,
+   "chips": 2,
+   "top_colors": [
+    "#A40604",
+    "#990404"
+   ]
+  },
+  {
+   "page": 82,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 89.5,
+   "chips": 4,
+   "top_colors": [
+    "#A30703",
+    "#9A0504",
+    "#5C0202",
+    "#680406"
+   ]
+  },
+  {
+   "page": 83,
+   "role": "正文",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 80.1,
+   "chips": 6,
+   "top_colors": [
+    "#CF1A0B",
+    "#D12410",
+    "#AF5325",
+    "#B72E0F"
+   ]
+  },
+  {
+   "page": 84,
+   "role": "正文",
+   "chapter": "立夏",
+   "color_entries": 12,
+   "color_ratio": 22.6,
+   "chips": 12,
+   "top_colors": [
+    "#CCD42E",
+    "#CA8A6F",
+    "#F9C59A",
+    "#745558"
+   ]
+  },
+  {
+   "page": 85,
+   "role": "正文",
+   "chapter": "王瓜生",
+   "color_entries": 12,
+   "color_ratio": 24.5,
+   "chips": 14,
+   "top_colors": [
+    "#505730",
+    "#FC0D12",
+    "#374825",
+    "#FC526A"
+   ]
+  },
+  {
+   "page": 86,
+   "role": "正文",
+   "chapter": "靡草死",
+   "color_entries": 12,
+   "color_ratio": 24.6,
+   "chips": 14,
+   "top_colors": [
+    "#E9CA96",
+    "#AE8A6D",
+    "#8C6C4B",
+    "#69472E"
+   ]
+  },
+  {
+   "page": 87,
+   "role": "正文",
+   "chapter": "螳螂生",
+   "color_entries": 12,
+   "color_ratio": 20.4,
+   "chips": 15,
+   "top_colors": [
+    "#AC958A",
+    "#947757",
+    "#281D43",
+    "#C86744"
+   ]
+  },
+  {
+   "page": 88,
+   "role": "正文",
+   "chapter": "夏至",
+   "color_entries": 12,
+   "color_ratio": 18.5,
+   "chips": 8,
+   "top_colors": [
+    "#FCAB85",
+    "#720C0E",
+    "#D73018",
+    "#F65726"
+   ]
+  },
+  {
+   "page": 89,
+   "role": "正文",
+   "chapter": "半夏生",
+   "color_entries": 12,
+   "color_ratio": 16.6,
+   "chips": 10,
+   "top_colors": [
+    "#FC4F33",
+    "#FD7254",
+    "#734D30",
+    "#EEDAB2"
+   ]
+  },
+  {
+   "page": 90,
+   "role": "正文",
+   "chapter": "蟋蟀居壁",
+   "color_entries": 12,
+   "color_ratio": 24,
+   "chips": 13,
+   "top_colors": [
+    "#193670",
+    "#B04E5B",
+    "#FB8FAC",
+    "#451214"
+   ]
+  },
+  {
+   "page": 91,
+   "role": "正文",
+   "chapter": "腐草为萤",
+   "color_entries": 12,
+   "color_ratio": 23,
+   "chips": 11,
+   "top_colors": [
+    "#F0ED75",
+    "#FAFEAA",
+    "#EBAA6C",
+    "#6D7864"
+   ]
+  },
+  {
+   "page": 92,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 88.7,
+   "chips": 59,
+   "top_colors": [
+    "#B16F52",
+    "#6F0F0B",
+    "#90512B",
+    "#F34C18"
+   ]
+  },
+  {
+   "page": 93,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 28.4,
+   "chips": 8,
+   "top_colors": [
+    "#C8D988",
+    "#B6C974",
+    "#AAB869",
+    "#C6D37A"
+   ]
+  },
+  {
+   "page": 94,
+   "role": "正文",
+   "chapter": "立夏",
+   "color_entries": 4,
+   "color_ratio": 3.2,
+   "chips": 1,
+   "top_colors": [
+    "#DAE545"
+   ]
+  },
+  {
+   "page": 95,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 15.6,
+   "chips": 7,
+   "top_colors": [
+    "#2B2638",
+    "#B04D2E",
+    "#181C36",
+    "#302E46"
+   ]
+  },
+  {
+   "page": 96,
+   "role": "正文",
+   "chapter": "四月（梅月）",
+   "color_entries": 4,
+   "color_ratio": 2.9,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 97,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 22.8,
+   "chips": 11,
+   "top_colors": [
+    "#4C3433",
+    "#6D514F",
+    "#90706B",
+    "#39292C"
+   ]
+  },
+  {
+   "page": 98,
+   "role": "正文",
+   "chapter": "四月 (梅月)·蚯蚓出",
+   "color_entries": 4,
+   "color_ratio": 2.1,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 99,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 17.1,
+   "chips": 4,
+   "top_colors": [
+    "#F7510F",
+    "#F63211",
+    "#FC6613",
+    "#F9522A"
+   ]
+  },
+  {
+   "page": 100,
+   "role": "正文",
+   "chapter": "四月（梅月）",
+   "color_entries": 4,
+   "color_ratio": 3.1,
+   "chips": 1,
+   "top_colors": [
+    "#FC332E"
+   ]
+  },
+  {
+   "page": 101,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 39.8,
+   "chips": 14,
+   "top_colors": [
+    "#FC344D",
+    "#FA0A13",
+    "#FB526B",
+    "#FC4659"
+   ]
+  },
+  {
+   "page": 102,
+   "role": "正文",
+   "chapter": "小满",
+   "color_entries": 4,
+   "color_ratio": 3,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 103,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 19.7,
+   "chips": 5,
+   "top_colors": [
+    "#4C6F31",
+    "#39662C",
+    "#315518",
+    "#315728"
+   ]
+  },
+  {
+   "page": 104,
+   "role": "正文",
+   "chapter": "四月（梅月）·苦菜秀",
+   "color_entries": 4,
+   "color_ratio": 2.7,
+   "chips": 1,
+   "top_colors": [
+    "#686E48"
+   ]
+  },
+  {
+   "page": 105,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 32.6,
+   "chips": 10,
+   "top_colors": [
+    "#D28A57",
+    "#B2704A",
+    "#CC7951",
+    "#50322C"
+   ]
+  },
+  {
+   "page": 106,
+   "role": "正文",
+   "chapter": "四月（梅月）",
+   "color_entries": 4,
+   "color_ratio": 2.8,
+   "chips": 1,
+   "top_colors": [
+    "#EBCAA8"
+   ]
+  },
+  {
+   "page": 107,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 20.4,
+   "chips": 6,
+   "top_colors": [
+    "#F9AE0D",
+    "#F4920F",
+    "#B24D0E",
+    "#EC7211"
+   ]
+  },
+  {
+   "page": 108,
+   "role": "正文",
+   "chapter": "麦秋至",
+   "color_entries": 4,
+   "color_ratio": 3.2,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 109,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 8.3,
+   "chips": 1,
+   "top_colors": [
+    "#B1B48F"
+   ]
+  },
+  {
+   "page": 110,
+   "role": "正文",
+   "chapter": "芒种",
+   "color_entries": 4,
+   "color_ratio": 2.8,
+   "chips": 1,
+   "top_colors": [
+    "#EDD7AF"
+   ]
+  },
+  {
+   "page": 111,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 10.7,
+   "chips": 3,
+   "top_colors": [
+    "#F7F2B1",
+    "#F9F4C9",
+    "#524D2E"
+   ]
+  },
+  {
+   "page": 112,
+   "role": "正文",
+   "chapter": "五月（榴月）·螳螂生",
+   "color_entries": 4,
+   "color_ratio": 2.8,
+   "chips": 1,
+   "top_colors": [
+    "#CBB08F"
+   ]
+  },
+  {
+   "page": 113,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 10.4,
+   "chips": 5,
+   "top_colors": [
+    "#D0742E",
+    "#4E352A",
+    "#6E4D31",
+    "#4D2D16"
+   ]
+  },
+  {
+   "page": 114,
+   "role": "正文",
+   "chapter": "五月（榴月）",
+   "color_entries": 4,
+   "color_ratio": 3.1,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 115,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 23,
+   "chips": 12,
+   "top_colors": [
+    "#948971",
+    "#736B56",
+    "#131837",
+    "#887A66"
+   ]
+  },
+  {
+   "page": 116,
+   "role": "正文",
+   "chapter": "五月（榴月）",
+   "color_entries": 4,
+   "color_ratio": 2.7,
+   "chips": 1,
+   "top_colors": [
+    "#2D2E48"
+   ]
+  },
+  {
+   "page": 117,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 10.9,
+   "chips": 4,
+   "top_colors": [
+    "#F10B0E",
+    "#510813",
+    "#6E0911",
+    "#F92E2D"
+   ]
+  },
+  {
+   "page": 118,
+   "role": "正文",
+   "chapter": "夏至",
+   "color_entries": 4,
+   "color_ratio": 3.1,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 119,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 11.1,
+   "chips": 4,
+   "top_colors": [
+    "#EAC9B3",
+    "#D3AC93",
+    "#D8B7A7",
+    "#B38975"
+   ]
+  },
+  {
+   "page": 120,
+   "role": "正文",
+   "chapter": "五月（榴月）",
+   "color_entries": 4,
+   "color_ratio": 1,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 121,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 19.2,
+   "chips": 6,
+   "top_colors": [
+    "#F84E11",
+    "#F3330C",
+    "#F65229",
+    "#F76B2F"
+   ]
+  },
+  {
+   "page": 122,
+   "role": "正文",
+   "chapter": "五月（榴月）·蜩始鸣",
+   "color_entries": 4,
+   "color_ratio": 3.1,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 123,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 0.9,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 124,
+   "role": "正文",
+   "chapter": "五月（榴月）",
+   "color_entries": 4,
+   "color_ratio": 1,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 125,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 12.2,
+   "chips": 5,
+   "top_colors": [
+    "#FA2F15",
+    "#FB4B2A",
+    "#FA3528",
+    "#FA1811"
+   ]
+  },
+  {
+   "page": 126,
+   "role": "正文",
+   "chapter": "小暑",
+   "color_entries": 4,
+   "color_ratio": 3.1,
+   "chips": 1,
+   "top_colors": [
+    "#FD6955"
+   ]
+  },
+  {
+   "page": 127,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 25,
+   "chips": 10,
+   "top_colors": [
+    "#D5CA90",
+    "#F4E9B4",
+    "#F7EFC8",
+    "#EADAAB"
+   ]
+  },
+  {
+   "page": 128,
+   "role": "正文",
+   "chapter": "六月（荷月）",
+   "color_entries": 4,
+   "color_ratio": 2.8,
+   "chips": 1,
+   "top_colors": [
+    "#FBEBC8"
+   ]
+  },
+  {
+   "page": 129,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 11.2,
+   "chips": 4,
+   "top_colors": [
+    "#104B32",
+    "#90090C",
+    "#0E372E",
+    "#710B0C"
+   ]
+  },
+  {
+   "page": 130,
+   "role": "正文",
+   "chapter": "六月（荷月）",
+   "color_entries": 4,
+   "color_ratio": 3.1,
+   "chips": 2,
+   "top_colors": [
+    "#4C2736",
+    "#8E3032"
+   ]
+  },
+  {
+   "page": 131,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 3.5,
+   "chips": 1,
+   "top_colors": [
+    "#796768"
+   ]
+  },
+  {
+   "page": 132,
+   "role": "正文",
+   "chapter": "六月（荷月）·鹰始挚",
+   "color_entries": 4,
+   "color_ratio": 2.9,
+   "chips": 1,
+   "top_colors": [
+    "#112A65"
+   ]
+  },
+  {
+   "page": 133,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 36.7,
+   "chips": 12,
+   "top_colors": [
+    "#B00D0A",
+    "#CD110B",
+    "#910C0C",
+    "#710D0D"
+   ]
+  },
+  {
+   "page": 134,
+   "role": "正文",
+   "chapter": "大暑",
+   "color_entries": 4,
+   "color_ratio": 3,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 135,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 23.5,
+   "chips": 8,
+   "top_colors": [
+    "#06134F",
+    "#06166D",
+    "#050E38",
+    "#102E8B"
+   ]
+  },
+  {
+   "page": 136,
+   "role": "正文",
+   "chapter": "六月（荷月）",
+   "color_entries": 4,
+   "color_ratio": 3,
+   "chips": 1,
+   "top_colors": [
+    "#F6FC8D"
+   ]
+  },
+  {
+   "page": 137,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 27.7,
+   "chips": 7,
+   "top_colors": [
+    "#6F9651",
+    "#F68F2E",
+    "#332A32",
+    "#76A458"
+   ]
+  },
+  {
+   "page": 138,
+   "role": "正文",
+   "chapter": "六月（荷月）",
+   "color_entries": 4,
+   "color_ratio": 2.9,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 139,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 15.7,
+   "chips": 4,
+   "top_colors": [
+    "#4E7134",
+    "#2E5017",
+    "#39682A",
+    "#6B8A4F"
+   ]
+  },
+  {
+   "page": 140,
+   "role": "正文",
+   "chapter": "六月（荷月）",
+   "color_entries": 4,
+   "color_ratio": 2,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 141,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 56.2,
+   "chips": 23,
+   "top_colors": [
+    "#FAEACD",
+    "#716D2C",
+    "#AE9674",
+    "#4D542C"
+   ]
+  },
+  {
+   "page": 142,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 59,
+   "chips": 30,
+   "top_colors": [
+    "#FBEACD",
+    "#B21007",
+    "#F8CE4D",
+    "#EDD5B1"
+   ]
+  },
+  {
+   "page": 143,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 65.8,
+   "chips": 19,
+   "top_colors": [
+    "#0A0D4D",
+    "#070639",
+    "#0F156A",
+    "#14266D"
+   ]
+  },
+  {
+   "page": 144,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 71.7,
+   "chips": 30,
+   "top_colors": [
+    "#090F4E",
+    "#090A39",
+    "#0E2F8D",
+    "#08166F"
+   ]
+  },
+  {
+   "page": 145,
+   "role": "色值页",
+   "chapter": "",
+   "color_entries": 1,
+   "color_ratio": 89.7,
+   "chips": 3,
+   "top_colors": [
+    "#CB460D",
+    "#CA3D07",
+    "#D75729"
+   ]
+  },
+  {
+   "page": 146,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 88.7,
+   "chips": 5,
+   "top_colors": [
+    "#BB3304",
+    "#C43708",
+    "#F88748",
+    "#CA4412"
+   ]
+  },
+  {
+   "page": 147,
+   "role": "序言",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 80,
+   "chips": 6,
+   "top_colors": [
+    "#FA6812",
+    "#F77629",
+    "#F9A559",
+    "#F88833"
+   ]
+  },
+  {
+   "page": 148,
+   "role": "正文",
+   "chapter": "立秋",
+   "color_entries": 12,
+   "color_ratio": 22,
+   "chips": 14,
+   "top_colors": [
+    "#718EEB",
+    "#5771D6",
+    "#C6A791",
+    "#465271"
+   ]
+  },
+  {
+   "page": 149,
+   "role": "正文",
+   "chapter": "寒蝉鸣",
+   "color_entries": 12,
+   "color_ratio": 21.4,
+   "chips": 13,
+   "top_colors": [
+    "#585434",
+    "#FBCCEF",
+    "#C5CD90",
+    "#E675BC"
+   ]
+  },
+  {
+   "page": 150,
+   "role": "正文",
+   "chapter": "天地始肃",
+   "color_entries": 12,
+   "color_ratio": 22.3,
+   "chips": 14,
+   "top_colors": [
+    "#F2CD93",
+    "#FDECCE",
+    "#93CAF0",
+    "#79B2CA"
+   ]
+  },
+  {
+   "page": 151,
+   "role": "正文",
+   "chapter": "鸿雁来",
+   "color_entries": 12,
+   "color_ratio": 15.9,
+   "chips": 10,
+   "top_colors": [
+    "#503228",
+    "#795468",
+    "#D9B3B4",
+    "#382C45"
+   ]
+  },
+  {
+   "page": 152,
+   "role": "正文",
+   "chapter": "秋分",
+   "color_entries": 12,
+   "color_ratio": 17.6,
+   "chips": 10,
+   "top_colors": [
+    "#2C5171",
+    "#385990",
+    "#CD9448",
+    "#336ABB"
+   ]
+  },
+  {
+   "page": 153,
+   "role": "正文",
+   "chapter": "水始涸",
+   "color_entries": 12,
+   "color_ratio": 8.6,
+   "chips": 3,
+   "top_colors": [
+    "#F89451",
+    "#FB6915",
+    "#BB3B0F"
+   ]
+  },
+  {
+   "page": 154,
+   "role": "正文",
+   "chapter": "秋色彩语·雀入大水为蛤",
+   "color_entries": 12,
+   "color_ratio": 21,
+   "chips": 12,
+   "top_colors": [
+    "#F8D2B4",
+    "#051953",
+    "#D6070A",
+    "#AA6E34"
+   ]
+  },
+  {
+   "page": 155,
+   "role": "正文",
+   "chapter": "豺乃祭兽",
+   "color_entries": 12,
+   "color_ratio": 24.1,
+   "chips": 13,
+   "top_colors": [
+    "#F1B295",
+    "#4F374F",
+    "#F5CFB4",
+    "#8B6576"
+   ]
+  },
+  {
+   "page": 156,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 81.6,
+   "chips": 59,
+   "top_colors": [
+    "#F0CEB6",
+    "#492E30",
+    "#AEAB8F",
+    "#CBAA8D"
+   ]
+  },
+  {
+   "page": 157,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 12,
+   "chips": 3,
+   "top_colors": [
+    "#080D4C",
+    "#09156E",
+    "#050739"
+   ]
+  },
+  {
+   "page": 158,
+   "role": "正文",
+   "chapter": "立秋",
+   "color_entries": 4,
+   "color_ratio": 2.8,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 159,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 29.1,
+   "chips": 15,
+   "top_colors": [
+    "#5492CB",
+    "#538BB4",
+    "#314F6F",
+    "#4D6E90"
+   ]
+  },
+  {
+   "page": 160,
+   "role": "正文",
+   "chapter": "凉风至",
+   "color_entries": 4,
+   "color_ratio": 2.9,
+   "chips": 1,
+   "top_colors": [
+    "#646F91"
+   ]
+  },
+  {
+   "page": 161,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 12.6,
+   "chips": 5,
+   "top_colors": [
+    "#FBE9CD",
+    "#EED0B3",
+    "#F6D9C8",
+    "#F3CD93"
+   ]
+  },
+  {
+   "page": 162,
+   "role": "正文",
+   "chapter": "七月（兰月）",
+   "color_entries": 4,
+   "color_ratio": 2.1,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 163,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 26.3,
+   "chips": 14,
+   "top_colors": [
+    "#4C100E",
+    "#381312",
+    "#F9D18E",
+    "#FDEFCC"
+   ]
+  },
+  {
+   "page": 164,
+   "role": "正文",
+   "chapter": "七月（兰月）·寒蝉鸣",
+   "color_entries": 4,
+   "color_ratio": 2.6,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 165,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 9.4,
+   "chips": 4,
+   "top_colors": [
+    "#F56FB1",
+    "#FAAFD4",
+    "#FA91C9",
+    "#FCCDE7"
+   ]
+  },
+  {
+   "page": 166,
+   "role": "正文",
+   "chapter": "处暑",
+   "color_entries": 4,
+   "color_ratio": 2.5,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 167,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 23.6,
+   "chips": 7,
+   "top_colors": [
+    "#4C4F35",
+    "#6C7051",
+    "#33372A",
+    "#8E906F"
+   ]
+  },
+  {
+   "page": 168,
+   "role": "正文",
+   "chapter": "七月（兰月）",
+   "color_entries": 4,
+   "color_ratio": 2.5,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 169,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 21.2,
+   "chips": 1,
+   "top_colors": [
+    "#2E2E35"
+   ]
+  },
+  {
+   "page": 170,
+   "role": "正文",
+   "chapter": "七月（兰月）",
+   "color_entries": 4,
+   "color_ratio": 2.7,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 171,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 20.1,
+   "chips": 6,
+   "top_colors": [
+    "#FACD2D",
+    "#FCC616",
+    "#F6B217",
+    "#FAD34D"
+   ]
+  },
+  {
+   "page": 172,
+   "role": "正文",
+   "chapter": "七月（兰月）",
+   "color_entries": 4,
+   "color_ratio": 3.1,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 173,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 25.1,
+   "chips": 11,
+   "top_colors": [
+    "#4E2B2B",
+    "#522718",
+    "#371818",
+    "#EED3B2"
+   ]
+  },
+  {
+   "page": 174,
+   "role": "正文",
+   "chapter": "八月（桂月）白露",
+   "color_entries": 4,
+   "color_ratio": 1.7,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 175,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 17,
+   "chips": 8,
+   "top_colors": [
+    "#695751",
+    "#342C32",
+    "#574947",
+    "#89756B"
+   ]
+  },
+  {
+   "page": 176,
+   "role": "正文",
+   "chapter": "八月 (桂月)",
+   "color_entries": 4,
+   "color_ratio": 0.7,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 177,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 57.7,
+   "chips": 10,
+   "top_colors": [
+    "#FDEFD2",
+    "#CC9491",
+    "#EFCCB6",
+    "#F7D9C5"
+   ]
+  },
+  {
+   "page": 178,
+   "role": "正文",
+   "chapter": "八月(桂月)",
+   "color_entries": 4,
+   "color_ratio": 2.8,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 179,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 11.6,
+   "chips": 4,
+   "top_colors": [
+    "#4C362C",
+    "#362C2D",
+    "#6F4E2F",
+    "#4E3016"
+   ]
+  },
+  {
+   "page": 180,
+   "role": "正文",
+   "chapter": "八月（桂月）·群鸟养羞",
+   "color_entries": 4,
+   "color_ratio": 2.5,
+   "chips": 1,
+   "top_colors": [
+    "#CDAB91"
+   ]
+  },
+  {
+   "page": 181,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 11.1,
+   "chips": 1,
+   "top_colors": [
+    "#EFCCB2"
+   ]
+  },
+  {
+   "page": 182,
+   "role": "正文",
+   "chapter": "秋分",
+   "color_entries": 4,
+   "color_ratio": 1.9,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 183,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 32.9,
+   "chips": 12,
+   "top_colors": [
+    "#6E5430",
+    "#8C734A",
+    "#8E6C34",
+    "#57492C"
+   ]
+  },
+  {
+   "page": 184,
+   "role": "正文",
+   "chapter": "八月（桂月）雷始收声",
+   "color_entries": 4,
+   "color_ratio": 3.1,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 185,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 12,
+   "chips": 2,
+   "top_colors": [
+    "#2977D1",
+    "#3086D3"
+   ]
+  },
+  {
+   "page": 186,
+   "role": "正文",
+   "chapter": "八月（桂月）·蛰虫坏户",
+   "color_entries": 4,
+   "color_ratio": 3,
+   "chips": 1,
+   "top_colors": [
+    "#315474"
+   ]
+  },
+  {
+   "page": 187,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 50.3,
+   "chips": 19,
+   "top_colors": [
+    "#AA9075",
+    "#6B574C",
+    "#8C7769",
+    "#B5AA8F"
+   ]
+  },
+  {
+   "page": 188,
+   "role": "正文",
+   "chapter": "八月（桂月）",
+   "color_entries": 4,
+   "color_ratio": 0.4,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 189,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 51.8,
+   "chips": 13,
+   "top_colors": [
+    "#F9EECB",
+    "#F1D6AD",
+    "#F0CA94",
+    "#F7E6B7"
+   ]
+  },
+  {
+   "page": 190,
+   "role": "正文",
+   "chapter": "寒露",
+   "color_entries": 4,
+   "color_ratio": 0.5,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 191,
+   "role": "图版",
+   "chapter": "寒露",
+   "color_entries": 1,
+   "color_ratio": 27.1,
+   "chips": 8,
+   "top_colors": [
+    "#482914",
+    "#3A1C0E",
+    "#6E4E34",
+    "#90694A"
+   ]
+  },
+  {
+   "page": 192,
+   "role": "正文",
+   "chapter": "九月（菊月）·鸿雁来宾",
+   "color_entries": 4,
+   "color_ratio": 3.1,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 193,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 13.6,
+   "chips": 5,
+   "top_colors": [
+    "#303150",
+    "#4D4E71",
+    "#6E6F90",
+    "#8E8FB0"
+   ]
+  },
+  {
+   "page": 194,
+   "role": "正文",
+   "chapter": "九月（菊月）",
+   "color_entries": 4,
+   "color_ratio": 3,
+   "chips": 1,
+   "top_colors": [
+    "#1A254A"
+   ]
+  },
+  {
+   "page": 195,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 15.3,
+   "chips": 6,
+   "top_colors": [
+    "#6E3527",
+    "#380D0D",
+    "#4A1210",
+    "#682D1B"
+   ]
+  },
+  {
+   "page": 196,
+   "role": "正文",
+   "chapter": "九月 (菊月)",
+   "color_entries": 4,
+   "color_ratio": 2.9,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 197,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 23.3,
+   "chips": 4,
+   "top_colors": [
+    "#50060E",
+    "#6C070E",
+    "#39050E",
+    "#8B0913"
+   ]
+  },
+  {
+   "page": 198,
+   "role": "正文",
+   "chapter": "霜降",
+   "color_entries": 4,
+   "color_ratio": 3,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 199,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 10.1,
+   "chips": 7,
+   "top_colors": [
+    "#342A33",
+    "#685156",
+    "#463238",
+    "#58474D"
+   ]
+  },
+  {
+   "page": 200,
+   "role": "正文",
+   "chapter": "九月（菊月）·豺乃祭兽",
+   "color_entries": 4,
+   "color_ratio": 2.1,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 201,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 24.3,
+   "chips": 8,
+   "top_colors": [
+    "#F86A56",
+    "#F87667",
+    "#F78A72",
+    "#F8594B"
+   ]
+  },
+  {
+   "page": 202,
+   "role": "正文",
+   "chapter": "草木黄落",
+   "color_entries": 4,
+   "color_ratio": 3,
+   "chips": 1,
+   "top_colors": [
+    "#F9C8B3"
+   ]
+  },
+  {
+   "page": 203,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 29.8,
+   "chips": 8,
+   "top_colors": [
+    "#F4D2B2",
+    "#FCE8CC",
+    "#F9DCC4",
+    "#D6AF8D"
+   ]
+  },
+  {
+   "page": 204,
+   "role": "正文",
+   "chapter": "九月（菊月） 蛰虫咸俯",
+   "color_entries": 4,
+   "color_ratio": 2.8,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 205,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 66.2,
+   "chips": 30,
+   "top_colors": [
+    "#FBAF12",
+    "#F9CB2E",
+    "#F7D04F",
+    "#F8B42C"
+   ]
+  },
+  {
+   "page": 206,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 53.4,
+   "chips": 25,
+   "top_colors": [
+    "#FA6C17",
+    "#C8E9F3",
+    "#8A2708",
+    "#C7CA89"
+   ]
+  },
+  {
+   "page": 207,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 75.1,
+   "chips": 33,
+   "top_colors": [
+    "#FAAE6D",
+    "#FCCE6F",
+    "#F5B58C",
+    "#F9AE54"
+   ]
+  },
+  {
+   "page": 208,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 80.6,
+   "chips": 36,
+   "top_colors": [
+    "#F1CDAE",
+    "#FBEB93",
+    "#F7B06E",
+    "#F7D190"
+   ]
+  },
+  {
+   "page": 209,
+   "role": "色值页",
+   "chapter": "",
+   "color_entries": 1,
+   "color_ratio": 89.1,
+   "chips": 5,
+   "top_colors": [
+    "#325D57",
+    "#37625B",
+    "#386164",
+    "#335D61"
+   ]
+  },
+  {
+   "page": 210,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 87.7,
+   "chips": 5,
+   "top_colors": [
+    "#2D5D64",
+    "#2E6268",
+    "#2A5B5D",
+    "#78A59C"
+   ]
+  },
+  {
+   "page": 211,
+   "role": "序言",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 76.4,
+   "chips": 9,
+   "top_colors": [
+    "#193936",
+    "#273734",
+    "#29484B",
+    "#1A3B42"
+   ]
+  },
+  {
+   "page": 212,
+   "role": "正文",
+   "chapter": "立冬",
+   "color_entries": 12,
+   "color_ratio": 24.2,
+   "chips": 13,
+   "top_colors": [
+    "#FEFEAF",
+    "#4E342B",
+    "#2A4754",
+    "#88B3A6"
+   ]
+  },
+  {
+   "page": 213,
+   "role": "正文",
+   "chapter": "雉入大水为蜃",
+   "color_entries": 12,
+   "color_ratio": 24.7,
+   "chips": 16,
+   "top_colors": [
+    "#FC594A",
+    "#F6699A",
+    "#AE6C79",
+    "#6F2939"
+   ]
+  },
+  {
+   "page": 214,
+   "role": "正文",
+   "chapter": "天气上升，地气下降",
+   "color_entries": 12,
+   "color_ratio": 22.4,
+   "chips": 13,
+   "top_colors": [
+    "#69342B",
+    "#A8B5EE",
+    "#C7DCFA",
+    "#8E4F3A"
+   ]
+  },
+  {
+   "page": 215,
+   "role": "正文",
+   "chapter": "鹖旦不鸣",
+   "color_entries": 12,
+   "color_ratio": 20.5,
+   "chips": 11,
+   "top_colors": [
+    "#AD8971",
+    "#48389A",
+    "#6A6556",
+    "#38288D"
+   ]
+  },
+  {
+   "page": 216,
+   "role": "正文",
+   "chapter": "冬至",
+   "color_entries": 12,
+   "color_ratio": 24.3,
+   "chips": 13,
+   "top_colors": [
+    "#FDEE91",
+    "#FB93AE",
+    "#FBCCD4",
+    "#FCD669"
+   ]
+  },
+  {
+   "page": 217,
+   "role": "正文",
+   "chapter": "水泉动",
+   "color_entries": 12,
+   "color_ratio": 18.7,
+   "chips": 10,
+   "top_colors": [
+    "#FCD173",
+    "#CD706E",
+    "#4D1616",
+    "#492E34"
+   ]
+  },
+  {
+   "page": 218,
+   "role": "正文",
+   "chapter": "鹊始巢",
+   "color_entries": 12,
+   "color_ratio": 20.6,
+   "chips": 14,
+   "top_colors": [
+    "#71284B",
+    "#6B91A6",
+    "#4F4D67",
+    "#A4C5CB"
+   ]
+  },
+  {
+   "page": 219,
+   "role": "正文",
+   "chapter": "鸡乳",
+   "color_entries": 12,
+   "color_ratio": 24.3,
+   "chips": 14,
+   "top_colors": [
+    "#986A73",
+    "#54342F",
+    "#F9C9AB",
+    "#FDF0B9"
+   ]
+  },
+  {
+   "page": 220,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 85,
+   "chips": 56,
+   "top_colors": [
+    "#50140E",
+    "#4D2E17",
+    "#754834",
+    "#FDF0B0"
+   ]
+  },
+  {
+   "page": 221,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 21.3,
+   "chips": 9,
+   "top_colors": [
+    "#FCE931",
+    "#FCF14D",
+    "#FCD02B",
+    "#F7B029"
+   ]
+  },
+  {
+   "page": 222,
+   "role": "正文",
+   "chapter": "立冬",
+   "color_entries": 4,
+   "color_ratio": 2.9,
+   "chips": 2,
+   "top_colors": [
+    "#FDFDC6",
+    "#FDFDB4"
+   ]
+  },
+  {
+   "page": 223,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 23.3,
+   "chips": 12,
+   "top_colors": [
+    "#2C716E",
+    "#2D8A78",
+    "#349287",
+    "#6BB7AD"
+   ]
+  },
+  {
+   "page": 224,
+   "role": "正文",
+   "chapter": "十月（良月）",
+   "color_entries": 4,
+   "color_ratio": 2.8,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 225,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 16.8,
+   "chips": 9,
+   "top_colors": [
+    "#52322A",
+    "#704835",
+    "#AF6E50",
+    "#673B2C"
+   ]
+  },
+  {
+   "page": 226,
+   "role": "正文",
+   "chapter": "十月（良月）·地始冻",
+   "color_entries": 4,
+   "color_ratio": 2.4,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 227,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 71,
+   "chips": 14,
+   "top_colors": [
+    "#F3C7AE",
+    "#F2BCA5",
+    "#ECB59D",
+    "#AF7769"
+   ]
+  },
+  {
+   "page": 228,
+   "role": "正文",
+   "chapter": "十月（良月）",
+   "color_entries": 4,
+   "color_ratio": 2.9,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 229,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 22.7,
+   "chips": 5,
+   "top_colors": [
+    "#FA508C",
+    "#FC6EAC",
+    "#F23675",
+    "#FB639D"
+   ]
+  },
+  {
+   "page": 230,
+   "role": "正文",
+   "chapter": "小雪",
+   "color_entries": 4,
+   "color_ratio": 2.9,
+   "chips": 2,
+   "top_colors": [
+    "#FB74A9",
+    "#D24877"
+   ]
+  },
+  {
+   "page": 231,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 16.4,
+   "chips": 3,
+   "top_colors": [
+    "#352A32",
+    "#4D332D",
+    "#6E4D31"
+   ]
+  },
+  {
+   "page": 232,
+   "role": "正文",
+   "chapter": "十月（良月）·虹藏不见",
+   "color_entries": 4,
+   "color_ratio": 3.3,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 233,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 19.8,
+   "chips": 8,
+   "top_colors": [
+    "#B0D2FA",
+    "#CBE9FC",
+    "#92B2EC",
+    "#728DCC"
+   ]
+  },
+  {
+   "page": 234,
+   "role": "正文",
+   "chapter": "十月（良月）",
+   "color_entries": 4,
+   "color_ratio": 2,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 235,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 34,
+   "chips": 11,
+   "top_colors": [
+    "#B76B48",
+    "#C6714B",
+    "#B6633C",
+    "#AB5935"
+   ]
+  },
+  {
+   "page": 236,
+   "role": "正文",
+   "chapter": "十月（良月）",
+   "color_entries": 4,
+   "color_ratio": 2.9,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 237,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 23.4,
+   "chips": 10,
+   "top_colors": [
+    "#EC2C4B",
+    "#D21534",
+    "#B40E28",
+    "#D72C48"
+   ]
+  },
+  {
+   "page": 238,
+   "role": "正文",
+   "chapter": "大雪",
+   "color_entries": 4,
+   "color_ratio": 2.9,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 239,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 20.5,
+   "chips": 7,
+   "top_colors": [
+    "#FCF2C8",
+    "#FBE9B5",
+    "#F2CE92",
+    "#F4D7AB"
+   ]
+  },
+  {
+   "page": 240,
+   "role": "正文",
+   "chapter": "十一月（冬月）",
+   "color_entries": 4,
+   "color_ratio": 2.1,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 241,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 21.4,
+   "chips": 7,
+   "top_colors": [
+    "#4F4D36",
+    "#6E6A4F",
+    "#575445",
+    "#37352B"
+   ]
+  },
+  {
+   "page": 242,
+   "role": "正文",
+   "chapter": "十一月(冬月)",
+   "color_entries": 4,
+   "color_ratio": 0.7,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 243,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 10.5,
+   "chips": 1,
+   "top_colors": [
+    "#FA7369"
+   ]
+  },
+  {
+   "page": 244,
+   "role": "正文",
+   "chapter": "十一月（冬月）",
+   "color_entries": 4,
+   "color_ratio": 2.8,
+   "chips": 1,
+   "top_colors": [
+    "#5646A9"
+   ]
+  },
+  {
+   "page": 245,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 19.1,
+   "chips": 6,
+   "top_colors": [
+    "#FAEFB1",
+    "#FBF0CC",
+    "#F7CED1",
+    "#F7CC8F"
+   ]
+  },
+  {
+   "page": 246,
+   "role": "正文",
+   "chapter": "冬至",
+   "color_entries": 4,
+   "color_ratio": 2.9,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 247,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 11,
+   "chips": 5,
+   "top_colors": [
+    "#D24856",
+    "#F06A76",
+    "#F58E92",
+    "#F6AFAF"
+   ]
+  },
+  {
+   "page": 248,
+   "role": "正文",
+   "chapter": "十一月（冬月）",
+   "color_entries": 4,
+   "color_ratio": 2.9,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 249,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 47.5,
+   "chips": 13,
+   "top_colors": [
+    "#FBCA72",
+    "#F0934E",
+    "#F7B36B",
+    "#FAD18C"
+   ]
+  },
+  {
+   "page": 250,
+   "role": "正文",
+   "chapter": "十一月（冬月）",
+   "color_entries": 4,
+   "color_ratio": 3.1,
+   "chips": 1,
+   "top_colors": [
+    "#FCF4B0"
+   ]
+  },
+  {
+   "page": 251,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 20,
+   "chips": 8,
+   "top_colors": [
+    "#4C3030",
+    "#39252F",
+    "#714A32",
+    "#8D542F"
+   ]
+  },
+  {
+   "page": 252,
+   "role": "正文",
+   "chapter": "水泉动",
+   "color_entries": 4,
+   "color_ratio": 1.8,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 253,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 18,
+   "chips": 6,
+   "top_colors": [
+    "#344E2C",
+    "#506B31",
+    "#48552E",
+    "#526F4C"
+   ]
+  },
+  {
+   "page": 254,
+   "role": "正文",
+   "chapter": "小寒",
+   "color_entries": 4,
+   "color_ratio": 2.2,
+   "chips": 1,
+   "top_colors": [
+    "#FDFCCA"
+   ]
+  },
+  {
+   "page": 255,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 40,
+   "chips": 10,
+   "top_colors": [
+    "#6A130F",
+    "#570F0C",
+    "#8F2E2A",
+    "#73272D"
+   ]
+  },
+  {
+   "page": 256,
+   "role": "正文",
+   "chapter": "十二月(腊月) 雁北乡",
+   "color_entries": 4,
+   "color_ratio": 2.8,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 257,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 32.1,
+   "chips": 11,
+   "top_colors": [
+    "#FCC92B",
+    "#FAB52B",
+    "#FAB419",
+    "#F6912E"
+   ]
+  },
+  {
+   "page": 258,
+   "role": "正文",
+   "chapter": "十二月（腊月）",
+   "color_entries": 4,
+   "color_ratio": 2.9,
+   "chips": 1,
+   "top_colors": [
+    "#2E3351"
+   ]
+  },
+  {
+   "page": 259,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 7.1,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 260,
+   "role": "正文",
+   "chapter": "十二月（腊月）",
+   "color_entries": 4,
+   "color_ratio": 2.7,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 261,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 7.8,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 262,
+   "role": "正文",
+   "chapter": "大寒",
+   "color_entries": 4,
+   "color_ratio": 2.8,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 263,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 35.7,
+   "chips": 16,
+   "top_colors": [
+    "#AD734D",
+    "#926749",
+    "#745137",
+    "#895939"
+   ]
+  },
+  {
+   "page": 264,
+   "role": "正文",
+   "chapter": "十二月（腊月）",
+   "color_entries": 4,
+   "color_ratio": 2.6,
+   "chips": 1,
+   "top_colors": [
+    "#FDF3CD"
+   ]
+  },
+  {
+   "page": 265,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 28.8,
+   "chips": 12,
+   "top_colors": [
+    "#51332E",
+    "#6E4637",
+    "#714F49",
+    "#8C5849"
+   ]
+  },
+  {
+   "page": 266,
+   "role": "正文",
+   "chapter": "十二月（腊月）",
+   "color_entries": 4,
+   "color_ratio": 2.9,
+   "chips": 1,
+   "top_colors": [
+    "#F8C5B5"
+   ]
+  },
+  {
+   "page": 267,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 47.5,
+   "chips": 10,
+   "top_colors": [
+    "#FBEBCF",
+    "#F3D9C7",
+    "#EDD0B8",
+    "#D3B6AA"
+   ]
+  },
+  {
+   "page": 268,
+   "role": "正文",
+   "chapter": "十二月（腊月）",
+   "color_entries": 4,
+   "color_ratio": 2.7,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 269,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 23.7,
+   "chips": 12,
+   "top_colors": [
+    "#4F0D07",
+    "#B10A05",
+    "#283134",
+    "#EECCB5"
+   ]
+  },
+  {
+   "page": 270,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 29,
+   "chips": 11,
+   "top_colors": [
+    "#CEB298",
+    "#F8A531",
+    "#FCE794",
+    "#EFCDB5"
+   ]
+  },
+  {
+   "page": 271,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 69.2,
+   "chips": 21,
+   "top_colors": [
+    "#70CAEA",
+    "#8CD5EE",
+    "#52B7D8",
+    "#ADE7F4"
+   ]
+  },
+  {
+   "page": 272,
+   "role": "图版",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 77,
+   "chips": 21,
+   "top_colors": [
+    "#AEEBF6",
+    "#6FCCEB",
+    "#91D9ED",
+    "#C6F4F8"
+   ]
+  },
+  {
+   "page": 273,
+   "role": "附录",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 0.4,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 274,
+   "role": "附录",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 0.5,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 275,
+   "role": "附录",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 0.4,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 276,
+   "role": "附录",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 0.4,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 277,
+   "role": "附录",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 0.5,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 278,
+   "role": "附录",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 0.3,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 279,
+   "role": "附录",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 0.4,
+   "chips": 0,
+   "top_colors": []
+  },
+  {
+   "page": 280,
+   "role": "封面",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 94.9,
+   "chips": 3,
+   "top_colors": [
+    "#040C4C",
+    "#090F3A",
+    "#16318C"
+   ]
+  },
+  {
+   "page": 281,
+   "role": "色值页",
+   "chapter": "",
+   "color_entries": 25,
+   "color_ratio": 25.7,
+   "chips": 17,
+   "top_colors": [
+    "#526B4F",
+    "#9CA66B",
+    "#92A31B",
+    "#395144"
+   ]
+  },
+  {
+   "page": 282,
+   "role": "色值页",
+   "chapter": "",
+   "color_entries": 25,
+   "color_ratio": 16.7,
+   "chips": 6,
+   "top_colors": [
+    "#D3B691",
+    "#917054",
+    "#B08E70",
+    "#B39485"
+   ]
+  },
+  {
+   "page": 283,
+   "role": "色值页",
+   "chapter": "中国传统色",
+   "color_entries": 26,
+   "color_ratio": 17.3,
+   "chips": 8,
+   "top_colors": [
+    "#FA0717",
+    "#F92B2E",
+    "#701228",
+    "#F01529"
+   ]
+  },
+  {
+   "page": 284,
+   "role": "色值页",
+   "chapter": "",
+   "color_entries": 26,
+   "color_ratio": 26.1,
+   "chips": 15,
+   "top_colors": [
+    "#FC534D",
+    "#F53629",
+    "#FB4730",
+    "#8C192B"
+   ]
+  },
+  {
+   "page": 285,
+   "role": "色值页",
+   "chapter": "",
+   "color_entries": 24,
+   "color_ratio": 25.4,
+   "chips": 13,
+   "top_colors": [
+    "#FC7293",
+    "#FB91AE",
+    "#FCB0CA",
+    "#B0506A"
+   ]
+  },
+  {
+   "page": 286,
+   "role": "色值页",
+   "chapter": "中国传统色色谱",
+   "color_entries": 25,
+   "color_ratio": 27.3,
+   "chips": 18,
+   "top_colors": [
+    "#F15992",
+    "#CE8EDB",
+    "#CE316B",
+    "#752F47"
+   ]
+  },
+  {
+   "page": 287,
+   "role": "色值页",
+   "chapter": "",
+   "color_entries": 25,
+   "color_ratio": 27.7,
+   "chips": 18,
+   "top_colors": [
+    "#FDAD2D",
+    "#4F304F",
+    "#D9A3B0",
+    "#D79CAC"
+   ]
+  },
+  {
+   "page": 288,
+   "role": "色值页",
+   "chapter": "中国传统色色谱",
+   "color_entries": 26,
+   "color_ratio": 26.1,
+   "chips": 13,
+   "top_colors": [
+    "#F96C2F",
+    "#F8986A",
+    "#CF6E4C",
+    "#F9B38E"
+   ]
+  },
+  {
+   "page": 289,
+   "role": "色值页",
+   "chapter": "",
+   "color_entries": 25,
+   "color_ratio": 27.8,
+   "chips": 15,
+   "top_colors": [
+    "#D89A85",
+    "#F5CFB3",
+    "#753227",
+    "#D19278"
+   ]
+  },
+  {
+   "page": 290,
+   "role": "色值页",
+   "chapter": "中国传统色色谱",
+   "color_entries": 25,
+   "color_ratio": 27.8,
+   "chips": 16,
+   "top_colors": [
+    "#F7C556",
+    "#DA827D",
+    "#D67672",
+    "#70352B"
+   ]
+  },
+  {
+   "page": 291,
+   "role": "色值页",
+   "chapter": "中国传统色",
+   "color_entries": 26,
+   "color_ratio": 25.5,
+   "chips": 13,
+   "top_colors": [
+    "#FDF5C9",
+    "#FBF090",
+    "#FDFBB1",
+    "#DBBA8E"
+   ]
+  },
+  {
+   "page": 292,
+   "role": "色值页",
+   "chapter": "中国传统色色谱",
+   "color_entries": 26,
+   "color_ratio": 25.5,
+   "chips": 16,
+   "top_colors": [
+    "#292C91",
+    "#6B484D",
+    "#503239",
+    "#1A2E67"
+   ]
+  },
+  {
+   "page": 293,
+   "role": "色值页",
+   "chapter": "",
+   "color_entries": 25,
+   "color_ratio": 27.8,
+   "chips": 16,
+   "top_colors": [
+    "#5646A9",
+    "#568FB7",
+    "#2E304F",
+    "#10184B"
+   ]
+  },
+  {
+   "page": 294,
+   "role": "色值页",
+   "chapter": "中国传统色彩色谱",
+   "color_entries": 24,
+   "color_ratio": 22.2,
+   "chips": 11,
+   "top_colors": [
+    "#878DB1",
+    "#568999",
+    "#748BA9",
+    "#504F71"
+   ]
+  },
+  {
+   "page": 295,
+   "role": "色值页",
+   "chapter": "",
+   "color_entries": 27,
+   "color_ratio": 9.3,
+   "chips": 5,
+   "top_colors": [
+    "#D3B8AC",
+    "#FBE8CC",
+    "#AC8B96",
+    "#F1D0C6"
+   ]
+  },
+  {
+   "page": 296,
+   "role": "色值页",
+   "chapter": "中国传统色色谱",
+   "color_entries": 3,
+   "color_ratio": 2.7,
+   "chips": 1,
+   "top_colors": [
+    "#2F2739"
+   ]
+  },
+  {
+   "page": 297,
+   "role": "封面",
+   "chapter": "",
+   "color_entries": 0,
+   "color_ratio": 2.5,
+   "chips": 0,
+   "top_colors": []
+  }
+ ],
+ "chapter_ranges": {
+  "立春": [
+   20,
+   30
+  ],
+  "鱼陟负冰": [
+   21,
+   36
+  ],
+  "候雁北": [
+   22,
+   22
+  ],
+  "桃始华": [
+   23,
+   23
+  ],
+  "春分": [
+   24,
+   54
+  ],
+  "始电": [
+   25,
+   25
+  ],
+  "田鼠化为鴽": [
+   26,
+   26
+  ],
+  "萍始生": [
+   27,
+   27
+  ],
+  "一月（正月）": [
+   32,
+   40
+  ],
+  "一月(正月)·蛰虫始振": [
+   34,
+   34
+  ],
+  "一月（正月）·雨水": [
+   38,
+   38
+  ],
+  "一月（正月）·候雁北": [
+   42,
+   42
+  ],
+  "一月（正月）·草木萌动": [
+   44,
+   44
+  ],
+  "惊蛰": [
+   46,
+   46
+  ],
+  "二月（命月）": [
+   48,
+   60
+  ],
+  "二月（命月）·仓庚鸣": [
+   50,
+   50
+  ],
+  "二月（命月）·玄鸟至": [
+   56,
+   56
+  ],
+  "二月（命月）·雷乃发声": [
+   58,
+   58
+  ],
+  "清明": [
+   62,
+   62
+  ],
+  "三月(桃月)": [
+   64,
+   64
+  ],
+  "三月（桃月）": [
+   66,
+   74
+  ],
+  "虹始见": [
+   68,
+   68
+  ],
+  "谷雨": [
+   70,
+   70
+  ],
+  "三月 (桃月)": [
+   72,
+   72
+  ],
+  "三月（桃月）·戴胜降于桑": [
+   76,
+   76
+  ],
+  "立夏": [
+   84,
+   94
+  ],
+  "王瓜生": [
+   85,
+   85
+  ],
+  "靡草死": [
+   86,
+   86
+  ],
+  "螳螂生": [
+   87,
+   87
+  ],
+  "夏至": [
+   88,
+   118
+  ],
+  "半夏生": [
+   89,
+   89
+  ],
+  "蟋蟀居壁": [
+   90,
+   90
+  ],
+  "腐草为萤": [
+   91,
+   91
+  ],
+  "四月（梅月）": [
+   96,
+   106
+  ],
+  "四月 (梅月)·蚯蚓出": [
+   98,
+   98
+  ],
+  "小满": [
+   102,
+   102
+  ],
+  "四月（梅月）·苦菜秀": [
+   104,
+   104
+  ],
+  "麦秋至": [
+   108,
+   108
+  ],
+  "芒种": [
+   110,
+   110
+  ],
+  "五月（榴月）·螳螂生": [
+   112,
+   112
+  ],
+  "五月（榴月）": [
+   114,
+   124
+  ],
+  "五月（榴月）·蜩始鸣": [
+   122,
+   122
+  ],
+  "小暑": [
+   126,
+   126
+  ],
+  "六月（荷月）": [
+   128,
+   140
+  ],
+  "六月（荷月）·鹰始挚": [
+   132,
+   132
+  ],
+  "大暑": [
+   134,
+   134
+  ],
+  "立秋": [
+   148,
+   158
+  ],
+  "寒蝉鸣": [
+   149,
+   149
+  ],
+  "天地始肃": [
+   150,
+   150
+  ],
+  "鸿雁来": [
+   151,
+   151
+  ],
+  "秋分": [
+   152,
+   182
+  ],
+  "水始涸": [
+   153,
+   153
+  ],
+  "秋色彩语·雀入大水为蛤": [
+   154,
+   154
+  ],
+  "豺乃祭兽": [
+   155,
+   155
+  ],
+  "凉风至": [
+   160,
+   160
+  ],
+  "七月（兰月）": [
+   162,
+   172
+  ],
+  "七月（兰月）·寒蝉鸣": [
+   164,
+   164
+  ],
+  "处暑": [
+   166,
+   166
+  ],
+  "八月（桂月）白露": [
+   174,
+   174
+  ],
+  "八月 (桂月)": [
+   176,
+   176
+  ],
+  "八月(桂月)": [
+   178,
+   178
+  ],
+  "八月（桂月）·群鸟养羞": [
+   180,
+   180
+  ],
+  "八月（桂月）雷始收声": [
+   184,
+   184
+  ],
+  "八月（桂月）·蛰虫坏户": [
+   186,
+   186
+  ],
+  "八月（桂月）": [
+   188,
+   188
+  ],
+  "寒露": [
+   190,
+   191
+  ],
+  "九月（菊月）·鸿雁来宾": [
+   192,
+   192
+  ],
+  "九月（菊月）": [
+   194,
+   194
+  ],
+  "九月 (菊月)": [
+   196,
+   196
+  ],
+  "霜降": [
+   198,
+   198
+  ],
+  "九月（菊月）·豺乃祭兽": [
+   200,
+   200
+  ],
+  "草木黄落": [
+   202,
+   202
+  ],
+  "九月（菊月） 蛰虫咸俯": [
+   204,
+   204
+  ],
+  "立冬": [
+   212,
+   222
+  ],
+  "雉入大水为蜃": [
+   213,
+   213
+  ],
+  "天气上升，地气下降": [
+   214,
+   214
+  ],
+  "鹖旦不鸣": [
+   215,
+   215
+  ],
+  "冬至": [
+   216,
+   246
+  ],
+  "水泉动": [
+   217,
+   252
+  ],
+  "鹊始巢": [
+   218,
+   218
+  ],
+  "鸡乳": [
+   219,
+   219
+  ],
+  "十月（良月）": [
+   224,
+   236
+  ],
+  "十月（良月）·地始冻": [
+   226,
+   226
+  ],
+  "小雪": [
+   230,
+   230
+  ],
+  "十月（良月）·虹藏不见": [
+   232,
+   232
+  ],
+  "大雪": [
+   238,
+   238
+  ],
+  "十一月（冬月）": [
+   240,
+   250
+  ],
+  "十一月(冬月)": [
+   242,
+   242
+  ],
+  "小寒": [
+   254,
+   254
+  ],
+  "十二月(腊月) 雁北乡": [
+   256,
+   256
+  ],
+  "十二月（腊月）": [
+   258,
+   268
+  ],
+  "大寒": [
+   262,
+   262
+  ]
+ }
+}

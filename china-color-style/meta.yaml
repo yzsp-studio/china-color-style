@@ -1,0 +1,19 @@
+display-name-zh: 中华传统色画风配色设计
+version: 1.0.0
+tag-en: "Chinese Aesthetic / Art Direction"
+tag-cn: "传统色 / 画风配色"
+complete-tags-en:
+  - "Chinese Traditional Colors / Palette Design"
+  - "Dynasty Art Style / Costume Accuracy"
+  - "AI Image Prompt Assembly / Cross-era Fusion"
+complete-tags-cn:
+  - "中国传统色 / 配色设计"
+  - "历朝画风 / 服饰形制与用色等级"
+  - "AI 绘图提示词 / 跨时代混搭"
+summary-en: "Turns a story premise or an existing image into a dynasty-accurate style, a traditional-color palette with real values, and paste-ready prompts."
+summary-cn: "把故事前提或已有图片，变成朝代考据的画风、带真实色值的传统色配色，以及可直接粘贴的绘图提示词。"
+desc-en: "A local Skill for art direction with Chinese traditional aesthetics. It reads a 384-color dataset extracted from a published traditional-color reference (name, CMYK/RGB, documented meaning, solar-term chapter, source pages) plus four knowledge bases on dynasty art styles, historical costume forms and rank-color rules, AI prompt engineering, and cross-era fusion methodology. Mode A converts a story premise into a style lineage choice with visual evidence, a 5-8 color palette with proportions and rank constraints, the period knowledge points and common mistakes to avoid, and a segmented English prompt; ambiguous choices are resolved with a popup that states a recommendation in plain language. Mode C reverse-engineers an existing image: it extracts the exact palette from PNG pixels, maps those colors onto the traditional-color dataset by CIELAB distance, infers the era with supporting and contradicting evidence, and returns prioritized fixes. It never fabricates color values or historical facts, and it flags inferred or unresolved data."
+desc-cn: "用于中华审美绘图风格设计的本地 Skill。它读取一份从公开传统色专著提取的 384 色数据集（色名、CMYK/RGB、颜色意象、所属节气、出处书页），以及四份知识库：历朝画风流派、服饰形制与用色等级、AI 绘图提示词规则、跨时代混搭方法论。模式 A 把故事前提转成画风判定（含视觉依据）、5–8 色配色方案（含主辅点缀比例与等级约束）、该时代的知识点与常见错误，以及分段式英文提示词；遇到歧义会用弹窗给出选项与大白话推荐理由。模式 C 反推已有图片：从 PNG 像素精确提取色板，用 CIELAB 距离映射回传统色数据集，给出时代判断的支持证据与反证，并输出按优先级排序的修改建议。全程不编造色值与史实，对推定值与未定值主动标注。"
+author-en: "User Local Skill"
+author-cn: "用户本地 Skill"
+source: local

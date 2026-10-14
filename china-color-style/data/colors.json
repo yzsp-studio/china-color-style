@@ -1,0 +1,9834 @@
+[
+ {
+  "name": "黄白游",
+  "index_name": "黄白游",
+  "chapter": "立春",
+  "cmyk": "C0M0Y50K0",
+  "rgb": "R255G247B153",
+  "hex": "#FFF799",
+  "cmyk_rgb_delta": 25,
+  "votes": 3,
+  "read_deviation": 1,
+  "near_names": [],
+  "pages": [
+   20,
+   30
+  ],
+  "flags": [
+   "RGB有2种读法"
+  ],
+  "meaning": "起于“黄白游”，这个颜色契合中国人的人生愿景，黄山白岳是神仙梦，黄金白银是富贵梦，都是好梦。",
+  "meaning_pages": [
+   20,
+   30
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "松花",
+  "index_name": "松花",
+  "chapter": "立春",
+  "cmyk": "C0M5Y65K0",
+  "rgb": "R255G238B111",
+  "hex": "#FFEE6F",
+  "cmyk_rgb_delta": 22,
+  "votes": 3,
+  "read_deviation": 1,
+  "near_names": [],
+  "pages": [
+   20,
+   30
+  ],
+  "flags": [
+   "RGB有2种读法"
+  ],
+  "meaning": "承之“松花”，拂取的松花如婴儿肌肤般新鲜，祈福长寿的松花酒是神仙梦，而薛涛的松花笺是最出名的传统色衍生品，更是文学的绮丽梦。",
+  "meaning_pages": [
+   20,
+   30
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "缃叶",
+  "index_name": "缃叶",
+  "chapter": "立春",
+  "cmyk": "C10M15Y75K0",
+  "rgb": "R236G212B82",
+  "hex": "#ECD452",
+  "cmyk_rgb_delta": 18,
+  "votes": 2,
+  "read_deviation": 2,
+  "near_names": [],
+  "pages": [
+   20,
+   30
+  ],
+  "flags": [
+   "RGB有2种读法"
+  ],
+  "meaning": "转而“缃叶”，缃是很重要的基本传统色，初生桑叶是欣欣向荣的颜色，中国古代“农桑并举”，有蚕桑，才有衣锦还乡，这是富贵梦。",
+  "meaning_pages": [
+   20,
+   30
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "苍黄",
+  "index_name": "苍黄",
+  "chapter": "立春",
+  "cmyk": "C35M35Y100K0",
+  "rgb": "R182G160B20",
+  "hex": "#B6A014",
+  "cmyk_rgb_delta": 20,
+  "votes": 4,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   20,
+   30
+  ],
+  "flags": [],
+  "meaning": "合乎“苍黄”，既是间色，也是变色，我们今天说的“仓皇”出自此处。因何仓皇？事情在生长变化，不确定性的跃动是这个颜色的特质。",
+  "meaning_pages": [
+   20,
+   30
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "天缥",
+  "index_name": "天缥",
+  "chapter": "立春",
+  "cmyk": "C20M0Y15K0",
+  "rgb": "R213G235B225",
+  "hex": "#D5EBE1",
+  "cmyk_rgb_delta": 20,
+  "votes": 5,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   20,
+   282
+  ],
+  "flags": [],
+  "meaning": "起于“天缥”，近于那个等烟雨的天青色，因漂洗色淡而生缥，缥是很重要的基本传统色，晴空的天色就叫天缥。",
+  "meaning_pages": [
+   20,
+   32,
+   282
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "沧浪",
+  "index_name": "沧浪",
+  "chapter": "立春",
+  "cmyk": "C35M5Y25K0",
+  "rgb": "R177G213B200",
+  "hex": "#B1D5C8",
+  "cmyk_rgb_delta": 29,
+  "votes": 5,
+  "read_deviation": 5,
+  "near_names": [],
+  "pages": [
+   20,
+   32,
+   282
+  ],
+  "flags": [
+   "CMYK有2种读法"
+  ],
+  "meaning": "承之“沧浪”，说的是我心悠悠。不信你去苏州吃一碗好面，再去沧浪亭把脚浸到水中试试。",
+  "meaning_pages": [
+   20,
+   32,
+   282
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "苍筤",
+  "index_name": "苍筤",
+  "chapter": "立春",
+  "cmyk": "C45M15Y35K0",
+  "rgb": "R153G188B172",
+  "hex": "#99BCAC",
+  "cmyk_rgb_delta": 29,
+  "votes": 7,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   20,
+   32,
+   282
+  ],
+  "flags": [],
+  "meaning": "转而“苍筤”，没有比竹初生更能代表春天的事物了，也没有比苍筤更能代表初春的颜色了，春生之美，尽在此色。",
+  "meaning_pages": [
+   20,
+   32,
+   282
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "缥碧",
+  "index_name": "缥碧",
+  "chapter": "立春",
+  "cmyk": "C55M25Y45K0",
+  "rgb": "R128G164B146",
+  "hex": "#80A492",
+  "cmyk_rgb_delta": 27,
+  "votes": 7,
+  "read_deviation": 38,
+  "near_names": [],
+  "pages": [
+   20,
+   32,
+   224,
+   283
+  ],
+  "flags": [
+   "CMYK有2种读法",
+   "RGB有2种读法"
+  ],
+  "meaning": "合乎“缥碧”，缥碧是大色，因其贵气，或出现在宫苑的瓦上，或出现在江河的水里，或出现在贵人的杯中，最好还是李后主的宫人以素白玉手端起的颜色，给了我们一眼千年的想象。",
+  "meaning_pages": [
+   20,
+   32
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "流黄",
+  "index_name": "流黄",
+  "chapter": "立春",
+  "cmyk": "C50M55Y80K10",
+  "rgb": "R139G112B66",
+  "hex": "#8B7042",
+  "cmyk_rgb_delta": 24,
+  "votes": 7,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   20,
+   34,
+   291
+  ],
+  "flags": [],
+  "meaning": "起于“流黄”，五间色之一，而且是中央的间色，土克水产生黄克黑的撞击，章太炎竟然能以此标出人种的一种肤色。",
+  "meaning_pages": [
+   20,
+   34
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "栗壳",
+  "index_name": "栗壳",
+  "chapter": "立春",
+  "cmyk": "C55M70Y80K20",
+  "rgb": "R119G80B57",
+  "hex": "#775039",
+  "cmyk_rgb_delta": 27,
+  "votes": 7,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   20,
+   34,
+   290
+  ],
+  "flags": [],
+  "meaning": "承之“栗壳”，见栗则喜，蒸烤得暖，香甜得食，乾隆帝食栗，愉快地写下“堆盘陈玉几，献岁同春椒”。",
+  "meaning_pages": [
+   20,
+   34
+  ],
+  "meaning_source": "乾隆帝诗句",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "龙战",
+  "index_name": "龙战",
+  "chapter": "立春",
+  "cmyk": "C60M70Y95K35",
+  "rgb": "R95G67B33",
+  "hex": "#5F4321",
+  "cmyk_rgb_delta": 29,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   20,
+   34,
+   289
+  ],
+  "flags": [],
+  "meaning": "转而“龙战”，唯有大地可以承载龙之搏杀，龙血和土壤渗透在一起的颜色，多么壮烈。",
+  "meaning_pages": [
+   20,
+   34,
+   289
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "青骊",
+  "index_name": "青骊",
+  "chapter": "立春",
+  "cmyk": "C65M80Y90K55",
+  "rgb": "R66G37B23",
+  "hex": "#422517",
+  "cmyk_rgb_delta": 26,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   20,
+   34,
+   290
+  ],
+  "flags": [],
+  "meaning": "合乎“青骊”，青黑颜色的骏马是宝马，少年侠客出场，选乘这种颜色的马有气场，姑娘挂念，前程大好。",
+  "meaning_pages": [
+   20,
+   34
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "海天霞",
+  "index_name": "海天霞",
+  "chapter": "立春",
+  "cmyk": "C0M45Y35K0",
+  "rgb": "R243G166B148",
+  "hex": "#F3A694",
+  "cmyk_rgb_delta": 26,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   21,
+   36,
+   284
+  ],
+  "flags": [],
+  "meaning": "起于“海天霞”，“雨霁轻霞漾海波”，宫人偏爱这种淡红里衣，加罩更薄的青绿纱罗，两层织物内外掩映，瑟瑟波纹衬海霞，层次感就出来了。",
+  "meaning_pages": [
+   21,
+   36,
+   284
+  ],
+  "meaning_source": "“雨霁轻霞漾海波”",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "缃云",
+  "index_name": "缃云",
+  "chapter": "立春",
+  "cmyk": "C0M65Y60K0",
+  "rgb": "R238G121B89",
+  "hex": "#EE7959",
+  "cmyk_rgb_delta": null,
+  "votes": 0,
+  "read_deviation": null,
+  "near_names": [
+   "缃叶"
+  ],
+  "pages": [
+   21
+  ],
+  "flags": [
+   "名称待核对(近似:缃叶)",
+   "色值经序列对齐推定（索引「缃云」在正文中读作「缙云」，值取自书页 21）"
+  ],
+  "meaning": "",
+  "meaning_pages": [],
+  "meaning_source": "",
+  "meaning_agreement": null
+ },
+ {
+  "name": "纁黄",
+  "index_name": "纁黄",
+  "chapter": "立春",
+  "cmyk": "C30M80Y75K0",
+  "rgb": "R186G81B64",
+  "hex": "#BA5140",
+  "cmyk_rgb_delta": 30,
+  "votes": 3,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   21,
+   36,
+   284
+  ],
+  "flags": [],
+  "meaning": "转而“纁黄”，上玄下纁是华夏最神圣的服色，玄为太阳跃出地平线前的天色，纁为太阳跌入地平线时的天色，天地为大，敬畏而已。",
+  "meaning_pages": [
+   21,
+   36,
+   284
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "珊瑚赫",
+  "index_name": "珊瑚赫",
+  "chapter": "立春",
+  "cmyk": "C25M95Y100K0",
+  "rgb": "R193G44B31",
+  "hex": "#C12C1F",
+  "cmyk_rgb_delta": 31,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   21,
+   36,
+   283
+  ],
+  "flags": [],
+  "meaning": "合乎“珊瑚赫”，古代以铁网沉于珊瑚上，珊瑚愈生长，铁网愈扣住，待拉铁网出水，珊瑚也就得到了，落日火红珊瑚出水，时旺财旺。",
+  "meaning_pages": [
+   21,
+   36
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "盈盈",
+  "index_name": "盈盈",
+  "chapter": "雨水",
+  "cmyk": "C0M25Y0K0",
+  "rgb": "R249G211B227",
+  "hex": "#F9D3E3",
+  "cmyk_rgb_delta": 28,
+  "votes": 1,
+  "read_deviation": 10,
+  "near_names": [],
+  "pages": [
+   21
+  ],
+  "flags": [
+   "共识不足(1票)",
+   "CMYK有2种读法",
+   "RGB有2种读法"
+  ],
+  "meaning": "起于“盈盈”，一片桃花映水，辛弃疾说姑娘“笑语盈盈暗香去”，也是上元节会情郎的桃花运使然。",
+  "meaning_pages": [
+   21,
+   38,
+   285
+  ],
+  "meaning_source": "辛弃疾《青玉案·元夕》",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "水红",
+  "index_name": "水红",
+  "chapter": "雨水",
+  "cmyk": "C5M40Y10K0",
+  "rgb": "R236G176B193",
+  "hex": "#ECB0C1",
+  "cmyk_rgb_delta": 37,
+  "votes": 1,
+  "read_deviation": 2,
+  "near_names": [],
+  "pages": [
+   21
+  ],
+  "flags": [
+   "共识不足(1票)",
+   "RGB有2种读法"
+  ],
+  "meaning": "承之“水红”，花映水红，颜色的具象和雨水的节气完美搭配，水为财、红为发。",
+  "meaning_pages": [
+   21,
+   38,
+   285
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 0.972
+ },
+ {
+  "name": "苏梅",
+  "index_name": "苏梅",
+  "chapter": "雨水",
+  "cmyk": "C10M65Y20K0",
+  "rgb": "R221G118B148",
+  "hex": "#DD7694",
+  "cmyk_rgb_delta": 56,
+  "votes": 2,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   21
+  ],
+  "flags": [],
+  "meaning": "转而“苏梅”，东坡心中的梅花色，他亲自解读为“小红桃杏色”，美人微醉，诗兴大发，良辰美景。",
+  "meaning_pages": [
+   21,
+   38,
+   286
+  ],
+  "meaning_source": "苏轼（东坡）",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "紫茎屏风",
+  "index_name": "紫茎屏风",
+  "chapter": "雨水",
+  "cmyk": "C40M70Y30K0",
+  "rgb": "R167G98B131",
+  "hex": "#A76283",
+  "cmyk_rgb_delta": 47,
+  "votes": 1,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   21
+  ],
+  "flags": [
+   "共识不足(1票)"
+  ],
+  "meaning": "合乎“紫茎屏风”，张翰因为思念紫色根茎、紫色叶背的莼菜羹，官都不做了，这个颜色或许就是人生的“小确幸”。",
+  "meaning_pages": [
+   21,
+   38,
+   286
+  ],
+  "meaning_source": "张翰",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "葭灰",
+  "index_name": "葭灰",
+  "chapter": "雨水",
+  "cmyk": "C30M30Y30K0",
+  "rgb": "R190G177B170",
+  "hex": "#BEB1AA",
+  "cmyk_rgb_delta": 12,
+  "votes": 3,
+  "read_deviation": 38,
+  "near_names": [],
+  "pages": [
+   21,
+   40,
+   152,
+   282,
+   289
+  ],
+  "flags": [
+   "CMYK有2种读法",
+   "RGB有2种读法"
+  ],
+  "meaning": "起于“葭灰”，芦苇成灰，比芦苇管里的白皮还薄，这个颜色把世间人情看穿了，看穿了就少些心痛，也是好事情。",
+  "meaning_pages": [
+   21,
+   40,
+   289
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "黄埃",
+  "index_name": "黄埃",
+  "chapter": "雨水",
+  "cmyk": "C35M45Y55K0",
+  "rgb": "R180G146B115",
+  "hex": "#B49273",
+  "cmyk_rgb_delta": 14,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   21,
+   40,
+   289
+  ],
+  "flags": [],
+  "meaning": "承之“黄埃”，黄泉的雾气，黄埃上升的阴气阳气激荡为雷电，孕育力量，暗藏能量。",
+  "meaning_pages": [
+   21,
+   40,
+   289
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "老僧衣",
+  "index_name": "老僧衣",
+  "chapter": "雨水",
+  "cmyk": "C40M70Y75K5",
+  "rgb": "R164G95B68",
+  "hex": "#A45F44",
+  "cmyk_rgb_delta": 22,
+  "votes": 6,
+  "read_deviation": 38,
+  "near_names": [],
+  "pages": [
+   21,
+   40,
+   290,
+   291
+  ],
+  "flags": [
+   "CMYK有2种读法",
+   "RGB有2种读法"
+  ],
+  "meaning": "转而“老僧衣”，茶叶末这个颜色的变体是老僧衣，旧时北京管茶叶末叫“高末”，透着敬重谦卑，如老僧入定。",
+  "meaning_pages": [
+   21,
+   40
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "玄天",
+  "index_name": "玄天",
+  "chapter": "雨水",
+  "cmyk": "C65M70Y60K10",
+  "rgb": "R107G84B88",
+  "hex": "#6B5458",
+  "cmyk_rgb_delta": 27,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   21,
+   40,
+   287
+  ],
+  "flags": [],
+  "meaning": "合乎“玄天”，预示着天地洪荒，混沌未明，玄之又玄，众妙之门。",
+  "meaning_pages": [
+   21,
+   40
+  ],
+  "meaning_source": "《老子》（道德经）",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "黄河琉璃",
+  "index_name": "黄河琉璃",
+  "chapter": "雨水",
+  "cmyk": "C10M40Y75K0",
+  "rgb": "R229G168B75",
+  "hex": "#E5A84B",
+  "cmyk_rgb_delta": 15,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   22,
+   42,
+   288
+  ],
+  "flags": [
+   "典故两模型不一致(89%)",
+   "典故两模型不一致(89%)"
+  ],
+  "meaning": "起于“黄河琉璃”，黄河孟津口放眼望去，波涛汹涌，大气磅礴，阳光照着黄河水，如同黄琉璃的颜色。",
+  "meaning_pages": [
+   22,
+   42
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 0.892
+ },
+ {
+  "name": "库金",
+  "index_name": "库金",
+  "chapter": "雨水",
+  "cmyk": "C10M55Y80K0",
+  "rgb": "R225G138B59",
+  "hex": "#E18A3B",
+  "cmyk_rgb_delta": 23,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   22,
+   42,
+   288
+  ],
+  "flags": [
+   "典故两模型不一致(82%)",
+   "典故两模型不一致(82%)"
+  ],
+  "meaning": "承之“库金”，足金之色，成色有保证，沉稳踏实。",
+  "meaning_pages": [
+   22,
+   42
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 0.821
+ },
+ {
+  "name": "缊韨",
+  "index_name": "缊韨",
+  "chapter": "雨水",
+  "cmyk": "C40M75Y85K15",
+  "rgb": "R152G79B49",
+  "hex": "#984F31",
+  "cmyk_rgb_delta": 25,
+  "votes": 2,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   22,
+   290
+  ],
+  "flags": [
+   "典故两模型不一致(91%)",
+   "典故两模型不一致(91%)"
+  ],
+  "meaning": "转而“缊韨”，茜草染的赤黄色为缊，跪拜用的腰间围裙为韨，这是子爵男爵大夫的贵族服色。",
+  "meaning_pages": [
+   22
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 0.909
+ },
+ {
+  "name": "紫氤",
+  "index_name": "紫氤",
+  "chapter": "雨水",
+  "cmyk": "C50M75Y100K25",
+  "rgb": "R124G70B30",
+  "hex": "#7C461E",
+  "cmyk_rgb_delta": null,
+  "votes": 0,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   22
+  ],
+  "flags": [
+   "色值经序列对齐推定（索引「紫氤」在正文中读作「紫瓯」，值取自书页 22）"
+  ],
+  "meaning": "",
+  "meaning_pages": [],
+  "meaning_source": "",
+  "meaning_agreement": null
+ },
+ {
+  "name": "欧碧",
+  "index_name": "欧碧",
+  "chapter": "雨水",
+  "cmyk": "C30M5Y50K0",
+  "rgb": "R192G214B149",
+  "hex": "#C0D695",
+  "cmyk_rgb_delta": 28,
+  "votes": 4,
+  "read_deviation": 9,
+  "near_names": [],
+  "pages": [
+   22,
+   44,
+   281
+  ],
+  "flags": [
+   "CMYK有2种读法",
+   "RGB有2种读法",
+   "典故两模型不一致(88%)",
+   "典故两模型不一致(88%)"
+  ],
+  "meaning": "起于“欧碧”，绿牡丹，古来稀，价在牡丹花王“姚黄”之上，此色贵矣。",
+  "meaning_pages": [
+   22,
+   44
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 0.881
+ },
+ {
+  "name": "春辰",
+  "index_name": "春辰",
+  "chapter": "雨水",
+  "cmyk": "C40M15Y60K0",
+  "rgb": "R169G190B123",
+  "hex": "#A9BE7B",
+  "cmyk_rgb_delta": 27,
+  "votes": 5,
+  "read_deviation": 40,
+  "near_names": [],
+  "pages": [
+   22,
+   44,
+   281
+  ],
+  "flags": [
+   "RGB有2种读法",
+   "典故两模型不一致(91%)",
+   "典故两模型不一致(91%)"
+  ],
+  "meaning": "承之“春辰”，呼应春天的辰星之色，浩荡宇宙中给出了春天的暗示，一点点希望，一点微芒。",
+  "meaning_pages": [
+   22,
+   44
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 0.909
+ },
+ {
+  "name": "碧山",
+  "index_name": "碧山",
+  "chapter": "雨水",
+  "cmyk": "C60M30Y85K0",
+  "rgb": "R119G150B73",
+  "hex": "#779649",
+  "cmyk_rgb_delta": 35,
+  "votes": 8,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   13,
+   22,
+   44,
+   281
+  ],
+  "flags": [
+   "典故两模型不一致(92%)",
+   "典故两模型不一致(92%)"
+  ],
+  "meaning": "转而“碧山”，“我见青山多妩媚，料青山见我应如是”，相看两不厌，一个生命礼敬另一个生命的端正。",
+  "meaning_pages": [
+   22,
+   44
+  ],
+  "meaning_source": "辛弃疾《贺新郎》",
+  "meaning_agreement": 0.92
+ },
+ {
+  "name": "青青",
+  "index_name": "青青",
+  "chapter": "雨水",
+  "cmyk": "C75M50Y85K5",
+  "rgb": "R79G111B70",
+  "hex": "#4F6F46",
+  "cmyk_rgb_delta": 34,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   22,
+   44,
+   281
+  ],
+  "flags": [
+   "典故两模型不一致(88%)",
+   "典故两模型不一致(88%)"
+  ],
+  "meaning": "合乎“青青”，一青再青，缘于纯正，绿到不染不假，恨不得放到最亲最爱的人的衣领上。",
+  "meaning_pages": [
+   22,
+   44
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 0.877
+ },
+ {
+  "name": "赤缇",
+  "index_name": "赤缇",
+  "chapter": "惊蛰",
+  "cmyk": "C30M75Y70K0",
+  "rgb": "R186G91B73",
+  "hex": "#BA5B49",
+  "cmyk_rgb_delta": 27,
+  "votes": 3,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   22,
+   46
+  ],
+  "flags": [
+   "典故两模型不一致(90%)",
+   "典故两模型不一致(90%)"
+  ],
+  "meaning": "起于“赤缇”，寓意农事的精耕细作，种子生长在红土滋沃的环境，想必后面是丰收景象。",
+  "meaning_pages": [
+   22,
+   46,
+   284
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 0.904
+ },
+ {
+  "name": "朱草",
+  "index_name": "朱草",
+  "chapter": "惊蛰",
+  "cmyk": "C35M85Y80K10",
+  "rgb": "R166G64B54",
+  "hex": "#A64036",
+  "cmyk_rgb_delta": 30,
+  "votes": 3,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   22,
+   46
+  ],
+  "flags": [],
+  "meaning": "承之“朱草”，凤凰和麒麟出场的背景颜色，太平祥瑞，且合于神仙梦，又恨不得做一件此种颜色的时尚吉服了。",
+  "meaning_pages": [
+   22,
+   46,
+   284
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 0.925
+ },
+ {
+  "name": "綪茷",
+  "index_name": "綪茷",
+  "chapter": "惊蛰",
+  "cmyk": "C40M95Y100K10",
+  "rgb": "R158G42B34",
+  "hex": "#9E2A22",
+  "cmyk_rgb_delta": 34,
+  "votes": 2,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   22,
+   46
+  ],
+  "flags": [
+   "典故两模型不一致(89%)",
+   "典故两模型不一致(89%)"
+  ],
+  "meaning": "转而“綪茷”，红色大旗在风中猎猎招展的样子，其高亢引领的预示不言而喻。",
+  "meaning_pages": [
+   22,
+   46,
+   284
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 0.889
+ },
+ {
+  "name": "顺圣",
+  "index_name": "顺圣",
+  "chapter": "惊蛰",
+  "cmyk": "C50M100Y100K25",
+  "rgb": "R124G25B30",
+  "hex": "#7C191E",
+  "cmyk_rgb_delta": 30,
+  "votes": 3,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   22,
+   46
+  ],
+  "flags": [],
+  "meaning": "合乎“顺圣”，北宋神宗朝色，或者说“潮色”，圣上的潮流色鲜赤近紫，正如其庙号“神宗”，神乎其神，莫能其言。",
+  "meaning_pages": [
+   22,
+   46
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 0.929
+ },
+ {
+  "name": "桃夭",
+  "index_name": "桃夭",
+  "chapter": "惊蛰",
+  "cmyk": "C0M35Y10K0",
+  "rgb": "R246G190B200",
+  "hex": "#F6BEC8",
+  "cmyk_rgb_delta": 30,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   23,
+   48,
+   285
+  ],
+  "flags": [],
+  "meaning": "起于“桃夭”，桃之夭夭，跑掉的不是缘分，跑不掉的是适宜娶回家的人，这个颜色适用于宜室宜家的婚庆场景。",
+  "meaning_pages": [
+   23,
+   48,
+   285
+  ],
+  "meaning_source": "《诗经·周南·桃夭》",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "杨妃",
+  "index_name": "杨妃",
+  "chapter": "惊蛰",
+  "cmyk": "C0M55Y20K0",
+  "rgb": "R240G145B160",
+  "hex": "#F091A0",
+  "cmyk_rgb_delta": 44,
+  "votes": 6,
+  "read_deviation": 10,
+  "near_names": [],
+  "pages": [
+   23,
+   48,
+   285
+  ],
+  "flags": [
+   "CMYK有2种读法"
+  ],
+  "meaning": "承之“杨妃”，妃色附着于杨贵妃，更加悱恻缠绵，更难得的是，一种颜色的来历有矿石的刚、牡丹的贵、锦裙的柔，还有瓷的雅。",
+  "meaning_pages": [
+   23,
+   48,
+   285
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "长春",
+  "index_name": "长春",
+  "chapter": "惊蛰",
+  "cmyk": "C10M70Y30K0",
+  "rgb": "R220G107B130",
+  "hex": "#DC6B82",
+  "cmyk_rgb_delta": 48,
+  "votes": 7,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   23,
+   48,
+   285
+  ],
+  "flags": [],
+  "meaning": "转而“长春”，青春长驻之色，宋朝人在诗歌里轮番咏颂这个颜色，要知道宋代是中国美学的高峰。",
+  "meaning_pages": [
+   23,
+   48,
+   285
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "牙绯",
+  "index_name": "牙绯",
+  "chapter": "惊蛰",
+  "cmyk": "C25M75Y55K0",
+  "rgb": "R195G92B93",
+  "hex": "#C35C5D",
+  "cmyk_rgb_delta": 28,
+  "votes": 7,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   23,
+   48,
+   296
+  ],
+  "flags": [],
+  "meaning": "合乎“牙绯”，绯色是官色，牙笏与绯服是唐朝人的成功标志，赐绯如同白日梦，借绯也要挤进去。",
+  "meaning_pages": [
+   23,
+   48,
+   296
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "黄栗留",
+  "index_name": "黄栗留",
+  "chapter": "惊蛰",
+  "cmyk": "C0M15Y70K0",
+  "rgb": "R254G220B94",
+  "hex": "#FEDC5E",
+  "cmyk_rgb_delta": 17,
+  "votes": 6,
+  "read_deviation": 30,
+  "near_names": [],
+  "pages": [
+   23,
+   50,
+   288
+  ],
+  "flags": [
+   "RGB有2种读法"
+  ],
+  "meaning": "起于“黄栗留”，翩翩黄鹂鸟的身影，杜甫去探访武侯祠，正是“映阶碧草自春色，隔叶黄鹂空好音”。",
+  "meaning_pages": [
+   23,
+   50
+  ],
+  "meaning_source": "杜甫《蜀相》",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "栀子",
+  "index_name": "栀子",
+  "chapter": "惊蛰",
+  "cmyk": "C0M30Y80K0",
+  "rgb": "R250G192B61",
+  "hex": "#FAC03D",
+  "cmyk_rgb_delta": 14,
+  "votes": 9,
+  "read_deviation": 10,
+  "near_names": [],
+  "pages": [
+   1,
+   23,
+   50,
+   287
+  ],
+  "flags": [
+   "CMYK有2种读法"
+  ],
+  "meaning": "C0 M30 Y80 K0 R250 G192 B61",
+  "meaning_pages": [
+   1,
+   23,
+   50
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "黄不老",
+  "index_name": "黄不老",
+  "chapter": "惊蛰",
+  "cmyk": "C15M45Y85K0",
+  "rgb": "R219G155B52",
+  "hex": "#DB9B34",
+  "cmyk_rgb_delta": 15,
+  "votes": 7,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   23,
+   50,
+   288
+  ],
+  "flags": [],
+  "meaning": "转而“黄不老”，调皮了一下，不老是檗的转音，黄檗榨染着色是古老传统，黄檗也被收入了日本传统色。",
+  "meaning_pages": [
+   23,
+   50
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "柘黄",
+  "index_name": "柘黄",
+  "chapter": "惊蛰",
+  "cmyk": "C25M60Y100K0",
+  "rgb": "R198G121B21",
+  "hex": "#C67915",
+  "cmyk_rgb_delta": 21,
+  "votes": 5,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   23,
+   50,
+   288
+  ],
+  "flags": [],
+  "meaning": "合乎“柘黄”，这是本篇迄今最尊贵的颜色，黄袍加身，欧阳玄研究睡眠比较早，他说“陈桥一夜柘袍黄，天下都无鼾睡床”，看来这个颜色不宜做睡衣。",
+  "meaning_pages": [
+   23,
+   50
+  ],
+  "meaning_source": "欧阳玄",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "青鸾",
+  "index_name": "青鸾",
+  "chapter": "惊蛰",
+  "cmyk": "C45M30Y25K0",
+  "rgb": "R154G167B177",
+  "hex": "#9AA7B1",
+  "cmyk_rgb_delta": 14,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   23,
+   52,
+   294
+  ],
+  "flags": [],
+  "meaning": "起于“青鸾”，这也是皇家色，因为青鸾是西王母的青鸟，在皇家色里面辈分比较高，而且高到云端。",
+  "meaning_pages": [
+   23,
+   52,
+   294
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "菘蓝",
+  "index_name": "菘蓝",
+  "chapter": "惊蛰",
+  "cmyk": "C65M50Y35K0",
+  "rgb": "R107G121B142",
+  "hex": "#6B798E",
+  "cmyk_rgb_delta": 24,
+  "votes": 4,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   23,
+   52,
+   294
+  ],
+  "flags": [],
+  "meaning": "承之“菘蓝”，菘蓝的叶子沤浸着色是古老传统，青出于蓝而胜于蓝，这是青云直上的胎床。",
+  "meaning_pages": [
+   23,
+   52,
+   294
+  ],
+  "meaning_source": "《荀子·劝学》",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "青黛",
+  "index_name": "青黛",
+  "chapter": "惊蛰",
+  "cmyk": "C80M75Y50K15",
+  "rgb": "R69G70B94",
+  "hex": "#45465E",
+  "cmyk_rgb_delta": 26,
+  "votes": 7,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   23,
+   52,
+   293
+  ],
+  "flags": [],
+  "meaning": "转而“青黛”，菘蓝的叶子干燥可以制成药物或者化妆品，春情春意都浓烈，于春天最合乎时宜的句子是“二月春雨和春泥，半山青黛半山稀”。",
+  "meaning_pages": [
+   23,
+   52
+  ],
+  "meaning_source": "王质《山行》",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "绀蝶",
+  "index_name": "绀蝶",
+  "chapter": "惊蛰",
+  "cmyk": "C85M80Y65K40",
+  "rgb": "R44G47B59",
+  "hex": "#2C2F3B",
+  "cmyk_rgb_delta": 21,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   23,
+   52,
+   293
+  ],
+  "flags": [],
+  "meaning": "合乎“绀蝶”，闺房色，召郎婿。乾隆帝在消夏时惊艳于这个颜色的蝴蝶，入帝王眼的颜色自然也有贵气。",
+  "meaning_pages": [
+   23,
+   52
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "暾玉",
+  "index_name": "暾玉",
+  "chapter": "春分",
+  "cmyk": "",
+  "rgb": "",
+  "hex": "",
+  "cmyk_rgb_delta": null,
+  "votes": 0,
+  "read_deviation": null,
+  "near_names": [
+   "皦玉",
+   "皎玉"
+  ],
+  "pages": [],
+  "flags": [
+   "缺少数值",
+   "名称待核对(近似:皦玉/皎玉)"
+  ],
+  "meaning": "起于“暾玉”，这不是一块玉，而是明明白白一颗心，《诗经》讲“榖则异室，死则同穴。谓予不信，有如暾日”——活着不能在一室，死后同埋一穴，我说的话你不信，就让白晃晃的太阳做证。",
+  "meaning_pages": [
+   24
+  ],
+  "meaning_source": "《诗经》",
+  "meaning_agreement": null
+ },
+ {
+  "name": "吉量",
+  "index_name": "吉量",
+  "chapter": "春分",
+  "cmyk": "C10M5Y15K0",
+  "rgb": "R235G237B223",
+  "hex": "#EBEDDF",
+  "cmyk_rgb_delta": 6,
+  "votes": 2,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   24
+  ],
+  "flags": [],
+  "meaning": "承之“吉量”，来自《山海经》里文马吉量的毛色，骑吉量可以寿千年，这是寿比南山不老松的颜色。",
+  "meaning_pages": [
+   24,
+   54
+  ],
+  "meaning_source": "《山海经》",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "韶粉",
+  "index_name": "韶粉",
+  "chapter": "春分",
+  "cmyk": "C15M10Y20K0",
+  "rgb": "R224G224B208",
+  "hex": "#E0E0D0",
+  "cmyk_rgb_delta": 7,
+  "votes": 2,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   24
+  ],
+  "flags": [],
+  "meaning": "C15 M10 Y20 K0 R224 G224 B208",
+  "meaning_pages": [
+   1,
+   24,
+   54
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "霜地",
+  "index_name": "霜地",
+  "chapter": "春分",
+  "cmyk": "C20M15Y25K10",
+  "rgb": "R199G198B182",
+  "hex": "#C7C6B6",
+  "cmyk_rgb_delta": 15,
+  "votes": 3,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   24,
+   54
+  ],
+  "flags": [],
+  "meaning": "合乎“霜地”，百般描述都不如李白一句“床前明月光，疑是地上霜”，这是我想你的颜色。",
+  "meaning_pages": [
+   24,
+   54
+  ],
+  "meaning_source": "李白",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "夏籥",
+  "index_name": "夏籥",
+  "chapter": "春分",
+  "cmyk": "C20M35Y35K0",
+  "rgb": "R210G175B157",
+  "hex": "#D2AF9D",
+  "cmyk_rgb_delta": 9,
+  "votes": 4,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   24,
+   56,
+   290
+  ],
+  "flags": [],
+  "meaning": "起于“夏籥”，出自雅乐《夏籥》，雅乐舞蹈中的文舞是持龠翟而舞，相对的武舞是持干戚而舞，以文德得天下则做文舞，以武功得天下则做武舞，这是推崇夏禹以文德收天下心的颜色。",
+  "meaning_pages": [
+   24,
+   56
+  ],
+  "meaning_source": "雅乐《夏籥》",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "紫磨金",
+  "index_name": "紫磨金",
+  "chapter": "春分",
+  "cmyk": "C30M55Y55K0",
+  "rgb": "R188G131B107",
+  "hex": "#BC836B",
+  "cmyk_rgb_delta": 16,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   24,
+   56,
+   290
+  ],
+  "flags": [],
+  "meaning": "承之“紫磨金”，想当年唐玄宗在杨贵妃的鬓角上亲手插上紫磨金的步摇，其情其景动人心魄。",
+  "meaning_pages": [
+   24,
+   56
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "檀色",
+  "index_name": "檀色",
+  "chapter": "春分",
+  "cmyk": "C35M65Y60K0",
+  "rgb": "R178G109B93",
+  "hex": "#B26D5D",
+  "cmyk_rgb_delta": 20,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   24,
+   56,
+   290
+  ],
+  "flags": [],
+  "meaning": "转而“檀色”，檀出自梵语，意思是布施，檀木不朽，慈悲心也是不灭的。",
+  "meaning_pages": [
+   24,
+   56
+  ],
+  "meaning_source": "梵语",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "赭罗",
+  "index_name": "赭罗",
+  "chapter": "春分",
+  "cmyk": "C45M65Y65K5",
+  "rgb": "R154G102B85",
+  "hex": "#9A6655",
+  "cmyk_rgb_delta": 21,
+  "votes": 3,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   24,
+   56,
+   290
+  ],
+  "flags": [],
+  "meaning": "合乎“赭罗”，辛弃疾说这是猩猩血的颜色，齐桓公问管子：“天财所出，地利所在？”管子回答：“赭土之下是宝贵的铁矿。”这也是宝矿的颜色。",
+  "meaning_pages": [
+   24,
+   56
+  ],
+  "meaning_source": "辛弃疾、管子",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "黄丹",
+  "index_name": "黄丹",
+  "chapter": "春分",
+  "cmyk": "C0M80Y95K0",
+  "rgb": "R234G85B20",
+  "hex": "#EA5514",
+  "cmyk_rgb_delta": 34,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   24,
+   58,
+   283
+  ],
+  "flags": [],
+  "meaning": "起于“黄丹”，中国炼丹的神仙色，也是日本储君的服色，既仙且贵。",
+  "meaning_pages": [
+   24,
+   58
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "洛神珠",
+  "index_name": "洛神珠",
+  "chapter": "春分",
+  "cmyk": "C15M90Y100K0",
+  "rgb": "R210G57B24",
+  "hex": "#D23918",
+  "cmyk_rgb_delta": 32,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   24,
+   58,
+   283
+  ],
+  "flags": [],
+  "meaning": "承之“洛神珠”，绛珠草的果实色，绛珠草是《红楼梦》里林妹妹的前身，纳兰性德也夸过这个灵气才女的颜色，“樱唇微绽，靺鞨红殷。故宫事往凭谁问，无恙是朱颜”。",
+  "meaning_pages": [
+   24,
+   58
+  ],
+  "meaning_source": "《红楼梦》、纳兰性德",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "丹罽",
+  "index_name": "丹罽",
+  "chapter": "春分",
+  "cmyk": "C0M100Y100K0",
+  "rgb": "R230G0B18",
+  "hex": "#E60012",
+  "cmyk_rgb_delta": 25,
+  "votes": 3,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   85,
+   100,
+   283
+  ],
+  "flags": [],
+  "meaning": "合乎“丹罽”，寻得这个颜色时，和寻得檎丹时一样开心，“丹罽”是“枝头荔枝红”的雅称。",
+  "meaning_pages": [
+   85,
+   100
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "水华朱",
+  "index_name": "水华朱",
+  "chapter": "春分",
+  "cmyk": "C40M100Y100K0",
+  "rgb": "R167G33B38",
+  "hex": "#A72126",
+  "cmyk_rgb_delta": 38,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   24,
+   58,
+   283
+  ],
+  "flags": [],
+  "meaning": "合乎“水华朱”，真银朱色也，不褪色、不畏虫而成为中国画的印泥见证色，降阴阳、济水火而成为扶危拯救的中药。",
+  "meaning_pages": [
+   24,
+   58
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "青冥",
+  "index_name": "青冥",
+  "chapter": "春分",
+  "cmyk": "C80M50Y10K0",
+  "rgb": "R50G113B174",
+  "hex": "#3271AE",
+  "cmyk_rgb_delta": 56,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   25,
+   60,
+   292
+  ],
+  "flags": [],
+  "meaning": "起于“青冥”，青冥是高高的天色，天高不可测，建安七子之一的徐干说从青冥这样的高天再往上望，就可以望到大顶了。",
+  "meaning_pages": [
+   25,
+   60
+  ],
+  "meaning_source": "徐干",
+  "meaning_agreement": 0.926
+ },
+ {
+  "name": "青濩",
+  "index_name": "青濩",
+  "chapter": "春分",
+  "cmyk": "C95M45Y55K0",
+  "rgb": "R0G113B117",
+  "hex": "#007175",
+  "cmyk_rgb_delta": 27,
+  "votes": 1,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   25
+  ],
+  "flags": [
+   "共识不足(1票)"
+  ],
+  "meaning": "承之“青濩”，出自《山海经》的颜色，“青丘之山，其阳多玉，其阴多青濩”，从此就有了丹青。",
+  "meaning_pages": [
+   25,
+   60
+  ],
+  "meaning_source": "《山海经》",
+  "meaning_agreement": 0.989
+ },
+ {
+  "name": "青涡",
+  "index_name": "青涡",
+  "chapter": "春分",
+  "cmyk": "C90M75Y65K10",
+  "rgb": "R40G72B82",
+  "hex": "#284852",
+  "cmyk_rgb_delta": 17,
+  "votes": 1,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   25
+  ],
+  "flags": [
+   "共识不足(1票)"
+  ],
+  "meaning": "",
+  "meaning_pages": [],
+  "meaning_source": "",
+  "meaning_agreement": null
+ },
+ {
+  "name": "骐驎",
+  "index_name": "骐驎",
+  "chapter": "春分",
+  "cmyk": "C100M95Y50K25",
+  "rgb": "R18G38B79",
+  "hex": "#12264F",
+  "cmyk_rgb_delta": 28,
+  "votes": 4,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   25,
+   60,
+   293
+  ],
+  "flags": [
+   "典故两模型不一致(21%)",
+   "典故两模型不一致(21%)"
+  ],
+  "meaning": "通麒麟，以麒麟指良驹，其色青骊，其意千里。《诗经·鲁颂·駉》曰“駉駉牡马，在埛之野。薄言駉者，有骓有駓，有骃有骐，以车伾伾”。许慎《说文解字·马部》曰“骐，马青骊，文如博棋也”。《东方朔传》曰“骐驎、绿耳、蜚鸿、华骝，天下良马也”。杜甫《偶题》咏“骕骦皆良马，骐驎带好儿”，又《骢马行》咏“近闻下诏喧都邑，肯使骐驎地上行”。李商隐《无愁果有愁曲北齐歌》咏“骐驎踏云天马狞，牛山撼碎珊瑚声”。高适《九曲词三首》咏“万骑争歌杨柳春，千场对舞绣骐驎”。",
+  "meaning_pages": [
+   60
+  ],
+  "meaning_source": "《诗经·鲁颂·駉》、许慎《说文解字·马部》、《东方朔传》、杜甫《偶题》、杜甫《骢马行》、李商隐《无愁果有愁曲北齐歌》、高适《九曲词三首》",
+  "meaning_agreement": 0.209
+ },
+ {
+  "name": "紫蒲",
+  "index_name": "紫蒲",
+  "chapter": "清明",
+  "cmyk": "C40M75Y0K0",
+  "rgb": "R166G85B157",
+  "hex": "#A6559D",
+  "cmyk_rgb_delta": 98,
+  "votes": 3,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   25,
+   62
+  ],
+  "flags": [
+   "CMYK与RGB不匹配(偏差98)"
+  ],
+  "meaning": "起于“紫蒲”，张籍讲“紫蒲生湿岸，青鸭戏新波”，让人萌生回到流水人家、夕烟田间的冲动，这是生灵脉脉有情的色彩。",
+  "meaning_pages": [
+   25,
+   62
+  ],
+  "meaning_source": "张籍诗",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "赫紫",
+  "index_name": "赫紫",
+  "chapter": "清明",
+  "cmyk": "C55M100Y20K0",
+  "rgb": "R138G24B116",
+  "hex": "#8A1874",
+  "cmyk_rgb_delta": null,
+  "votes": 0,
+  "read_deviation": null,
+  "near_names": [
+   "齐紫",
+   "赬紫",
+   "赪紫"
+  ],
+  "pages": [
+   25
+  ],
+  "flags": [
+   "名称待核对(近似:齐紫/赬紫/赪紫)",
+   "色值经序列对齐推定（索引「赫紫」在正文中读作「赧紫」，值取自书页 25）"
+  ],
+  "meaning": "",
+  "meaning_pages": [],
+  "meaning_source": "",
+  "meaning_agreement": null
+ },
+ {
+  "name": "齐紫",
+  "index_name": "齐紫",
+  "chapter": "清明",
+  "cmyk": "C70M100Y30K0",
+  "rgb": "R108G33B109",
+  "hex": "#6C216D",
+  "cmyk_rgb_delta": 69,
+  "votes": 3,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   25,
+   62
+  ],
+  "flags": [
+   "CMYK与RGB不匹配(偏差69)"
+  ],
+  "meaning": "转而“齐紫”，齐王好紫衣，国中无异色，颜色贵乎材质，更贵乎心理，这是权贵色的经典故事。",
+  "meaning_pages": [
+   25,
+   62
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "凝夜紫",
+  "index_name": "凝夜紫",
+  "chapter": "清明",
+  "cmyk": "C85M100Y45K15",
+  "rgb": "R66G34B86",
+  "hex": "#422256",
+  "cmyk_rgb_delta": 34,
+  "votes": 3,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   25,
+   62
+  ],
+  "flags": [],
+  "meaning": "合乎“凝夜紫”，如果《权力的游戏》有一个中国版本，北境的画面该是这种色调吧，这是生命呜咽悲歌的色彩，一定有长城，有角声，有白龙。",
+  "meaning_pages": [
+   25,
+   62
+  ],
+  "meaning_source": "《权力的游戏》",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "冻缥",
+  "index_name": "冻缥",
+  "chapter": "清明",
+  "cmyk": "C30M20Y30K0",
+  "rgb": "R190G194B179",
+  "hex": "#BEC2B3",
+  "cmyk_rgb_delta": 12,
+  "votes": 4,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   25,
+   64,
+   295
+  ],
+  "flags": [],
+  "meaning": "起于“冻缥”，寂静的春夜，一杯冰冰的淡色青酒，还应该有琴箫合吟，这个颜色与魏晋的竹林七贤相配，与古龙的《小李飞刀》更配。",
+  "meaning_pages": [
+   25,
+   64
+  ],
+  "meaning_source": "《小李飞刀》",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "春碧",
+  "index_name": "春碧",
+  "chapter": "清明",
+  "cmyk": "C45M35Y50K0",
+  "rgb": "R157G157B130",
+  "hex": "#9D9D82",
+  "cmyk_rgb_delta": 17,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   25,
+   64,
+   282
+  ],
+  "flags": [],
+  "meaning": "承之“春碧”，依然是寂寂空庭，依然是漫卷诗书，问一声“谁与细倾春碧”，陆游隔空回一句“东楼谁记”，这是何等孤高的颜色。",
+  "meaning_pages": [
+   25,
+   64,
+   282
+  ],
+  "meaning_source": "陆游诗",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "执大象",
+  "index_name": "执大象",
+  "chapter": "清明",
+  "cmyk": "C50M40Y55K0",
+  "rgb": "R145G145B119",
+  "hex": "#919177",
+  "cmyk_rgb_delta": 17,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   25,
+   64,
+   282
+  ],
+  "flags": [],
+  "meaning": "转而“执大象”，中国人的终极真理曰道，道可道，非常道，一旦洞悉天地的运行法则，就会进入不惑不怨、不忧不惧的境地。",
+  "meaning_pages": [
+   25,
+   64,
+   282
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "苔古",
+  "index_name": "苔古",
+  "chapter": "清明",
+  "cmyk": "C60M45Y60K0",
+  "rgb": "R121G131B108",
+  "hex": "#79836C",
+  "cmyk_rgb_delta": 19,
+  "votes": 5,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   25,
+   64,
+   283
+  ],
+  "flags": [
+   "典故两模型不一致(6%)",
+   "典故两模型不一致(6%)"
+  ],
+  "meaning": "合乎“苔古”，在唐太宗《过旧宅二首》的得意句子句里，往事并不如烟，这是不动声色的大人物颜色。",
+  "meaning_pages": [
+   25,
+   64
+  ],
+  "meaning_source": "《过旧宅二首》",
+  "meaning_agreement": 0.058
+ },
+ {
+  "name": "香炉紫烟",
+  "index_name": "香炉紫烟",
+  "chapter": "清明",
+  "cmyk": "C20M20Y10K0",
+  "rgb": "R211G204B214",
+  "hex": "#D3CCD6",
+  "cmyk_rgb_delta": 16,
+  "votes": 4,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   26,
+   287
+  ],
+  "flags": [],
+  "meaning": "起于“香炉紫烟”，李白的袍子应该是这个颜色吧，这样他就会融化在庐山的气里、炉火的影里、神仙的梦里。",
+  "meaning_pages": [
+   26,
+   66
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "紫药",
+  "index_name": "紫药",
+  "chapter": "清明",
+  "cmyk": "",
+  "rgb": "",
+  "hex": "",
+  "cmyk_rgb_delta": null,
+  "votes": 0,
+  "read_deviation": null,
+  "near_names": [
+   "齐紫",
+   "赬紫",
+   "赪紫"
+  ],
+  "pages": [],
+  "flags": [
+   "缺少数值",
+   "名称待核对(近似:齐紫/赬紫/赪紫)"
+  ],
+  "meaning": "",
+  "meaning_pages": [],
+  "meaning_source": "",
+  "meaning_agreement": null
+ },
+ {
+  "name": "拂紫绵",
+  "index_name": "拂紫绵",
+  "chapter": "清明",
+  "cmyk": "C60M75Y30K0",
+  "rgb": "R126G82B127",
+  "hex": "#7E527F",
+  "cmyk_rgb_delta": 51,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   26,
+   66,
+   287
+  ],
+  "flags": [],
+  "meaning": "转而“拂紫绵”，“铜镜立青鸾，燕脂拂紫绵”，白皙纤手和胭脂紫绵，女为悦己者容。",
+  "meaning_pages": [
+   26,
+   66
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "三公子",
+  "index_name": "三公子",
+  "chapter": "清明",
+  "cmyk": "C70M85Y30K5",
+  "rgb": "R102G61B116",
+  "hex": "#663D74",
+  "cmyk_rgb_delta": 54,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   26,
+   66,
+   287
+  ],
+  "flags": [],
+  "meaning": "合乎“三公子”，三公子和五品绯都是庙堂，盛唐气象，服色夺目，长安城里的尊贵。",
+  "meaning_pages": [
+   26,
+   66
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "琅玕紫",
+  "index_name": "琅玕紫",
+  "chapter": "清明",
+  "cmyk": "C20M75Y25K0",
+  "rgb": "R203G92B131",
+  "hex": "#CB5C83",
+  "cmyk_rgb_delta": 60,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   26,
+   68,
+   286
+  ],
+  "flags": [],
+  "meaning": "起于“琅玕紫”，鬼才李贺笔下的颜色永远是不可思议却又挥之不去的，这是公主面上的醉意酒色，谁说过最好的生活是醉生梦死。",
+  "meaning_pages": [
+   26,
+   68,
+   286
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "红踯躅",
+  "index_name": "红踯躅",
+  "chapter": "清明",
+  "cmyk": "C30M90Y30K0",
+  "rgb": "R184G53B112",
+  "hex": "#B83570",
+  "cmyk_rgb_delta": 66,
+  "votes": 2,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   26,
+   68
+  ],
+  "flags": [
+   "CMYK与RGB不匹配(偏差66)",
+   "典故两模型不一致(4%)",
+   "典故两模型不一致(4%)"
+  ],
+  "meaning": "即杜鹃花。韩愈《送侯参谋赴河中幕》咏“三月崧少步，踯躅红千层”。白居易《题元八溪居》咏“晚叶尚开红踯躅，秋芳初结白芙蓉”。郭祥正《族人春饮》咏“火焰高低红踯躅，绣龙浓淡小蔷薇”。陈造《再次韵答许节推二首》咏“东风已拆红踯躅，碧树更啼黄栗留”。纪曾澡《在荔浦忆水福芸毛》咏“霜痕染树红踯躅，山影浸江青凤凰”。周之琦《酒泉子》咏“紫徘徊，红踯躅。唤春归”。樊增祥《浣溪沙》咏“鹃血啼成红踯躅，蕉心幻出绿摩登”。",
+  "meaning_pages": [
+   68,
+   286
+  ],
+  "meaning_source": "韩愈《送侯参谋赴河中幕》、白居易《题元八溪居》、郭祥正《族人春饮》、陈造《再次韵答许节推二首》、纪曾澡《在荔浦忆水福芸毛》、周之琦《酒泉子》、樊增祥《浣溪沙》",
+  "meaning_agreement": 0.04
+ },
+ {
+  "name": "魏红",
+  "index_name": "魏红",
+  "chapter": "清明",
+  "cmyk": "C40M90Y40K0",
+  "rgb": "R167G55B102",
+  "hex": "#A73766",
+  "cmyk_rgb_delta": 51,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   26,
+   68,
+   286
+  ],
+  "flags": [],
+  "meaning": "转而“魏红”，牡丹花后之国色，姚黄魏红是升平景象。",
+  "meaning_pages": [
+   26,
+   68,
+   286
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "魏紫",
+  "index_name": "魏紫",
+  "chapter": "清明",
+  "cmyk": "C50M90Y55K5",
+  "rgb": "R144G55B84",
+  "hex": "#903754",
+  "cmyk_rgb_delta": 31,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   26,
+   68,
+   286
+  ],
+  "flags": [],
+  "meaning": "合乎“魏紫”，与“魏红”一脉相承，守本求变，一路奔向帝王们偏爱的紫色。",
+  "meaning_pages": [
+   26,
+   68,
+   286
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "昌荣",
+  "index_name": "昌荣",
+  "chapter": "谷雨",
+  "cmyk": "C15M25Y0K0",
+  "rgb": "R220G199B225",
+  "hex": "#DCC7E1",
+  "cmyk_rgb_delta": 30,
+  "votes": 2,
+  "read_deviation": 4,
+  "near_names": [],
+  "pages": [
+   26,
+   70
+  ],
+  "flags": [
+   "RGB有2种读法"
+  ],
+  "meaning": "起于“昌荣”，殷王女的传说，最妙是“既至山顶，寂寞无所见”，云中紫草，不见也罢，既昌且荣，必是好颜色。",
+  "meaning_pages": [
+   26,
+   70,
+   286
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "紫薄汗",
+  "index_name": "紫薄汗",
+  "chapter": "谷雨",
+  "cmyk": "C30M40Y0K0",
+  "rgb": "R187G161B203",
+  "hex": "#BBA1CB",
+  "cmyk_rgb_delta": 52,
+  "votes": 3,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   26,
+   70
+  ],
+  "flags": [],
+  "meaning": "承之“紫薄汗”，汗血宝马中的神品，汗色也是靠拢三公子，虽是薄薄渗出，足以论颜色。",
+  "meaning_pages": [
+   26,
+   70,
+   286
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "茈藐",
+  "index_name": "茈藐",
+  "chapter": "谷雨",
+  "cmyk": "C40M55Y0K0",
+  "rgb": "R166G126B183",
+  "hex": "#A67EB7",
+  "cmyk_rgb_delta": 72,
+  "votes": 3,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   26,
+   70
+  ],
+  "flags": [
+   "CMYK与RGB不匹配(偏差72)"
+  ],
+  "meaning": "转而“茈藐”，出自《山海经》的上古紫草，通神附灵，仿佛看到上空飞过、侧旁奔过那些令人心驰神往的奇鸟异兽。",
+  "meaning_pages": [
+   26,
+   70,
+   286
+  ],
+  "meaning_source": "《山海经》",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "紫絜",
+  "index_name": "紫絜",
+  "chapter": "谷雨",
+  "cmyk": "",
+  "rgb": "",
+  "hex": "",
+  "cmyk_rgb_delta": null,
+  "votes": 0,
+  "read_deviation": null,
+  "near_names": [
+   "紫紺",
+   "紫紶"
+  ],
+  "pages": [],
+  "flags": [
+   "缺少数值",
+   "名称待核对(近似:紫紺/紫紶)"
+  ],
+  "meaning": "",
+  "meaning_pages": [],
+  "meaning_source": "",
+  "meaning_agreement": null
+ },
+ {
+  "name": "苍葭",
+  "index_name": "苍葭",
+  "chapter": "谷雨",
+  "cmyk": "C40M15Y50K0",
+  "rgb": "R168G191B143",
+  "hex": "#A8BF8F",
+  "cmyk_rgb_delta": 26,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   27,
+   72,
+   281
+  ],
+  "flags": [],
+  "meaning": "起于“苍葭”，“蒹葭苍苍，白露为霜，所谓伊人，在水一方”，如张学友的《烟花句》一样美，“是你跟我说，让我清醒的句子，叫我不用为她再枉追”。",
+  "meaning_pages": [
+   27,
+   72
+  ],
+  "meaning_source": "《烟花句》",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "庭芜绿",
+  "index_name": "庭芜绿",
+  "chapter": "谷雨",
+  "cmyk": "C65M30Y75K0",
+  "rgb": "R104G148B92",
+  "hex": "#68945C",
+  "cmyk_rgb_delta": 30,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   27,
+   72,
+   281
+  ],
+  "flags": [],
+  "meaning": "承之“庭芜绿”，白居易的春庭三月半，李煜的风回柳眼春，都脱不了这一方小院嫩绿，不似小院东风，这是希望的颜色。",
+  "meaning_pages": [
+   27,
+   72
+  ],
+  "meaning_source": "白居易、李煜",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "翠微",
+  "index_name": "翠微",
+  "chapter": "谷雨",
+  "cmyk": "C75M40Y90K0",
+  "rgb": "R76G128B69",
+  "hex": "#4C8045",
+  "cmyk_rgb_delta": 44,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   27,
+   72,
+   281
+  ],
+  "flags": [],
+  "meaning": "转而“翠微”，山色翠，雾气微，深处白云乡，好一派诗情画意，这也是洗心的颜色。",
+  "meaning_pages": [
+   27,
+   72
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "翠虬",
+  "index_name": "翠虬",
+  "chapter": "谷雨",
+  "cmyk": "C80M55Y100K0",
+  "rgb": "R68G106B55",
+  "hex": "#446A37",
+  "cmyk_rgb_delta": 55,
+  "votes": 3,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   27,
+   72,
+   281
+  ],
+  "flags": [],
+  "meaning": "合乎“翠虬”，翠虬绛螭，都是文创产品感觉很强的陈设。",
+  "meaning_pages": [
+   27,
+   72
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "碧落",
+  "index_name": "碧落",
+  "chapter": "谷雨",
+  "cmyk": "C35M10Y0K0",
+  "rgb": "R174G208B238",
+  "hex": "#AED0EE",
+  "cmyk_rgb_delta": 22,
+  "votes": 5,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   27,
+   74,
+   292
+  ],
+  "flags": [],
+  "meaning": "起于“碧落”，“昔于始青天中，碧落空歌大浮黎土”，《渡人经》开篇就给出太空歌剧般的舞台，这是中国幻想的颜色。",
+  "meaning_pages": [
+   27,
+   74
+  ],
+  "meaning_source": "《渡人经》",
+  "meaning_agreement": 0.981
+ },
+ {
+  "name": "挼蓝",
+  "index_name": "挼蓝",
+  "chapter": "谷雨",
+  "cmyk": "C60M30Y10K0",
+  "rgb": "R110G155B197",
+  "hex": "#6E9BC5",
+  "cmyk_rgb_delta": 33,
+  "votes": 4,
+  "read_deviation": 26,
+  "near_names": [],
+  "pages": [
+   27,
+   74,
+   292
+  ],
+  "flags": [
+   "CMYK有2种读法",
+   "RGB有2种读法"
+  ],
+  "meaning": "承之“挼蓝”，中国传统的青绿山水，可以用石青、石绿，你梦中的山水画，可以有水挼蓝、山横黛，这是山水梦中的颜色。",
+  "meaning_pages": [
+   27,
+   74
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "青雀头黛",
+  "index_name": "青雀头黛",
+  "chapter": "谷雨",
+  "cmyk": "C85M70Y45K10",
+  "rgb": "R53G78B107",
+  "hex": "#354E6B",
+  "cmyk_rgb_delta": 19,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   27,
+   74,
+   294
+  ],
+  "flags": [],
+  "meaning": "转而“青雀头黛”，宫里用量大，河西献百斤。",
+  "meaning_pages": [
+   27,
+   74,
+   294
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "螺子黛",
+  "index_name": "螺子黛",
+  "chapter": "谷雨",
+  "cmyk": "C95M80Y75K25",
+  "rgb": "R19G57B62",
+  "hex": "#13393E",
+  "cmyk_rgb_delta": 19,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   27,
+   74,
+   293
+  ],
+  "flags": [],
+  "meaning": "合乎“螺子黛”，中古时代的海外进口奢侈品，据说《甄嬛传》《琅琊榜》都做了“植入广告”，那么必定是大牌的颜色了。",
+  "meaning_pages": [
+   27,
+   74
+  ],
+  "meaning_source": "《甄嬛传》《琅琊榜》",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "露褐",
+  "index_name": "露褐",
+  "chapter": "谷雨",
+  "cmyk": "C30M55Y70K0",
+  "rgb": "R189G130B83",
+  "hex": "#BD8253",
+  "cmyk_rgb_delta": 15,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   27,
+   76,
+   288
+  ],
+  "flags": [],
+  "meaning": "起于“露褐”，《碎金》和《南村辍耕录》遍录褐色之细目，叹为观止。",
+  "meaning_pages": [
+   27,
+   76
+  ],
+  "meaning_source": "《碎金》《南村辍耕录》",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "檀褐",
+  "index_name": "檀褐",
+  "chapter": "谷雨",
+  "cmyk": "C50M75Y90K0",
+  "rgb": "R148G86B53",
+  "hex": "#945635",
+  "cmyk_rgb_delta": 28,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   27,
+   76,
+   290
+  ],
+  "flags": [],
+  "meaning": "承之“檀褐”，宋元两代，褐色都是皇家禁色，这是传统色史纲的冷知识。",
+  "meaning_pages": [
+   27,
+   76
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "诹絺",
+  "index_name": "诹絺",
+  "chapter": "谷雨",
+  "cmyk": "C60M80Y100K0",
+  "rgb": "R128G76B46",
+  "hex": "#804C2E",
+  "cmyk_rgb_delta": null,
+  "votes": 0,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   27
+  ],
+  "flags": [
+   "色值经序列对齐推定（索引「诹絺」在正文中读作「緅絺」，值取自书页 27）"
+  ],
+  "meaning": "",
+  "meaning_pages": [],
+  "meaning_source": "",
+  "meaning_agreement": null
+ },
+ {
+  "name": "目童子",
+  "index_name": "目童子",
+  "chapter": "谷雨",
+  "cmyk": "C60M80Y90K40",
+  "rgb": "R91G50B34",
+  "hex": "#5B3222",
+  "cmyk_rgb_delta": 30,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   27,
+   76,
+   290
+  ],
+  "flags": [],
+  "meaning": "合乎“目童子”，中国人的瞳孔颜色，我们人种的典型特征。",
+  "meaning_pages": [
+   27,
+   76
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "青粲",
+  "index_name": "青粲",
+  "chapter": "立夏",
+  "cmyk": "C30M0Y80K0",
+  "rgb": "R195G217B78",
+  "hex": "#C3D94E",
+  "cmyk_rgb_delta": 38,
+  "votes": 1,
+  "read_deviation": 40,
+  "near_names": [],
+  "pages": [
+   84,
+   94
+  ],
+  "flags": [
+   "共识不足(1票)",
+   "CMYK有2种读法",
+   "RGB有2种读法"
+  ],
+  "meaning": "起于“青粲”，犹记得大学食堂以装滑轮的大浴缸售米饭，见过一缸小站新米，淡绿莹莹，清香沁润，或许大学的青春就是这个颜色。",
+  "meaning_pages": [
+   84,
+   94
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "翠缥",
+  "index_name": "翠缥",
+  "chapter": "立夏",
+  "cmyk": "C35M0Y90K0",
+  "rgb": "R183G211B50",
+  "hex": "#B7D332",
+  "cmyk_rgb_delta": 44,
+  "votes": 3,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   84,
+   94
+  ],
+  "flags": [],
+  "meaning": "承之“翠缥”，青云与翠烟，缥缈不定，得来是人间不值得的物哀与幽玄。",
+  "meaning_pages": [
+   84,
+   94
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "人籁",
+  "index_name": "人籁",
+  "chapter": "立夏",
+  "cmyk": "C45M10Y100K0",
+  "rgb": "R158G188B25",
+  "hex": "#9EBC19",
+  "cmyk_rgb_delta": 42,
+  "votes": 3,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   84,
+   94
+  ],
+  "flags": [],
+  "meaning": "转而“人籁”，唯有竹声称人籁，人籁总输天与地，远离机巧的人心可以是这个颜色。",
+  "meaning_pages": [
+   84,
+   94
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "水龙吟",
+  "index_name": "水龙吟",
+  "chapter": "立夏",
+  "cmyk": "C55M20Y100K0",
+  "rgb": "R132G167B41",
+  "hex": "#84A729",
+  "cmyk_rgb_delta": 41,
+  "votes": 3,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   84,
+   94
+  ],
+  "flags": [],
+  "meaning": "合乎“水龙吟”，龙吟水啸的意境，青峰入水，翠龙出潭，仿佛神龙见首不见尾。",
+  "meaning_pages": [
+   84,
+   94
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "地籁",
+  "index_name": "地籁",
+  "chapter": "立夏",
+  "cmyk": "C15M20Y30K0",
+  "rgb": "R223G206B180",
+  "hex": "#DFCEB4",
+  "cmyk_rgb_delta": 6,
+  "votes": 3,
+  "read_deviation": 2,
+  "near_names": [],
+  "pages": [
+   84,
+   96,
+   289
+  ],
+  "flags": [
+   "RGB有2种读法"
+  ],
+  "meaning": "起于“地籁”，这是大地之声的颜色，若能虚心听地籁，自有天意到桃源，弃圣绝智，回归大地母亲的怀抱。",
+  "meaning_pages": [
+   84,
+   96,
+   289
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "大块",
+  "index_name": "大块",
+  "chapter": "立夏",
+  "cmyk": "C30M35Y50K0",
+  "rgb": "R191G167B130",
+  "hex": "#BFA782",
+  "cmyk_rgb_delta": 13,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   84,
+   96,
+   289
+  ],
+  "flags": [],
+  "meaning": "承之“大块”，苍茫大地不仅是我们身体的母亲，也是我们精神的母亲。",
+  "meaning_pages": [
+   84,
+   96,
+   289
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "养生主",
+  "index_name": "养生主",
+  "chapter": "立夏",
+  "cmyk": "C35M40Y50K0",
+  "rgb": "R180G155B127",
+  "hex": "#B49B7F",
+  "cmyk_rgb_delta": 14,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   84,
+   96,
+   289
+  ],
+  "flags": [],
+  "meaning": "转而“养生主”，填平心里丘与壑，听水听松逍遥游，若能再多些求田问舍的好处，哪里有不长寿的道理。",
+  "meaning_pages": [
+   84,
+   96,
+   289
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "大云",
+  "index_name": "大云",
+  "chapter": "立夏",
+  "cmyk": "C50M55Y75K0",
+  "rgb": "R148G120B79",
+  "hex": "#94784F",
+  "cmyk_rgb_delta": 20,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   84,
+   96,
+   289
+  ],
+  "flags": [],
+  "meaning": "合乎“大云”，大地之精，补阳不燥，补阴不腻，常近此色必得好皮囊、好颜色。",
+  "meaning_pages": [
+   84,
+   96,
+   289
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "溶溶月",
+  "index_name": "溶溶月",
+  "chapter": "立夏",
+  "cmyk": "C30M20Y25K0",
+  "rgb": "R190G194B188",
+  "hex": "#BEC2BC",
+  "cmyk_rgb_delta": 12,
+  "votes": 5,
+  "read_deviation": 5,
+  "near_names": [],
+  "pages": [
+   84,
+   98,
+   295
+  ],
+  "flags": [
+   "CMYK有2种读法"
+  ],
+  "meaning": "起于“溶溶月”，月色温柔，一切尽在不言中，你融于我我融于你，花前月下你侬我侬。",
+  "meaning_pages": [
+   84,
+   98
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "绍衣",
+  "index_name": "绍衣",
+  "chapter": "立夏",
+  "cmyk": "C40M35Y35K0",
+  "rgb": "R168G161B156",
+  "hex": "#A8A19C",
+  "cmyk_rgb_delta": 15,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   84,
+   98,
+   295
+  ],
+  "flags": [],
+  "meaning": "承之“绍衣”，此乃承德、传灯之色，承祖宗之德，传古佛之灯，在家旧衣冠，出家僧尼服。",
+  "meaning_pages": [
+   84,
+   98
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "石莲褐",
+  "index_name": "石莲褐",
+  "chapter": "立夏",
+  "cmyk": "C50M45Y50K0",
+  "rgb": "R146G137B123",
+  "hex": "#92897B",
+  "cmyk_rgb_delta": 18,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   84,
+   98,
+   292
+  ],
+  "flags": [],
+  "meaning": "转而“石莲褐”，石莲谐音实怜，“欢娱生于求偶之念，而其人实为可怜中人也”，此乃人生悲悯之色。",
+  "meaning_pages": [
+   84,
+   98
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "黑朱",
+  "index_name": "黑朱",
+  "chapter": "立夏",
+  "cmyk": "C65M60Y65K0",
+  "rgb": "R112G105B93",
+  "hex": "#70695D",
+  "cmyk_rgb_delta": 23,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   84,
+   98,
+   292
+  ],
+  "flags": [],
+  "meaning": "合乎“黑朱”，如果用西方的语言，这是“几十度灰”？中文的微妙在于画笔下的丝绒质感，见字会意。",
+  "meaning_pages": [
+   84,
+   98
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "朱颜酡",
+  "index_name": "朱颜酡",
+  "chapter": "立夏",
+  "cmyk": "C0M50Y50K0",
+  "rgb": "R242G154B118",
+  "hex": "#F29A76",
+  "cmyk_rgb_delta": 26,
+  "votes": 7,
+  "read_deviation": 3,
+  "near_names": [],
+  "pages": [
+   1,
+   85,
+   100,
+   284
+  ],
+  "flags": [
+   "RGB有2种读法"
+  ],
+  "meaning": "C0 M50 Y50 K0 R242 G154 B118",
+  "meaning_pages": [
+   1,
+   85,
+   100,
+   284
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "苕荣",
+  "index_name": "苕荣",
+  "chapter": "立夏",
+  "cmyk": "C0M70Y75K0",
+  "rgb": "R237G109B61",
+  "hex": "#ED6D3D",
+  "cmyk_rgb_delta": 32,
+  "votes": 3,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   85,
+   100,
+   284
+  ],
+  "flags": [],
+  "meaning": "承之“苕荣”，凌霄花色也是美人的颜色，微风招摇，映日耀目，生得一副好颜色。",
+  "meaning_pages": [
+   85,
+   100,
+   284
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "檎丹",
+  "index_name": "檎丹",
+  "chapter": "立夏",
+  "cmyk": "C0M85Y85K0",
+  "rgb": "R233G72B41",
+  "hex": "#E94829",
+  "cmyk_rgb_delta": 34,
+  "votes": 3,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   85,
+   100,
+   283
+  ],
+  "flags": [],
+  "meaning": "转而“檎丹”，在日本超市见苹果标名“林檎”，溯源在中国，这次竟寻得这个颜色古称，“檎丹”要比“红苹果色”文雅许多。",
+  "meaning_pages": [
+   85,
+   100
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "丹罽",
+  "index_name": "丹罽",
+  "chapter": "立夏",
+  "cmyk": "C0M100Y100K0",
+  "rgb": "R230G0B18",
+  "hex": "#E60012",
+  "cmyk_rgb_delta": 25,
+  "votes": 3,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   85,
+   100,
+   283
+  ],
+  "flags": [],
+  "meaning": "合乎“丹罽”，寻得这个颜色时，和寻得檎丹时一样开心，“丹罽”是“枝头荔枝红”的雅称。",
+  "meaning_pages": [
+   85,
+   100
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "彤管",
+  "index_name": "彤管",
+  "chapter": "小满",
+  "cmyk": "C10M45Y20K0",
+  "rgb": "R226G162B172",
+  "hex": "#E2A2AC",
+  "cmyk_rgb_delta": 32,
+  "votes": 3,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   85,
+   102
+  ],
+  "flags": [],
+  "meaning": "起于“彤管”，《诗经》里那位静雅的姑娘到底送了我什么？我只知道那抹颜色已经成了我心头的印记。",
+  "meaning_pages": [
+   85,
+   102,
+   285
+  ],
+  "meaning_source": "《诗经》",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "渥赭",
+  "index_name": "渥赭",
+  "chapter": "小满",
+  "cmyk": "C10M70Y35K0",
+  "rgb": "R221G107B123",
+  "hex": "#DD6B7B",
+  "cmyk_rgb_delta": 43,
+  "votes": 3,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   85,
+   102
+  ],
+  "flags": [],
+  "meaning": "承之“渥赭”，《诗经》里有位红光满面的汉子，还说这个人的颜值高、身体壮，这是荷尔蒙的颜色。",
+  "meaning_pages": [
+   85,
+   102
+  ],
+  "meaning_source": "《诗经》",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "唇脂",
+  "index_name": "唇脂",
+  "chapter": "小满",
+  "cmyk": "C25M80Y50K0",
+  "rgb": "R194G81B96",
+  "hex": "#C25160",
+  "cmyk_rgb_delta": 32,
+  "votes": 3,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   85,
+   102
+  ],
+  "flags": [],
+  "meaning": "转而“唇脂”，红唇丹脂，何其美艳，一不小心印在哪里就不容易在心里擦掉了。",
+  "meaning_pages": [
+   85,
+   102,
+   285
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "朱孔阳",
+  "index_name": "朱孔阳",
+  "chapter": "小满",
+  "cmyk": "C30M100Y80K0",
+  "rgb": "R184G26B53",
+  "hex": "#B81A35",
+  "cmyk_rgb_delta": 26,
+  "votes": 3,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   85,
+   102
+  ],
+  "flags": [],
+  "meaning": "合乎“朱孔阳”，《诗经》里贵人衣裳的颜色，公子翩翩，何其明艳。",
+  "meaning_pages": [
+   85,
+   102
+  ],
+  "meaning_source": "《诗经》",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "石发",
+  "index_name": "石发",
+  "chapter": "小满",
+  "cmyk": "C65M35Y80K0",
+  "rgb": "R106G141B82",
+  "hex": "#6A8D52",
+  "cmyk_rgb_delta": 31,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   85,
+   104,
+   281
+  ],
+  "flags": [],
+  "meaning": "起于“石发”，今之水苔色，顽石生发，也是智慧过顶，那么这个颜色就是“会当凌绝顶，一览众山小”。",
+  "meaning_pages": [
+   85,
+   104
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "漆姑",
+  "index_name": "漆姑",
+  "chapter": "小满",
+  "cmyk": "C70M40Y80K0",
+  "rgb": "R93G131B81",
+  "hex": "#5D8351",
+  "cmyk_rgb_delta": 30,
+  "votes": 5,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   85,
+   104,
+   281
+  ],
+  "flags": [],
+  "meaning": "承之“漆姑”，今之郁色，中国画传统之青绿重工，非但石青石绿可为之，漆姑也可担当。",
+  "meaning_pages": [
+   85,
+   104
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "芰荷",
+  "index_name": "芰荷",
+  "chapter": "小满",
+  "cmyk": "C75M45Y85K0",
+  "rgb": "R79G121B74",
+  "hex": "#4F794A",
+  "cmyk_rgb_delta": 36,
+  "votes": 5,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   85,
+   104,
+   281
+  ],
+  "flags": [],
+  "meaning": "转而“芰荷”，芰荷为上衣，芙蓉为下裳，这种大红大绿的传统色搭配竟然是屈原首倡。",
+  "meaning_pages": [
+   85,
+   104
+  ],
+  "meaning_source": "屈原",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "官绿",
+  "index_name": "官绿",
+  "chapter": "小满",
+  "cmyk": "C85M50Y95K0",
+  "rgb": "R42G110B63",
+  "hex": "#2A6E3F",
+  "cmyk_rgb_delta": 50,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   85,
+   104,
+   281
+  ],
+  "flags": [],
+  "meaning": "合乎“官绿”，今之枝头绿，纯绿鲜明，正气端庄。",
+  "meaning_pages": [
+   85,
+   104
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "仙米",
+  "index_name": "仙米",
+  "chapter": "小满",
+  "cmyk": "C20M20Y35K0",
+  "rgb": "R212G201B170",
+  "hex": "#D4C9AA",
+  "cmyk_rgb_delta": 8,
+  "votes": 5,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   86,
+   106,
+   289
+  ],
+  "flags": [],
+  "meaning": "起于“仙米”，白高粱米的颜色，那红高粱酿酒存了仙气，这白高粱不酿酒也存了仙气。",
+  "meaning_pages": [
+   86,
+   106,
+   289
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "黄鲤",
+  "index_name": "黄鲤",
+  "chapter": "小满",
+  "cmyk": "C35M35Y55K0",
+  "rgb": "R180G163B121",
+  "hex": "#B4A379",
+  "cmyk_rgb_delta": null,
+  "votes": 0,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   86
+  ],
+  "flags": [
+   "色值经序列对齐推定（索引「黄鲤」在正文中读作「黄螺」，值取自书页 86）"
+  ],
+  "meaning": "",
+  "meaning_pages": [],
+  "meaning_source": "",
+  "meaning_agreement": null
+ },
+ {
+  "name": "降真香",
+  "index_name": "降真香",
+  "chapter": "小满",
+  "cmyk": "C45M50Y70K0",
+  "rgb": "R158G131B88",
+  "hex": "#9E8358",
+  "cmyk_rgb_delta": 18,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   86,
+   106,
+   289
+  ],
+  "flags": [],
+  "meaning": "转而“降真香”，引鹤而降真之香色，若论仙气之色，舍此其谁也。",
+  "meaning_pages": [
+   86,
+   106,
+   289
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "远志",
+  "index_name": "远志",
+  "chapter": "小满",
+  "cmyk": "C55M60Y85K10",
+  "rgb": "R129G102B59",
+  "hex": "#81663B",
+  "cmyk_rgb_delta": 26,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   86,
+   106,
+   289
+  ],
+  "flags": [],
+  "meaning": "合乎“远志”，张华《博物志》说“远志苗曰小草，根曰远志”，我是一棵无人知道的小草，从不寂寞，从不烦恼，因为根叫远志，此乃身微而志强之色。",
+  "meaning_pages": [
+   86,
+   106,
+   289
+  ],
+  "meaning_source": "张华《博物志》",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "嫩鹅黄",
+  "index_name": "嫩鹅黄",
+  "chapter": "小满",
+  "cmyk": "C5M25Y65K0",
+  "rgb": "R242G200B103",
+  "hex": "#F2C867",
+  "cmyk_rgb_delta": 14,
+  "votes": 5,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   86,
+   108,
+   288
+  ],
+  "flags": [],
+  "meaning": "起于“嫩鹅黄”，浮蚁白而嫩鹅黄，古云少年不入川，非但是川女多情，川中名酒嫩鹅黄也是无法抗拒。",
+  "meaning_pages": [
+   86,
+   108
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "鞠衣",
+  "index_name": "鞠衣",
+  "chapter": "小满",
+  "cmyk": "C20M40Y85K0",
+  "rgb": "R211G162B55",
+  "hex": "#D3A237",
+  "cmyk_rgb_delta": 17,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   86,
+   108,
+   288
+  ],
+  "flags": [],
+  "meaning": "承之“鞠衣”，琮玉温姿，鞠衣嘉色，鞠衣这种高雅的颜色，源在菊之花、桑之叶。",
+  "meaning_pages": [
+   86,
+   108
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "郁金裙",
+  "index_name": "郁金裙",
+  "chapter": "小满",
+  "cmyk": "C20M55Y85K0",
+  "rgb": "R208G134B53",
+  "hex": "#D08635",
+  "cmyk_rgb_delta": 19,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   86,
+   108,
+   288
+  ],
+  "flags": [],
+  "meaning": "转而“郁金裙”，唐宋服饰流行色，处在诗意、美学巅峰的两个朝代熠熠生辉，搞清楚唐宋的各色锦裙，古装剧也许更好看。",
+  "meaning_pages": [
+   86,
+   108
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "黄流",
+  "index_name": "黄流",
+  "chapter": "小满",
+  "cmyk": "C45M70Y100K0",
+  "rgb": "R159G96B39",
+  "hex": "#9F6027",
+  "cmyk_rgb_delta": 39,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   86,
+   108,
+   288
+  ],
+  "flags": [],
+  "meaning": "合乎“黄流”，黑黍和郁金香草酿造的酒色，宛如流动的黄金，当年是祭祀众神、赏赐诸侯的真正国酒。",
+  "meaning_pages": [
+   86,
+   108
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "筠雾",
+  "index_name": "筠雾",
+  "chapter": "芒种",
+  "cmyk": "C20M15Y35K0",
+  "rgb": "R213G209B174",
+  "hex": "#D5D1AE",
+  "cmyk_rgb_delta": 9,
+  "votes": 1,
+  "read_deviation": 5,
+  "near_names": [],
+  "pages": [
+   86,
+   110
+  ],
+  "flags": [
+   "共识不足(1票)",
+   "CMYK有2种读法",
+   "RGB有3种读法"
+  ],
+  "meaning": "起于“筠雾”，竹皮色，薄若雾，故有此颜色名，或曰竹间之雾色，雾白侵竹绿，仙气十足。",
+  "meaning_pages": [
+   86,
+   110,
+   282
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "瓷秘",
+  "index_name": "瓷秘",
+  "chapter": "芒种",
+  "cmyk": "C30M20Y45K0",
+  "rgb": "R191G192B150",
+  "hex": "#BFC096",
+  "cmyk_rgb_delta": 13,
+  "votes": 3,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   86,
+   110
+  ],
+  "flags": [],
+  "meaning": "承之“瓷秘”，绿云翠峰之色，御窑供奉之品，秘而不宣，难得这“相隔千年宛如初见”的美色殊胜。",
+  "meaning_pages": [
+   86,
+   110,
+   282
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "琬琰",
+  "index_name": "琬琰",
+  "chapter": "芒种",
+  "cmyk": "C40M30Y50K0",
+  "rgb": "R169G168B134",
+  "hex": "#A9A886",
+  "cmyk_rgb_delta": 16,
+  "votes": 2,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   86,
+   110
+  ],
+  "flags": [],
+  "meaning": "转而“琬琰”，这是帝侯所用玉质礼器之色，既珍且贵，又是一个皇家颜色。",
+  "meaning_pages": [
+   86,
+   110,
+   282
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "青圭",
+  "index_name": "青圭",
+  "chapter": "芒种",
+  "cmyk": "C50M40Y70K0",
+  "rgb": "R146G144B93",
+  "hex": "#92905D",
+  "cmyk_rgb_delta": 18,
+  "votes": 3,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   86,
+   110
+  ],
+  "flags": [],
+  "meaning": "合乎“青圭”，以玉做六器，礼天地四方，青圭礼东方，其色属东方，其形象征春物初生。",
+  "meaning_pages": [
+   86,
+   110,
+   282
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "鸣珂",
+  "index_name": "鸣珂",
+  "chapter": "芒种",
+  "cmyk": "C35M25Y40K0",
+  "rgb": "R179G181B156",
+  "hex": "#B3B59C",
+  "cmyk_rgb_delta": 13,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   87,
+   112,
+   282
+  ],
+  "flags": [],
+  "meaning": "起于“鸣珂”，宝马香车，鸣珂锵玉，铿锵作响的玉声装饰了这个颜色，充盈耳目者，显贵之声色也。",
+  "meaning_pages": [
+   87,
+   112,
+   282
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "青玉案",
+  "index_name": "青玉案",
+  "chapter": "芒种",
+  "cmyk": "C40M25Y45K0",
+  "rgb": "R168G176B146",
+  "hex": "#A8B092",
+  "cmyk_rgb_delta": 15,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   87,
+   112,
+   281
+  ],
+  "flags": [],
+  "meaning": "承之“青玉案”，陈彼得先生不妨穿一袭此色长袍，上元夜再来一曲青云案，岂不快哉。",
+  "meaning_pages": [
+   87,
+   112
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "出岫",
+  "index_name": "出岫",
+  "chapter": "芒种",
+  "cmyk": "C40M30Y60K0",
+  "rgb": "R169G167B115",
+  "hex": "#A9A773",
+  "cmyk_rgb_delta": 16,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   87,
+   112,
+   282
+  ],
+  "flags": [],
+  "meaning": "转而“出岫”，青色的云从青色的山峰飘浮而出，悠然不羁，心定气和。",
+  "meaning_pages": [
+   87,
+   112,
+   282
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "风入松",
+  "index_name": "风入松",
+  "chapter": "芒种",
+  "cmyk": "C55M40Y80K0",
+  "rgb": "R134G140B78",
+  "hex": "#868C4E",
+  "cmyk_rgb_delta": 27,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   87,
+   112,
+   282
+  ],
+  "flags": [],
+  "meaning": "合乎“风入松”，梦觉风入松，元知万事空，余情残醉，醒来了无痕。",
+  "meaning_pages": [
+   87,
+   112,
+   282
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "如梦令",
+  "index_name": "如梦令",
+  "chapter": "芒种",
+  "cmyk": "C15M30Y40K0",
+  "rgb": "R221G187B153",
+  "hex": "#DDBB99",
+  "cmyk_rgb_delta": 9,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   87,
+   114,
+   288
+  ],
+  "flags": [],
+  "meaning": "起于“如梦令”，日暮、沉醉、藕花、争渡，如梦如幻，红尘依稀。",
+  "meaning_pages": [
+   87,
+   114
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "芸黄",
+  "index_name": "芸黄",
+  "chapter": "芒种",
+  "cmyk": "C20M40Y60K0",
+  "rgb": "R210G163B108",
+  "hex": "#D2A36C",
+  "cmyk_rgb_delta": 10,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   87,
+   114,
+   288
+  ],
+  "flags": [],
+  "meaning": "承之“芸黄”，帝王盛德之色，天下丰盈之色。",
+  "meaning_pages": [
+   87,
+   114
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "金埒",
+  "index_name": "金埒",
+  "chapter": "芒种",
+  "cmyk": "C30M45Y70K0",
+  "rgb": "R190G148B87",
+  "hex": "#BE9457",
+  "cmyk_rgb_delta": 12,
+  "votes": 5,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   87,
+   114,
+   288
+  ],
+  "flags": [],
+  "meaning": "转而“金埒”，金钱宝地之色，五花马、千金裘，还可以有一个黄金埒，遇上李白，统统换了酒。",
+  "meaning_pages": [
+   87,
+   114
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "雌黄",
+  "index_name": "雌黄",
+  "chapter": "芒种",
+  "cmyk": "C35M50Y75K0",
+  "rgb": "R180G136B77",
+  "hex": "#B4884D",
+  "cmyk_rgb_delta": 14,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   87,
+   114,
+   288
+  ],
+  "flags": [],
+  "meaning": "合乎“雌黄”，命运若有雌黄笔，世间必无伤心人，陆游的错错错，何妨借雌黄涂去，这也是一个梦幻的颜色吧。",
+  "meaning_pages": [
+   87,
+   114
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "曾青",
+  "index_name": "曾青",
+  "chapter": "芒种",
+  "cmyk": "C75M70Y50K10",
+  "rgb": "R83G81B100",
+  "hex": "#535164",
+  "cmyk_rgb_delta": 26,
+  "votes": 5,
+  "read_deviation": 10,
+  "near_names": [],
+  "pages": [
+   87,
+   116,
+   293
+  ],
+  "flags": [
+   "CMYK有2种读法"
+  ],
+  "meaning": "起于“曾青”，乾隆帝的“翠含螺黛山迎户，影覆曾青树隐天”，螺黛对曾青，分明是好诗。",
+  "meaning_pages": [
+   87,
+   116
+  ],
+  "meaning_source": "乾隆帝诗",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "靘龙",
+  "index_name": "靘龙",
+  "chapter": "芒种",
+  "cmyk": "C80M75Y55K15",
+  "rgb": "R69G70B89",
+  "hex": "#454659",
+  "cmyk_rgb_delta": null,
+  "votes": 0,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   87
+  ],
+  "flags": [
+   "色值经序列对齐推定（索引「靘龙」在正文中读作「䵚靘」，值取自书页 87）"
+  ],
+  "meaning": "",
+  "meaning_pages": [],
+  "meaning_source": "",
+  "meaning_agreement": null
+ },
+ {
+  "name": "璆琳",
+  "index_name": "璆琳",
+  "chapter": "芒种",
+  "cmyk": "C85M85Y65K30",
+  "rgb": "R52G48B65",
+  "hex": "#343041",
+  "cmyk_rgb_delta": 25,
+  "votes": 4,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   87,
+   116,
+   293
+  ],
+  "flags": [],
+  "meaning": "转而“璆琳”，丝绸之路的前身也称青金石之路，璆琳就是青金石，其色相如天，故深受历代帝王喜爱，清朝帝王去天坛就要佩戴这个颜色的朝珠。",
+  "meaning_pages": [
+   87,
+   116
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "瑾瑜",
+  "index_name": "瑾瑜",
+  "chapter": "芒种",
+  "cmyk": "C90M85Y70K45",
+  "rgb": "R30G39B50",
+  "hex": "#1E2732",
+  "cmyk_rgb_delta": 18,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   87,
+   116,
+   294
+  ],
+  "flags": [],
+  "meaning": "合乎“瑾瑜”，瑾瑜也是青金石的古称，青金石的颜色是由青金石的矿物含量决定的。",
+  "meaning_pages": [
+   87,
+   116,
+   294
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "赩炽",
+  "index_name": "赩炽",
+  "chapter": "夏至",
+  "cmyk": "C20M80Y75K0",
+  "rgb": "R203G82B62",
+  "hex": "#CB523E",
+  "cmyk_rgb_delta": 31,
+  "votes": 1,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   88
+  ],
+  "flags": [
+   "共识不足(1票)"
+  ],
+  "meaning": "起于“赩炽”，今之丹砂色，赤火之光，夏至之炎。",
+  "meaning_pages": [
+   88
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "石榴裙",
+  "index_name": "石榴裙",
+  "chapter": "夏至",
+  "cmyk": "C35M90Y90K0",
+  "rgb": "R177G59B46",
+  "hex": "#B13B2E",
+  "cmyk_rgb_delta": 34,
+  "votes": 3,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   88,
+   118
+  ],
+  "flags": [],
+  "meaning": "承之“石榴裙”，唐朝服饰流行色，“开箱验取石榴裙”才是武媚娘的初心。",
+  "meaning_pages": [
+   88,
+   118,
+   284
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "朱湛",
+  "index_name": "朱湛",
+  "chapter": "夏至",
+  "cmyk": "C50M95Y95K0",
+  "rgb": "R149G48B46",
+  "hex": "#95302E",
+  "cmyk_rgb_delta": 35,
+  "votes": 3,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   88,
+   118
+  ],
+  "flags": [],
+  "meaning": "转而“朱湛”，这是茜草浸泡液的颜色，与之合体的丹秫是媒染剂，这样就有了这种厚重的红色。",
+  "meaning_pages": [
+   88,
+   118,
+   284
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "大兟",
+  "index_name": "大兟",
+  "chapter": "夏至",
+  "cmyk": "C55M100Y100K10",
+  "rgb": "R130G35B39",
+  "hex": "#822327",
+  "cmyk_rgb_delta": null,
+  "votes": 0,
+  "read_deviation": null,
+  "near_names": [
+   "大繎"
+  ],
+  "pages": [
+   88,
+   118,
+   283
+  ],
+  "flags": [
+   "名称待核对(近似:大繎)",
+   "色值经孤儿观测补齐（候选名 大繎 / 大燚 / 大燃，共 3 页印证：[88, 118, 283]）"
+  ],
+  "meaning": "",
+  "meaning_pages": [],
+  "meaning_source": "",
+  "meaning_agreement": null
+ },
+ {
+  "name": "月魄",
+  "index_name": "月魄",
+  "chapter": "夏至",
+  "cmyk": "C35M25Y25K0",
+  "rgb": "R178G182B182",
+  "hex": "#B2B6B6",
+  "cmyk_rgb_delta": 12,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   88,
+   120,
+   295
+  ],
+  "flags": [],
+  "meaning": "起于“月魄”，夜晚的花儿知道用月魄的光来美饰自己，这月魄色也是一种粉黛色吧。",
+  "meaning_pages": [
+   88,
+   120
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "不皂",
+  "index_name": "不皂",
+  "chapter": "夏至",
+  "cmyk": "C40M30Y35K0",
+  "rgb": "R167G170B161",
+  "hex": "#A7AAA1",
+  "cmyk_rgb_delta": 14,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   88,
+   120,
+   295
+  ],
+  "flags": [],
+  "meaning": "承之“不皂”，不肯皂、不肯红，都是小儿女姿态，颜色仿佛有了态度。",
+  "meaning_pages": [
+   88,
+   120
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "雷雨垂",
+  "index_name": "雷雨垂",
+  "chapter": "夏至",
+  "cmyk": "C60M50Y50K0",
+  "rgb": "R122G123B120",
+  "hex": "#7A7B78",
+  "cmyk_rgb_delta": 20,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   88,
+   120,
+   295
+  ],
+  "flags": [],
+  "meaning": "转而“雷雨垂”，黑云压城城欲摧的颜色，愈打压愈坚强，才是真汉子颜色。",
+  "meaning_pages": [
+   88,
+   120
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "石涅",
+  "index_name": "石涅",
+  "chapter": "夏至",
+  "cmyk": "C65M55Y55K10",
+  "rgb": "R104G106B103",
+  "hex": "#686A67",
+  "cmyk_rgb_delta": 24,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   88,
+   120,
+   295
+  ],
+  "flags": [],
+  "meaning": "合乎“石涅”，今之石墨色，陆云给陆机的信中说“曹公藏石墨数十万斤”，可知曹操甚爱之。",
+  "meaning_pages": [
+   88,
+   120
+  ],
+  "meaning_source": "陆云给陆机的信",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "扶光",
+  "index_name": "扶光",
+  "chapter": "夏至",
+  "cmyk": "C5M30Y35K0",
+  "rgb": "R240G194B162",
+  "hex": "#F0C2A2",
+  "cmyk_rgb_delta": 16,
+  "votes": 4,
+  "read_deviation": 7,
+  "near_names": [],
+  "pages": [
+   88,
+   122,
+   284
+  ],
+  "flags": [
+   "CMYK有3种读法",
+   "RGB有2种读法"
+  ],
+  "meaning": "起于“扶光”，扶桑浴东海之光色，正是日出东方，其初光，如粉嫩的婴儿，如初见的少女。",
+  "meaning_pages": [
+   88,
+   122,
+   284
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "椒房",
+  "index_name": "椒房",
+  "chapter": "夏至",
+  "cmyk": "C15M45Y65K0",
+  "rgb": "R219G156B94",
+  "hex": "#DB9C5E",
+  "cmyk_rgb_delta": 16,
+  "votes": 5,
+  "read_deviation": 6,
+  "near_names": [],
+  "pages": [
+   88,
+   122,
+   288
+  ],
+  "flags": [
+   "RGB有2种读法"
+  ],
+  "meaning": "承之“椒房”，出自皇后的闺房色，花椒和泥做内饰，在香料宝贵的古代是不得了的娇贵。",
+  "meaning_pages": [
+   88,
+   122
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "红友",
+  "index_name": "红友",
+  "chapter": "夏至",
+  "cmyk": "C15M55Y80K0",
+  "rgb": "R217G136B61",
+  "hex": "#D9883D",
+  "cmyk_rgb_delta": 21,
+  "votes": 5,
+  "read_deviation": 10,
+  "near_names": [],
+  "pages": [
+   88,
+   122,
+   288
+  ],
+  "flags": [
+   "CMYK有2种读法"
+  ],
+  "meaning": "转而“红友”，宜兴酒色，与关中、川中不同，是另一番模样，东坡爱此酒。",
+  "meaning_pages": [
+   88,
+   122
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "光明砂",
+  "index_name": "光明砂",
+  "chapter": "夏至",
+  "cmyk": "C20M75Y95K0",
+  "rgb": "R204G93B32",
+  "hex": "#CC5D20",
+  "cmyk_rgb_delta": 29,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   88,
+   122,
+   288
+  ],
+  "flags": [],
+  "meaning": "合乎“光明砂”，正大光明，镇心安神，此乃驱魔扶正之色。",
+  "meaning_pages": [
+   88,
+   122
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "山矾",
+  "index_name": "山矾",
+  "chapter": "夏至",
+  "cmyk": "C5M5Y5K0",
+  "rgb": "R245G243B242",
+  "hex": "#F5F3F2",
+  "cmyk_rgb_delta": 3,
+  "votes": 4,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   89,
+   295
+  ],
+  "flags": [],
+  "meaning": "起于“山矾”，“山矾纷似玉，黄檗碎如金”，果然都是富贵好颜色。",
+  "meaning_pages": [
+   89,
+   124
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "玉頩",
+  "index_name": "玉頩",
+  "chapter": "夏至",
+  "cmyk": "C10M10Y10K0",
+  "rgb": "R234G229B227",
+  "hex": "#EAE5E3",
+  "cmyk_rgb_delta": 4,
+  "votes": 1,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   295
+  ],
+  "flags": [
+   "共识不足(1票)",
+   "典故两模型不一致(13%)",
+   "典故两模型不一致(13%)"
+  ],
+  "meaning": "承之“玉頩”，玉頩光润之色，相由心生，此必是心地光明之人所露之色。",
+  "meaning_pages": [
+   89,
+   124
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 0.13
+ },
+ {
+  "name": "二目鱼",
+  "index_name": "二目鱼",
+  "chapter": "夏至",
+  "cmyk": "C15M10Y15K0",
+  "rgb": "R223G224B217",
+  "hex": "#DFE0D9",
+  "cmyk_rgb_delta": 6,
+  "votes": 4,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   89,
+   295
+  ],
+  "flags": [],
+  "meaning": "转而“二目鱼”，《诗经》里讲马的毛色，难懂之一就是“鱼”，鱼眼的白圈圈，马眼周边的白毛圈圈，这种鱼眼白就是二目鱼。",
+  "meaning_pages": [
+   89,
+   124
+  ],
+  "meaning_source": "《诗经》",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "明月珰",
+  "index_name": "明月珰",
+  "chapter": "夏至",
+  "cmyk": "C20M15Y20K0",
+  "rgb": "R212G211B202",
+  "hex": "#D4D3CA",
+  "cmyk_rgb_delta": 8,
+  "votes": 4,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   89,
+   295
+  ],
+  "flags": [],
+  "meaning": "合乎“明月珰”，玉有明月光华之色，人有月移西厢之影。",
+  "meaning_pages": [
+   89,
+   124
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "骍刚",
+  "index_name": "骍刚",
+  "chapter": "小暑",
+  "cmyk": "C0M40Y45K0",
+  "rgb": "R245G176B135",
+  "hex": "#F5B087",
+  "cmyk_rgb_delta": 23,
+  "votes": 2,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   126
+  ],
+  "flags": [],
+  "meaning": "起于“骍刚”，赤色公牛，与之相对“白牡”是白色公牛，二者都是王侯祭祀所选之牛色。",
+  "meaning_pages": [
+   89,
+   126
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "赫霞",
+  "index_name": "赫霞",
+  "chapter": "小暑",
+  "cmyk": "C0M55Y60K0",
+  "rgb": "R241G143B96",
+  "hex": "#F18F60",
+  "cmyk_rgb_delta": null,
+  "votes": 0,
+  "read_deviation": null,
+  "near_names": [
+   "赫尾",
+   "赪霞",
+   "赧霞"
+  ],
+  "pages": [
+   89,
+   126,
+   284,
+   288
+  ],
+  "flags": [
+   "名称待核对(近似:赫尾/赪霞/赧霞)",
+   "色值经孤儿观测补齐（候选名 頳霞 / 赭霞 / 赪霞 / 赧霞 / 赤霞，共 4 页印证：[89, 126, 284, 288]）"
+  ],
+  "meaning": "",
+  "meaning_pages": [],
+  "meaning_source": "",
+  "meaning_agreement": null
+ },
+ {
+  "name": "赧尾",
+  "index_name": "赧尾",
+  "chapter": "小暑",
+  "cmyk": "C0M60Y60K0",
+  "rgb": "R239G132B93",
+  "hex": "#EF845D",
+  "cmyk_rgb_delta": 30,
+  "votes": 2,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   89,
+   126
+  ],
+  "flags": [],
+  "meaning": "",
+  "meaning_pages": [],
+  "meaning_source": "",
+  "meaning_agreement": null
+ },
+ {
+  "name": "朱柿",
+  "index_name": "朱柿",
+  "chapter": "小暑",
+  "cmyk": "C0M70Y70K0",
+  "rgb": "R237G109B70",
+  "hex": "#ED6D46",
+  "cmyk_rgb_delta": 32,
+  "votes": 4,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   89,
+   126
+  ],
+  "flags": [],
+  "meaning": "合乎“朱柿”，怎么说也比我们今天说“柿子红”要雅致，这是古今颜色词的高下。",
+  "meaning_pages": [
+   89,
+   126,
+   284
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "天球",
+  "index_name": "天球",
+  "chapter": "小暑",
+  "cmyk": "C15M10Y25K0",
+  "rgb": "R224G223B198",
+  "hex": "#E0DFC6",
+  "cmyk_rgb_delta": 7,
+  "votes": 3,
+  "read_deviation": 10,
+  "near_names": [],
+  "pages": [
+   89,
+   295
+  ],
+  "flags": [
+   "RGB有2种读法"
+  ],
+  "meaning": "起于“天球”，玉如天色者，也是王侯所用玉制礼器之色。",
+  "meaning_pages": [
+   89,
+   128
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "行香子",
+  "index_name": "行香子",
+  "chapter": "小暑",
+  "cmyk": "C30M25Y40K0",
+  "rgb": "R191G185B156",
+  "hex": "#BFB99C",
+  "cmyk_rgb_delta": 13,
+  "votes": 5,
+  "read_deviation": 10,
+  "near_names": [],
+  "pages": [
+   89,
+   128,
+   282
+  ],
+  "flags": [
+   "CMYK有2种读法",
+   "RGB有2种读法"
+  ],
+  "meaning": "承之“行香子”，来自词牌名的颜色，东坡说“隙中驹，石中火，梦中身”，想明白什么颜色也是过眼云烟。",
+  "meaning_pages": [
+   89,
+   128,
+   282
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "王刍",
+  "index_name": "王刍",
+  "chapter": "小暑",
+  "cmyk": "C40M35Y60K0",
+  "rgb": "R169G159B112",
+  "hex": "#A99F70",
+  "cmyk_rgb_delta": 16,
+  "votes": 3,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   89,
+   128,
+   282
+  ],
+  "flags": [],
+  "meaning": "转而“王刍”，屈原不愿与蒺藜、王刍和苔耳为伍，厌其泛滥，相反，我们却要赞美它们生命力的旺盛。",
+  "meaning_pages": [
+   89,
+   128,
+   282
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 0.978
+ },
+ {
+  "name": "荩箧",
+  "index_name": "荩箧",
+  "chapter": "小暑",
+  "cmyk": "C55M50Y75K0",
+  "rgb": "R135G125B82",
+  "hex": "#877D52",
+  "cmyk_rgb_delta": 20,
+  "votes": 2,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   89,
+   128
+  ],
+  "flags": [],
+  "meaning": "合乎“荩箧”，居家过日子的草箱子的颜色，普通得不能再普通，却有家的感觉。",
+  "meaning_pages": [
+   89,
+   128,
+   282
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "赤灵",
+  "index_name": "赤灵",
+  "chapter": "小暑",
+  "cmyk": "C45M85Y100K10",
+  "rgb": "R149G64B36",
+  "hex": "#954024",
+  "cmyk_rgb_delta": 36,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   90,
+   130,
+   284
+  ],
+  "flags": [],
+  "meaning": "起于“赤灵”，翠虬是无角的青龙，赤灵是无角的红龙，都是招人喜爱的精灵颜色。",
+  "meaning_pages": [
+   90,
+   130,
+   284
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "丹秫",
+  "index_name": "丹秫",
+  "chapter": "小暑",
+  "cmyk": "C50M90Y100K15",
+  "rgb": "R135G52B36",
+  "hex": "#873424",
+  "cmyk_rgb_delta": 36,
+  "votes": 5,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   90,
+   130,
+   284
+  ],
+  "flags": [],
+  "meaning": "承之“丹秫”，前面讲过与之搭档的“朱湛”，作为媒染剂，朱砂是成就深红的功臣。",
+  "meaning_pages": [
+   90,
+   130,
+   284
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "木兰",
+  "index_name": "木兰",
+  "chapter": "小暑",
+  "cmyk": "C60M90Y100K30",
+  "rgb": "R102G43B31",
+  "hex": "#662B1F",
+  "cmyk_rgb_delta": 31,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   90,
+   130,
+   285
+  ],
+  "flags": [],
+  "meaning": "转而“木兰”，木兰袈裟，以黑污赤而坏色，此乃谦卑之心。",
+  "meaning_pages": [
+   90,
+   130,
+   285
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "麒麟竭",
+  "index_name": "麒麟竭",
+  "chapter": "小暑",
+  "cmyk": "C70M95Y100K40",
+  "rgb": "R76G30B26",
+  "hex": "#4C1E1A",
+  "cmyk_rgb_delta": 30,
+  "votes": 5,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   90,
+   130,
+   283
+  ],
+  "flags": [],
+  "meaning": "合乎“麒麟竭”，树脂生血色，赤胶出南国。",
+  "meaning_pages": [
+   90,
+   130
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "柔蓝",
+  "index_name": "柔蓝",
+  "chapter": "小暑",
+  "cmyk": "C85M50Y20K10",
+  "rgb": "R16G104B152",
+  "hex": "#106898",
+  "cmyk_rgb_delta": 32,
+  "votes": 5,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   90,
+   132,
+   292
+  ],
+  "flags": [],
+  "meaning": "起于“柔蓝”，耶律楚材果然是才子，“风回一镜柔蓝浅，雨过千峰泼黛浓”，一句写尽湖光山色。",
+  "meaning_pages": [
+   90,
+   132
+  ],
+  "meaning_source": "耶律楚材",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "碧城",
+  "index_name": "碧城",
+  "chapter": "小暑",
+  "cmyk": "C90M65Y30K15",
+  "rgb": "R18G80B123",
+  "hex": "#12507B",
+  "cmyk_rgb_delta": 29,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   90,
+   132,
+   292
+  ],
+  "flags": [],
+  "meaning": "承之“碧城”，才子谁也比不过李商隐，“碧城十二曲阑干，犀辟尘埃玉辟寒”，想象中玉溪生的天空之城就是这个颜色。",
+  "meaning_pages": [
+   90,
+   132
+  ],
+  "meaning_source": "李商隐",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "蓝采和",
+  "index_name": "蓝采和",
+  "chapter": "小暑",
+  "cmyk": "C95M75Y35K15",
+  "rgb": "R6G67B111",
+  "hex": "#06436F",
+  "cmyk_rgb_delta": 30,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   90,
+   132,
+   292
+  ],
+  "flags": [],
+  "meaning": "转而“蓝采和”，这个自然是神仙色，讲都不讲。",
+  "meaning_pages": [
+   90,
+   132
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "帝释青",
+  "index_name": "帝释青",
+  "chapter": "小暑",
+  "cmyk": "C100M85Y40K20",
+  "rgb": "R0G52B96",
+  "hex": "#003460",
+  "cmyk_rgb_delta": 26,
+  "votes": 5,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   90,
+   132,
+   292
+  ],
+  "flags": [],
+  "meaning": "合乎“帝释青”，出自佛家，青之胜者，隐隐有正法护持。",
+  "meaning_pages": [
+   90,
+   132
+  ],
+  "meaning_source": "佛家",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "夕岚",
+  "index_name": "夕岚",
+  "chapter": "大暑",
+  "cmyk": "C10M40Y15K0",
+  "rgb": "R227G173B185",
+  "hex": "#E3ADB9",
+  "cmyk_rgb_delta": 32,
+  "votes": 2,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   90,
+   134
+  ],
+  "flags": [],
+  "meaning": "起于“夕岚”，落日山间雾气的颜色，夕阳西下，意兴阑珊。",
+  "meaning_pages": [
+   90,
+   134,
+   285
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "雌霓",
+  "index_name": "雌霓",
+  "chapter": "大暑",
+  "cmyk": "C20M50Y25K0",
+  "rgb": "R207G146B158",
+  "hex": "#CF929E",
+  "cmyk_rgb_delta": 33,
+  "votes": 2,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   90,
+   134
+  ],
+  "flags": [],
+  "meaning": "承之“雌霓”，这是彩虹中暗影一边的颜色，更妩媚。",
+  "meaning_pages": [
+   90,
+   134,
+   285
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "绛纱",
+  "index_name": "绛纱",
+  "chapter": "大暑",
+  "cmyk": "C35M60Y45K0",
+  "rgb": "R178G119B119",
+  "hex": "#B27777",
+  "cmyk_rgb_delta": 21,
+  "votes": 3,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   90,
+   134
+  ],
+  "flags": [],
+  "meaning": "转而“绛纱”，想不到古时授徒讲学，场景如此香艳，如果在绛红色的纱帐前更容易激发智慧，何不遵古而行。",
+  "meaning_pages": [
+   90,
+   134,
+   285
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "茹藘",
+  "index_name": "茹藘",
+  "chapter": "大暑",
+  "cmyk": "C40M70Y50K5",
+  "rgb": "R163G95B101",
+  "hex": "#A35F65",
+  "cmyk_rgb_delta": 22,
+  "votes": 2,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   90,
+   134
+  ],
+  "flags": [],
+  "meaning": "合乎“茹藘”，茹藘就是茜草，《诗经》里茜草是说一不二的爱情色，你看红艳艳的长在你家坡上，我爱上了你，你看红艳艳的染在你的佩巾上，我还是爱上了你。",
+  "meaning_pages": [
+   90,
+   134,
+   285
+  ],
+  "meaning_source": "《诗经》",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "葱青",
+  "index_name": "葱青",
+  "chapter": "大暑",
+  "cmyk": "C10M0Y35K0",
+  "rgb": "R237G241B187",
+  "hex": "#EDF1BB",
+  "cmyk_rgb_delta": 21,
+  "votes": 4,
+  "read_deviation": 5,
+  "near_names": [],
+  "pages": [
+   91,
+   136,
+   291
+  ],
+  "flags": [
+   "CMYK有2种读法",
+   "RGB有2种读法"
+  ],
+  "meaning": "起于“葱青”，葱白隐青，草木初生的淡淡青绿，这是生命的初始。",
+  "meaning_pages": [
+   91,
+   136
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "少艾",
+  "index_name": "少艾",
+  "chapter": "大暑",
+  "cmyk": "C15M0Y50K0",
+  "rgb": "R227G235B152",
+  "hex": "#E3EB98",
+  "cmyk_rgb_delta": 24,
+  "votes": 4,
+  "read_deviation": 3,
+  "near_names": [],
+  "pages": [
+   91,
+   136,
+   291
+  ],
+  "flags": [
+   "RGB有2种读法"
+  ],
+  "meaning": "承之“少艾”，寓意美少女的颜色，艾草初成是淡青微白，吾家有女初长成也是青青白白。",
+  "meaning_pages": [
+   91,
+   136
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "绮钱",
+  "index_name": "绮钱",
+  "chapter": "大暑",
+  "cmyk": "C20M5Y55K0",
+  "rgb": "R216G222B138",
+  "hex": "#D8DE8A",
+  "cmyk_rgb_delta": 23,
+  "votes": 4,
+  "read_deviation": 2,
+  "near_names": [],
+  "pages": [
+   91,
+   136,
+   291
+  ],
+  "flags": [
+   "RGB有2种读法"
+  ],
+  "meaning": "转而“绮钱”，古钱样貌的青苔色或者荷叶色，姜特立有好句，“湖边柳色媚清涟，湖上新荷叠绮钱”。",
+  "meaning_pages": [
+   91,
+   136
+  ],
+  "meaning_source": "姜特立",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "翠樽",
+  "index_name": "翠樽",
+  "chapter": "大暑",
+  "cmyk": "C25M10Y65K0",
+  "rgb": "R205G209B113",
+  "hex": "#CDD171",
+  "cmyk_rgb_delta": 24,
+  "votes": 5,
+  "read_deviation": 5,
+  "near_names": [],
+  "pages": [
+   91,
+   136,
+   291
+  ],
+  "flags": [
+   "CMYK有2种读法",
+   "RGB有2种读法"
+  ],
+  "meaning": "合乎“翠樽”，印象中见过某件耀州窑青釉色与翠樽色最近，而耀州窑又始自越州窑，唐宋的好颜色言之不尽。",
+  "meaning_pages": [
+   91,
+   136
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "石蜜",
+  "index_name": "石蜜",
+  "chapter": "大暑",
+  "cmyk": "C20M25Y50K0",
+  "rgb": "R212G191B137",
+  "hex": "#D4BF89",
+  "cmyk_rgb_delta": 9,
+  "votes": 5,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   91,
+   138,
+   289
+  ],
+  "flags": [],
+  "meaning": "起于“石蜜”，今之黄冰糖色，诗僧寒山说“醍醐与石蜜，至死不能尝”，醍醐、石蜜都是佛法精妙。",
+  "meaning_pages": [
+   91,
+   138,
+   289
+  ],
+  "meaning_source": "寒山",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "沙疡",
+  "index_name": "沙疡",
+  "chapter": "大暑",
+  "cmyk": "C30M35Y60K0",
+  "rgb": "R191G166B112",
+  "hex": "#BFA670",
+  "cmyk_rgb_delta": null,
+  "votes": 0,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   91
+  ],
+  "flags": [
+   "色值经序列对齐推定（索引「沙疡」在正文中读作「沙饧」，值取自书页 91）"
+  ],
+  "meaning": "",
+  "meaning_pages": [],
+  "meaning_source": "",
+  "meaning_agreement": null
+ },
+ {
+  "name": "巨吕",
+  "index_name": "巨吕",
+  "chapter": "大暑",
+  "cmyk": "C40M45Y70K0",
+  "rgb": "R170G142B89",
+  "hex": "#AA8E59",
+  "cmyk_rgb_delta": 17,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   91,
+   138,
+   289
+  ],
+  "flags": [],
+  "meaning": "转而“巨吕”，冰糖炼制过程中含杂质的糖色，更深更杂的糖色叫颇尼多。",
+  "meaning_pages": [
+   91,
+   138,
+   289
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "吉金",
+  "index_name": "吉金",
+  "chapter": "大暑",
+  "cmyk": "C55M60Y80K0",
+  "rgb": "R137G109B71",
+  "hex": "#896D47",
+  "cmyk_rgb_delta": 22,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   91,
+   138,
+   289
+  ],
+  "flags": [],
+  "meaning": "合乎“吉金”，铸造钟鼎彝器的合金色，此色一出，必有国之重器。",
+  "meaning_pages": [
+   91,
+   138,
+   289
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "山岚",
+  "index_name": "山岚",
+  "chapter": "大暑",
+  "cmyk": "C30M10Y30K0",
+  "rgb": "R190G210B187",
+  "hex": "#BED2BB",
+  "cmyk_rgb_delta": 20,
+  "votes": 4,
+  "read_deviation": 10,
+  "near_names": [],
+  "pages": [
+   91,
+   140,
+   282
+  ],
+  "flags": [
+   "CMYK有2种读法",
+   "RGB有2种读法"
+  ],
+  "meaning": "起于“山岚”，山间雾气的颜色，因时而变，叠翠而生，此色入画。",
+  "meaning_pages": [
+   91,
+   140,
+   282
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "菉波",
+  "index_name": "菉波",
+  "chapter": "大暑",
+  "cmyk": "C45M20Y45K0",
+  "rgb": "R155G180B150",
+  "hex": "#9BB496",
+  "cmyk_rgb_delta": null,
+  "votes": 0,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   91
+  ],
+  "flags": [
+   "色值经序列对齐推定（索引「菉波」在正文中读作「渌波」，值取自书页 91）"
+  ],
+  "meaning": "",
+  "meaning_pages": [],
+  "meaning_source": "",
+  "meaning_agreement": null
+ },
+ {
+  "name": "青楸",
+  "index_name": "青楸",
+  "chapter": "大暑",
+  "cmyk": "C55M25Y55K0",
+  "rgb": "R129G163B128",
+  "hex": "#81A380",
+  "cmyk_rgb_delta": 28,
+  "votes": 4,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   91,
+   140,
+   283
+  ],
+  "flags": [],
+  "meaning": "转而“青楸”，楸乃美木，青乃正色，是以其色秀美端正。",
+  "meaning_pages": [
+   91,
+   140
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "菉竹",
+  "index_name": "菉竹",
+  "chapter": "大暑",
+  "cmyk": "C65M35Y65K0",
+  "rgb": "R105G142B106",
+  "hex": "#698E6A",
+  "cmyk_rgb_delta": 24,
+  "votes": 4,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   91,
+   140
+  ],
+  "flags": [],
+  "meaning": "合乎“菉竹”，这是夏天最后的颜色，也是夏天常见的植物颜色，虽然幼小，却有着努力向竹子看齐的生命力。",
+  "meaning_pages": [
+   91,
+   140
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "窃蓝",
+  "index_name": "窃蓝",
+  "chapter": "立秋",
+  "cmyk": "C50M25Y0K0",
+  "rgb": "R136G171B218",
+  "hex": "#88ABDA",
+  "cmyk_rgb_delta": 37,
+  "votes": 2,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   148,
+   158
+  ],
+  "flags": [],
+  "meaning": "起于“窃蓝”，上古首次给出浅蓝的传统色场景是催促秋收的农桑候鸟颜色，金黄色的稻黍和浅蓝色的小鸟，好似凡·高的画卷。",
+  "meaning_pages": [
+   148,
+   158
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "监德",
+  "index_name": "监德",
+  "chapter": "立秋",
+  "cmyk": "C60M35Y0K0",
+  "rgb": "R111G148B205",
+  "hex": "#6F94CD",
+  "cmyk_rgb_delta": 50,
+  "votes": 3,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   148,
+   158
+  ],
+  "flags": [],
+  "meaning": "承之“监德”，东方晨星的色泽，想起《老人与海》里天蒙蒙亮的出海，想起星辰大海。",
+  "meaning_pages": [
+   148,
+   158
+  ],
+  "meaning_source": "《老人与海》",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "苍苍",
+  "index_name": "苍苍",
+  "chapter": "立秋",
+  "cmyk": "C70M50Y0K0",
+  "rgb": "R89G118B186",
+  "hex": "#5976BA",
+  "cmyk_rgb_delta": 69,
+  "votes": 3,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   148,
+   158
+  ],
+  "flags": [
+   "CMYK与RGB不匹配(偏差69)"
+  ],
+  "meaning": "转而“苍苍”，海天一色，我们曾感动于《海阔天空》，感动于“一生不羁放纵爱自由”。",
+  "meaning_pages": [
+   148,
+   158
+  ],
+  "meaning_source": "《海阔天空》",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "群青",
+  "index_name": "群青",
+  "chapter": "立秋",
+  "cmyk": "C85M65Y0K0",
+  "rgb": "R46G89B167",
+  "hex": "#2E59A7",
+  "cmyk_rgb_delta": 88,
+  "votes": 3,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   148,
+   158
+  ],
+  "flags": [
+   "CMYK与RGB不匹配(偏差88)"
+  ],
+  "meaning": "合乎“群青”，与青金石有关的颜色都透着一股贵气和洋气。",
+  "meaning_pages": [
+   148,
+   158
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "白青",
+  "index_name": "白青",
+  "chapter": "立秋",
+  "cmyk": "C45M20Y20K0",
+  "rgb": "R152G182B194",
+  "hex": "#98B6C2",
+  "cmyk_rgb_delta": 22,
+  "votes": 5,
+  "read_deviation": 20,
+  "near_names": [],
+  "pages": [
+   148,
+   160,
+   294
+  ],
+  "flags": [
+   "RGB有2种读法"
+  ],
+  "meaning": "起于“白青”，石青属中国画颜料的石色系，以色目分则为头青、二青、三青、四青，以矿物质地分则有白青、空青、曾青、群青等。",
+  "meaning_pages": [
+   148,
+   160,
+   294
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "竹月",
+  "index_name": "竹月",
+  "chapter": "立秋",
+  "cmyk": "C55M30Y25K0",
+  "rgb": "R127G159B175",
+  "hex": "#7F9FAF",
+  "cmyk_rgb_delta": 19,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   148,
+   160,
+   294
+  ],
+  "flags": [],
+  "meaning": "承之“竹月”，中国画有“竹月图”之类，月绘色竹月，画月笑如画竹，画竹则印月色。",
+  "meaning_pages": [
+   148,
+   160,
+   294
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 0.949
+ },
+ {
+  "name": "空青",
+  "index_name": "空青",
+  "chapter": "立秋",
+  "cmyk": "C65M40Y30K0",
+  "rgb": "R102G136B158",
+  "hex": "#66889E",
+  "cmyk_rgb_delta": 20,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   148,
+   160,
+   294
+  ],
+  "flags": [],
+  "meaning": "转而“空青”，辨矿一说，空而有浆者为空青，不空无浆者为白青。",
+  "meaning_pages": [
+   148,
+   160,
+   294
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "太师青",
+  "index_name": "太师青",
+  "chapter": "立秋",
+  "cmyk": "C70M45Y35K10",
+  "rgb": "R84G118B137",
+  "hex": "#547689",
+  "cmyk_rgb_delta": 15,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   148,
+   160,
+   294
+  ],
+  "flags": [],
+  "meaning": "合乎“太师青”，“欲问宫中天水碧，都人惟说太师青”，蔡京太师青、宫人天水碧，随汴梁俱往矣。",
+  "meaning_pages": [
+   148,
+   160,
+   294
+  ],
+  "meaning_source": "“欲问宫中天水碧，都人惟说太师青”",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "缃羽",
+  "index_name": "缃羽",
+  "chapter": "立秋",
+  "cmyk": "C0M0Y0K10",
+  "rgb": "R239G239B239",
+  "hex": "#EFEFEF",
+  "cmyk_rgb_delta": null,
+  "votes": 0,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   148
+  ],
+  "flags": [
+   "色值经序列对齐推定（索引「缃羽」在正文中读作「缟羽」，值取自书页 148）"
+  ],
+  "meaning": "",
+  "meaning_pages": [],
+  "meaning_source": "",
+  "meaning_agreement": null
+ },
+ {
+  "name": "香皮",
+  "index_name": "香皮",
+  "chapter": "立秋",
+  "cmyk": "C15M15Y20K5",
+  "rgb": "R216G209B197",
+  "hex": "#D8D1C5",
+  "cmyk_rgb_delta": 10,
+  "votes": 4,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   148,
+   295
+  ],
+  "flags": [],
+  "meaning": "承之“香皮”，栈香树，香皮纸，睹其字则发南国之思。",
+  "meaning_pages": [
+   148,
+   162
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "云母",
+  "index_name": "云母",
+  "chapter": "立秋",
+  "cmyk": "C20M20Y25K10",
+  "rgb": "R198G190B177",
+  "hex": "#C6BEB1",
+  "cmyk_rgb_delta": 14,
+  "votes": 4,
+  "read_deviation": 10,
+  "near_names": [],
+  "pages": [
+   148,
+   162,
+   295
+  ],
+  "flags": [
+   "RGB有3种读法"
+  ],
+  "meaning": "转而“云母”，诗人最擅长捕捉云母屏风造出的咫尺他乡意境，屏前烛影，影长河，影愁山。",
+  "meaning_pages": [
+   148,
+   162
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "佩玖",
+  "index_name": "佩玖",
+  "chapter": "立秋",
+  "cmyk": "C30M30Y40K15",
+  "rgb": "R172G159B138",
+  "hex": "#AC9F8A",
+  "cmyk_rgb_delta": 20,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   148,
+   162,
+   291
+  ],
+  "flags": [],
+  "meaning": "合乎“佩玖”，玖为浅黑之玉石色，丘中有李，心中有君，“彼留之子，贻我佩玖”，越过山丘，依然温暖在手。",
+  "meaning_pages": [
+   148,
+   162
+  ],
+  "meaning_source": "“彼留之子，贻我佩玖”",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "麇尘",
+  "index_name": "麇尘",
+  "chapter": "立秋",
+  "cmyk": "C30M10Y45K0",
+  "rgb": "R192G208B157",
+  "hex": "#C0D09D",
+  "cmyk_rgb_delta": null,
+  "votes": 0,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   149,
+   164,
+   281
+  ],
+  "flags": [
+   "色值经孤儿观测补齐（候选名 麹尘 / 麴尘 / 鞠尘 / 菊尘 / 缃尘，共 3 页印证：[149, 164, 281]）"
+  ],
+  "meaning": "",
+  "meaning_pages": [],
+  "meaning_source": "",
+  "meaning_agreement": null
+ },
+ {
+  "name": "绿沈",
+  "index_name": "绿沈",
+  "chapter": "立秋",
+  "cmyk": "C50M40Y80K0",
+  "rgb": "R147G143B76",
+  "hex": "#938F4C",
+  "cmyk_rgb_delta": 25,
+  "votes": 4,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   149,
+   164,
+   282
+  ],
+  "flags": [],
+  "meaning": "承之“绿沈”，绿色深沉，古雅幽朴，这是桃李不言、深水静流的意境。",
+  "meaning_pages": [
+   149,
+   164,
+   282
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "绞衣",
+  "index_name": "绞衣",
+  "chapter": "立秋",
+  "cmyk": "C55M50Y75K10",
+  "rgb": "R127G117B76",
+  "hex": "#7F754C",
+  "cmyk_rgb_delta": 24,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   149,
+   164,
+   282
+  ],
+  "flags": [],
+  "meaning": "转而“绞衣”，绞是黄绿色，《礼记》规定的礼制，青狐大袖口的麋鹿皮衣外配搭这种颜色的罩衣。",
+  "meaning_pages": [
+   149,
+   164,
+   282
+  ],
+  "meaning_source": "《礼记》",
+  "meaning_agreement": 0.977
+ },
+ {
+  "name": "素綦",
+  "index_name": "素綦",
+  "chapter": "立秋",
+  "cmyk": "C70M65Y90K20",
+  "rgb": "R89G83B51",
+  "hex": "#595333",
+  "cmyk_rgb_delta": 31,
+  "votes": 4,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   149,
+   164,
+   282
+  ],
+  "flags": [],
+  "meaning": "合乎“素綦”，綦是黑绿色，出处是这种颜色的鹿皮。",
+  "meaning_pages": [
+   149,
+   164,
+   282
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "退红",
+  "index_name": "退红",
+  "chapter": "处暑",
+  "cmyk": "C5M25Y0K0",
+  "rgb": "R240G207B227",
+  "hex": "#F0CFE3",
+  "cmyk_rgb_delta": 28,
+  "votes": 2,
+  "read_deviation": 6,
+  "near_names": [],
+  "pages": [
+   149,
+   166
+  ],
+  "flags": [
+   "CMYK有2种读法",
+   "RGB有2种读法"
+  ],
+  "meaning": "起于“退红”，说起这个退字，不由想起“舞榭歌台，风流总被雨打风吹去”，柔和的姿态是风雨过后的平静。",
+  "meaning_pages": [
+   149,
+   166,
+   286
+  ],
+  "meaning_source": "辛弃疾《永遇乐·京口北固亭怀古》",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "樱花",
+  "index_name": "樱花",
+  "chapter": "处暑",
+  "cmyk": "C10M35Y0K0",
+  "rgb": "R228G184B213",
+  "hex": "#E4B8D5",
+  "cmyk_rgb_delta": 42,
+  "votes": 2,
+  "read_deviation": 30,
+  "near_names": [],
+  "pages": [
+   149,
+   166
+  ],
+  "flags": [
+   "CMYK有2种读法",
+   "RGB有2种读法"
+  ],
+  "meaning": "承之“樱花”，如果知道盛唐时樱花亦是处处盛开，是不是更想回到长安，看樱花树下贵妃醉酒？",
+  "meaning_pages": [
+   149,
+   166,
+   286
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "丁香",
+  "index_name": "丁香",
+  "chapter": "处暑",
+  "cmyk": "C20M50Y0K0",
+  "rgb": "R206G147B191",
+  "hex": "#CE93BF",
+  "cmyk_rgb_delta": 64,
+  "votes": 4,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   149,
+   166
+  ],
+  "flags": [
+   "CMYK与RGB不匹配(偏差64)",
+   "典故两模型不一致(90%)",
+   "典故两模型不一致(90%)"
+  ],
+  "meaning": "转而“丁香”，“我希望逢着 / 一个丁香一样地 / 结着愁怨的姑娘 / 她是有 / 丁香一样的颜色 / 丁香一样的芬芳 / 丁香一样的忧愁”。",
+  "meaning_pages": [
+   149,
+   166,
+   286
+  ],
+  "meaning_source": "戴望舒《雨巷》",
+  "meaning_agreement": 0.898
+ },
+ {
+  "name": "木槿",
+  "index_name": "木槿",
+  "chapter": "处暑",
+  "cmyk": "C30M60Y0K0",
+  "rgb": "R186G121B177",
+  "hex": "#BA79B1",
+  "cmyk_rgb_delta": 78,
+  "votes": 4,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   149,
+   166
+  ],
+  "flags": [
+   "CMYK与RGB不匹配(偏差78)"
+  ],
+  "meaning": "合乎“木槿”，木槿花朝开暮落，比樱花的生命还要决绝和果敢，《诗经》里称它为“舜华”。",
+  "meaning_pages": [
+   149,
+   166,
+   286
+  ],
+  "meaning_source": "《诗经》",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "余白",
+  "index_name": "余白",
+  "chapter": "处暑",
+  "cmyk": "C25M15Y25K0",
+  "rgb": "R201G207B193",
+  "hex": "#C9CFC1",
+  "cmyk_rgb_delta": 10,
+  "votes": 4,
+  "read_deviation": 3,
+  "near_names": [],
+  "pages": [
+   149,
+   168,
+   295
+  ],
+  "flags": [
+   "CMYK有2种读法",
+   "RGB有2种读法"
+  ],
+  "meaning": "起于“余白”，白里透青鱼肚白，隔水明灭隐隐碧，这个颜色好有画面感。",
+  "meaning_pages": [
+   149,
+   168
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "兰苕",
+  "index_name": "兰苕",
+  "chapter": "处暑",
+  "cmyk": "C40M20Y50K0",
+  "rgb": "R168G183B140",
+  "hex": "#A8B78C",
+  "cmyk_rgb_delta": 21,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   149,
+   168,
+   281
+  ],
+  "flags": [],
+  "meaning": "承之“兰苕”，出与翡翠同框，入则唇齿留香，不管是兰花叶还是青精米，都不是俗物。",
+  "meaning_pages": [
+   149,
+   168
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "碧滋",
+  "index_name": "碧滋",
+  "chapter": "处暑",
+  "cmyk": "C50M30Y55K0",
+  "rgb": "R144G160B125",
+  "hex": "#90A07D",
+  "cmyk_rgb_delta": 18,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   149,
+   168,
+   281
+  ],
+  "flags": [],
+  "meaning": "转而“碧滋”，李太白总是不同凡响，前文的松花色和这里的碧滋色，他一语以概之，“轻如松花落金粉，浓似苔锦含碧滋”。",
+  "meaning_pages": [
+   149,
+   168
+  ],
+  "meaning_source": "李白《同族弟金乡少府冰幼及狄卿路公宴南楼》",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "葱倩",
+  "index_name": "葱倩",
+  "chapter": "处暑",
+  "cmyk": "C65M40Y80K0",
+  "rgb": "R108G134B80",
+  "hex": "#6C8650",
+  "cmyk_rgb_delta": 29,
+  "votes": 6,
+  "read_deviation": 104,
+  "near_names": [],
+  "pages": [
+   149,
+   168,
+   212,
+   281
+  ],
+  "flags": [
+   "CMYK有2种读法",
+   "RGB有2种读法"
+  ],
+  "meaning": "合乎“葱倩”，青山发苍，苍山生郁，就是这种绿。",
+  "meaning_pages": [
+   149,
+   168
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "云门",
+  "index_name": "云门",
+  "chapter": "处暑",
+  "cmyk": "C40M5Y10K0",
+  "rgb": "R162G210B226",
+  "hex": "#A2D2E2",
+  "cmyk_rgb_delta": 32,
+  "votes": 4,
+  "read_deviation": 10,
+  "near_names": [],
+  "pages": [
+   150,
+   170,
+   293
+  ],
+  "flags": [
+   "RGB有2种读法"
+  ],
+  "meaning": "起于“云门”，黄帝以云为纪，这云大概是星云，星云浩瀚，雨露均沾。",
+  "meaning_pages": [
+   150,
+   170
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "西子",
+  "index_name": "西子",
+  "chapter": "处暑",
+  "cmyk": "C50M10Y20K0",
+  "rgb": "R135G192B202",
+  "hex": "#87C0CA",
+  "cmyk_rgb_delta": 38,
+  "votes": 5,
+  "read_deviation": 100,
+  "near_names": [],
+  "pages": [
+   150,
+   170,
+   293
+  ],
+  "flags": [
+   "CMYK有2种读法",
+   "RGB有2种读法"
+  ],
+  "meaning": "承之“西子”，清代盛行湖色服饰，西子色当与湖色相类，晴日碧波，心旷神怡。",
+  "meaning_pages": [
+   150,
+   170
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "天水碧",
+  "index_name": "天水碧",
+  "chapter": "处暑",
+  "cmyk": "C65M20Y30K0",
+  "rgb": "R90G164B174",
+  "hex": "#5AA4AE",
+  "cmyk_rgb_delta": 40,
+  "votes": 7,
+  "read_deviation": 10,
+  "near_names": [],
+  "pages": [
+   1,
+   150,
+   170,
+   293
+  ],
+  "flags": [
+   "RGB有2种读法"
+  ],
+  "meaning": "C65 M20 Y30 K0 R90 G164 B174",
+  "meaning_pages": [
+   1,
+   150,
+   170
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "法翠",
+  "index_name": "法翠",
+  "chapter": "处暑",
+  "cmyk": "C80M30Y40K0",
+  "rgb": "R16G139B150",
+  "hex": "#108B96",
+  "cmyk_rgb_delta": 39,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   150,
+   170,
+   293
+  ],
+  "flags": [],
+  "meaning": "合乎“法翠”，孔雀与翠鸟，一旦表征颜色，都美得令人窒息，美得不真实。",
+  "meaning_pages": [
+   150,
+   170
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "桑蕾",
+  "index_name": "桑蕾",
+  "chapter": "处暑",
+  "cmyk": "C10M15Y45K0",
+  "rgb": "R234G216B154",
+  "hex": "#EAD89A",
+  "cmyk_rgb_delta": 14,
+  "votes": 3,
+  "read_deviation": 10,
+  "near_names": [],
+  "pages": [
+   150,
+   172,
+   291
+  ],
+  "flags": [
+   "CMYK有2种读法",
+   "RGB有3种读法"
+  ],
+  "meaning": "起于“桑蕾”，麦芒绿了的季节，桑蕾也就变黄了，这个颜色仿佛青涩的高中生。",
+  "meaning_pages": [
+   150,
+   172
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "太一余粮",
+  "index_name": "太一余粮",
+  "chapter": "处暑",
+  "cmyk": "C20M30Y70K0",
+  "rgb": "R213G180B92",
+  "hex": "#D5B45C",
+  "cmyk_rgb_delta": 15,
+  "votes": 5,
+  "read_deviation": 20,
+  "near_names": [],
+  "pages": [
+   150,
+   172,
+   291
+  ],
+  "flags": [
+   "RGB有2种读法"
+  ],
+  "meaning": "承之“太一余粮”，上古神兵的终极口粮才敢这么叫吧，多么合乎游戏玩家心意。",
+  "meaning_pages": [
+   150,
+   172
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "秋香",
+  "index_name": "秋香",
+  "chapter": "处暑",
+  "cmyk": "C30M40Y80K0",
+  "rgb": "R191G156B70",
+  "hex": "#BF9C46",
+  "cmyk_rgb_delta": 19,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   150,
+   172,
+   291
+  ],
+  "flags": [],
+  "meaning": "转而“秋香”，一树桂花，一树秋香，李商隐不是诗人，是画师。",
+  "meaning_pages": [
+   150,
+   172
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "老茯神",
+  "index_name": "老茯神",
+  "chapter": "处暑",
+  "cmyk": "C40M50Y90K0",
+  "rgb": "R170G133B52",
+  "hex": "#AA8534",
+  "cmyk_rgb_delta": 27,
+  "votes": 4,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   150,
+   172,
+   291
+  ],
+  "flags": [],
+  "meaning": "合乎“老茯神”，茯神在干老后其色近似琥珀，松间隐居，拂松花，采松实，酿松针酒，养老茯神，不似人间。",
+  "meaning_pages": [
+   150,
+   172
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "凝脂",
+  "index_name": "凝脂",
+  "chapter": "白露",
+  "cmyk": "C5M5Y10K0",
+  "rgb": "R245G242B233",
+  "hex": "#F5F2E9",
+  "cmyk_rgb_delta": 3,
+  "votes": 2,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   150
+  ],
+  "flags": [],
+  "meaning": "起于“凝脂”，唯有华清池水才洗得凝脂，唯有螓首蛾眉才配得凝脂。",
+  "meaning_pages": [
+   150,
+   174
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "玉色",
+  "index_name": "玉色",
+  "chapter": "白露",
+  "cmyk": "C10M10Y20K0",
+  "rgb": "R234G228B209",
+  "hex": "#EAE4D1",
+  "cmyk_rgb_delta": 5,
+  "votes": 2,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   150
+  ],
+  "flags": [],
+  "meaning": "承之“玉色”，相由心生，最好的注脚是玉色，心如玉则面生玉色，是为贤人。",
+  "meaning_pages": [
+   150,
+   174
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "黄润",
+  "index_name": "黄润",
+  "chapter": "白露",
+  "cmyk": "C15M15Y30K0",
+  "rgb": "R223G214B184",
+  "hex": "#DFD6B8",
+  "cmyk_rgb_delta": 6,
+  "votes": 2,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   150
+  ],
+  "flags": [],
+  "meaning": "转而“黄润”，细麻布的微黄温润，不愧是当年高档的衣服料子。",
+  "meaning_pages": [
+   150,
+   174
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "缫缃",
+  "index_name": "缫缃",
+  "chapter": "白露",
+  "cmyk": "C20M20Y40K0",
+  "rgb": "R213G200B160",
+  "hex": "#D5C8A0",
+  "cmyk_rgb_delta": null,
+  "votes": 0,
+  "read_deviation": null,
+  "near_names": [
+   "缣缃",
+   "缃绮"
+  ],
+  "pages": [
+   150
+  ],
+  "flags": [
+   "名称待核对(近似:缣缃/缃绮)",
+   "色值经序列对齐推定（索引「缫缃」在正文中读作「缣缃」，值取自书页 150）"
+  ],
+  "meaning": "",
+  "meaning_pages": [],
+  "meaning_source": "",
+  "meaning_agreement": null
+ },
+ {
+  "name": "蕉月",
+  "index_name": "蕉月",
+  "chapter": "白露",
+  "cmyk": "C50M35Y40K10",
+  "rgb": "R134G144B138",
+  "hex": "#86908A",
+  "cmyk_rgb_delta": 19,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   151,
+   176,
+   283
+  ],
+  "flags": [],
+  "meaning": "起于“蕉月”，中国画有“蕉月图”之类，凡绘色蕉月，在蕉不在月，江南庭院意境，“窗前谁种芭蕉树，阴满中庭”。",
+  "meaning_pages": [
+   151,
+   176
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "千山翠",
+  "index_name": "千山翠",
+  "chapter": "白露",
+  "cmyk": "C60M40Y50K15",
+  "rgb": "R107G125B115",
+  "hex": "#6B7D73",
+  "cmyk_rgb_delta": 20,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   151,
+   176,
+   283
+  ],
+  "flags": [],
+  "meaning": "承之“千山翠”，同样出自秘色瓷，谦谦君子，温润如玉。",
+  "meaning_pages": [
+   151,
+   176
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "结绿",
+  "index_name": "结绿",
+  "chapter": "白露",
+  "cmyk": "C70M55Y70K20",
+  "rgb": "R85G95B77",
+  "hex": "#555F4D",
+  "cmyk_rgb_delta": 24,
+  "votes": 5,
+  "read_deviation": 10,
+  "near_names": [],
+  "pages": [
+   151,
+   176,
+   283
+  ],
+  "flags": [
+   "RGB有2种读法"
+  ],
+  "meaning": "转而“结绿”，上古首次给出玉石绿的传统色场景是“宋之结绿”，两字均为“糸”字旁，借自古代桑农对“桑螵蛸”的俗称，“桑螵蛸”则是对螳螂卵房的雅称。",
+  "meaning_pages": [
+   151,
+   176
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "绿云",
+  "index_name": "绿云",
+  "chapter": "白露",
+  "cmyk": "C75M65Y75K30",
+  "rgb": "R69G73B61",
+  "hex": "#45493D",
+  "cmyk_rgb_delta": 24,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   151,
+   176,
+   283
+  ],
+  "flags": [],
+  "meaning": "合乎“绿云”，“绿云扰扰，梳晓鬟也”是《阿房宫赋》还记得住的为数不多的场景。",
+  "meaning_pages": [
+   151,
+   176
+  ],
+  "meaning_source": "《阿房宫赋》",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "藕丝秋半",
+  "index_name": "藕丝秋半",
+  "chapter": "白露",
+  "cmyk": "C20M20Y20K0",
+  "rgb": "R211G203B197",
+  "hex": "#D3CBC5",
+  "cmyk_rgb_delta": 7,
+  "votes": 5,
+  "read_deviation": 5,
+  "near_names": [],
+  "pages": [
+   151,
+   178,
+   295
+  ],
+  "flags": [
+   "CMYK有2种读法"
+  ],
+  "meaning": "起于“藕丝秋半”，藕丝白沾染秋色，竟然是唐代流行服饰色，又是清代牡丹的花色，妙也。",
+  "meaning_pages": [
+   151,
+   178
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "苍烟落照",
+  "index_name": "苍烟落照",
+  "chapter": "白露",
+  "cmyk": "C25M30Y25K0",
+  "rgb": "R200G181B179",
+  "hex": "#C8B5B3",
+  "cmyk_rgb_delta": 12,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   151,
+   178,
+   287
+  ],
+  "flags": [],
+  "meaning": "承之“苍烟落照”，苍烟照上落日色，无关尘世，可待风月。",
+  "meaning_pages": [
+   151,
+   178
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 0.963
+ },
+ {
+  "name": "红藤杖",
+  "index_name": "红藤杖",
+  "chapter": "白露",
+  "cmyk": "C50M50Y40K0",
+  "rgb": "R146G129B135",
+  "hex": "#928187",
+  "cmyk_rgb_delta": 18,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   151,
+   178,
+   287
+  ],
+  "flags": [],
+  "meaning": "转而“红藤杖”，其颜色考据自我国分布广泛的大血藤枝条色，直到现在它依然是制作藤器的原料。",
+  "meaning_pages": [
+   151,
+   178
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "紫鼠",
+  "index_name": "紫鼠",
+  "chapter": "白露",
+  "cmyk": "C65M65Y50K30",
+  "rgb": "R89G76B87",
+  "hex": "#594C57",
+  "cmyk_rgb_delta": 27,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   151,
+   178,
+   287
+  ],
+  "flags": [],
+  "meaning": "合乎“紫鼠”，其颜色考据自我国北方的紫貂毛皮色，直到现在它也很贵重，相比留下毛皮的野蛮，更好的做法是留下颜色的传承。",
+  "meaning_pages": [
+   151,
+   178
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "黄粱",
+  "index_name": "黄粱",
+  "chapter": "白露",
+  "cmyk": "C25M25Y40K5",
+  "rgb": "R196G183B152",
+  "hex": "#C4B798",
+  "cmyk_rgb_delta": 14,
+  "votes": 4,
+  "read_deviation": 1,
+  "near_names": [],
+  "pages": [
+   151,
+   180,
+   289
+  ],
+  "flags": [
+   "RGB有2种读法"
+  ],
+  "meaning": "起于“黄粱”，黄粱梦也是神仙富贵梦，有梦就好，“方其梦也，不知其梦也”。",
+  "meaning_pages": [
+   151,
+   289
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "蒸栗",
+  "index_name": "蒸栗",
+  "chapter": "白露",
+  "cmyk": "C40M45Y65K5",
+  "rgb": "R165G138B95",
+  "hex": "#A58A5F",
+  "cmyk_rgb_delta": 20,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   151,
+   180,
+   289
+  ],
+  "flags": [],
+  "meaning": "承之“蒸栗”，色如蒸熟之栗，最早见于西汉史游的《急就篇》，在玉色里称之为坩。",
+  "meaning_pages": [
+   151,
+   180,
+   289
+  ],
+  "meaning_source": "《急就篇》",
+  "meaning_agreement": 0.974
+ },
+ {
+  "name": "射干",
+  "index_name": "射干",
+  "chapter": "白露",
+  "cmyk": "C55M60Y80K15",
+  "rgb": "R124G98B63",
+  "hex": "#7C623F",
+  "cmyk_rgb_delta": 26,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   151,
+   180,
+   289
+  ],
+  "flags": [],
+  "meaning": "转而“射干”，其颜色考据自我国分布广泛的射干，取其干燥根茎色。",
+  "meaning_pages": [
+   151,
+   180,
+   289
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "油葫芦",
+  "index_name": "油葫芦",
+  "chapter": "白露",
+  "cmyk": "C65M70Y90K20",
+  "rgb": "R100G77B49",
+  "hex": "#644D31",
+  "cmyk_rgb_delta": 29,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   151,
+   180,
+   289
+  ],
+  "flags": [],
+  "meaning": "合乎“油葫芦”，其颜色考据自我国分布广泛的小䴙䴘，取其背部毛羽色，载于《清宫鸟谱》。",
+  "meaning_pages": [
+   151,
+   180,
+   289
+  ],
+  "meaning_source": "《清宫鸟谱》",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "卵色",
+  "index_name": "卵色",
+  "chapter": "秋分",
+  "cmyk": "C20M5Y20K0",
+  "rgb": "R213G227B212",
+  "hex": "#D5E3D4",
+  "cmyk_rgb_delta": 15,
+  "votes": 2,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   152
+  ],
+  "flags": [],
+  "meaning": "起于“卵色”，实为蛋青色，从卵白釉的颜色考据，偏浅绿色，而月白、天青更偏浅蓝色，只能说它们和卵色的颜色意象一致。",
+  "meaning_pages": [
+   152,
+   182,
+   282
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "葭灰",
+  "index_name": "葭灰",
+  "chapter": "秋分",
+  "cmyk": "C25M10Y25K0",
+  "rgb": "R202G215B197",
+  "hex": "#CAD7C5",
+  "cmyk_rgb_delta": 15,
+  "votes": 1,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   152
+  ],
+  "flags": [
+   "共识不足(1票)"
+  ],
+  "meaning": "起于“葭灰”，芦苇成灰，比芦苇管里的白皮还薄，这个颜色把世间人情看穿了，看穿了就少些心痛，也是好事情。",
+  "meaning_pages": [
+   21,
+   40,
+   289
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "冰台",
+  "index_name": "冰台",
+  "chapter": "秋分",
+  "cmyk": "C30M15Y30K0",
+  "rgb": "R190G202B183",
+  "hex": "#BECAB7",
+  "cmyk_rgb_delta": 15,
+  "votes": 3,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   152,
+   182
+  ],
+  "flags": [],
+  "meaning": "转而“冰台”，艾蒿之未秀，少艾之色。",
+  "meaning_pages": [
+   152,
+   182,
+   282
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "青古",
+  "index_name": "青古",
+  "chapter": "秋分",
+  "cmyk": "C35M20Y35K0",
+  "rgb": "R179G189B169",
+  "hex": "#B3BDA9",
+  "cmyk_rgb_delta": 15,
+  "votes": 3,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   152,
+   182
+  ],
+  "flags": [],
+  "meaning": "合乎“青古”，从佛山金箔相关著作里考证的颜色，名为青古，用于装饰青叶之象。",
+  "meaning_pages": [
+   152,
+   182,
+   282
+  ],
+  "meaning_source": "佛山金箔相关著作",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "栾华",
+  "index_name": "栾华",
+  "chapter": "秋分",
+  "cmyk": "C30M30Y70K0",
+  "rgb": "R192G173B94",
+  "hex": "#C0AD5E",
+  "cmyk_rgb_delta": 17,
+  "votes": 4,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   152,
+   184,
+   291
+  ],
+  "flags": [],
+  "meaning": "起于“栾华”，栾木之华，与槐花一样的花型，也与槐花一样可以染黄。",
+  "meaning_pages": [
+   152,
+   184
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "大赤",
+  "index_name": "大赤",
+  "chapter": "秋分",
+  "cmyk": "C40M40Y80K0",
+  "rgb": "R170G150B73",
+  "hex": "#AA9649",
+  "cmyk_rgb_delta": 22,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   152,
+   184,
+   291
+  ],
+  "flags": [],
+  "meaning": "承之“大赤”，故宫太和殿之龙用到库金和大赤两种金箔色。",
+  "meaning_pages": [
+   152,
+   184
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "佛赤",
+  "index_name": "佛赤",
+  "chapter": "秋分",
+  "cmyk": "C45M85Y90K15",
+  "rgb": "R143G61B44",
+  "hex": "#8F3D2C",
+  "cmyk_rgb_delta": 28,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   152,
+   184,
+   284
+  ],
+  "flags": [],
+  "meaning": "转而“佛赤”，佛塑金身的颜色，法相庄严，慈悲济世。",
+  "meaning_pages": [
+   152,
+   184,
+   284
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "蜜褐",
+  "index_name": "蜜褐",
+  "chapter": "秋分",
+  "cmyk": "C55M80Y75K35",
+  "rgb": "R104G54B50",
+  "hex": "#683632",
+  "cmyk_rgb_delta": 29,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   152,
+   184,
+   286
+  ],
+  "flags": [],
+  "meaning": "合乎“蜜褐”，说到这里，不知道为什么操心起染发的问题，如果跟发型师商议就染这个蜜褐色，可能得猜猜染完到底是什么颜色，发型师的蜜褐是谜之色。",
+  "meaning_pages": [
+   152,
+   184,
+   286
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "孔雀蓝",
+  "index_name": "孔雀蓝",
+  "chapter": "秋分",
+  "cmyk": "C70M30Y10K0",
+  "rgb": "R73G148B196",
+  "hex": "#4994C4",
+  "cmyk_rgb_delta": 34,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   152,
+   186,
+   292
+  ],
+  "flags": [],
+  "meaning": "起于“孔雀蓝”，孔雀与翠鸟，都是因为美丽而受伤的物种，孔雀蓝又名法蓝，不同于法翠，法蓝在烧制时添加了蓝色基调的颜料。",
+  "meaning_pages": [
+   152,
+   186
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "吐绶蓝",
+  "index_name": "吐绶蓝",
+  "chapter": "秋分",
+  "cmyk": "C75M40Y25K0",
+  "rgb": "R65G130B164",
+  "hex": "#4182A4",
+  "cmyk_rgb_delta": 27,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   152,
+   186,
+   293
+  ],
+  "flags": [],
+  "meaning": "承之“吐绶蓝”，角鸡的喉下肉裙，有钴蓝色间纹，同样载于《清宫鸟谱》。",
+  "meaning_pages": [
+   152,
+   186
+  ],
+  "meaning_source": "《清宫鸟谱》",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "鱼师青",
+  "index_name": "鱼师青",
+  "chapter": "秋分",
+  "cmyk": "C80M45Y40K0",
+  "rgb": "R50G120B138",
+  "hex": "#32788A",
+  "cmyk_rgb_delta": 20,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   152,
+   186,
+   293
+  ],
+  "flags": [],
+  "meaning": "转而“鱼师青”，个头小的翠鸟亦称鱼师，翠鸟之属，雄鸟红羽为翡，雌鸟青羽为翠。",
+  "meaning_pages": [
+   152,
+   186
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "软翠",
+  "index_name": "软翠",
+  "chapter": "秋分",
+  "cmyk": "C90M50Y40K0",
+  "rgb": "R0G109B135",
+  "hex": "#006D87",
+  "cmyk_rgb_delta": 25,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   152,
+   186,
+   293
+  ],
+  "flags": [],
+  "meaning": "合乎“软翠”，“杀身炎洲里，委羽玉堂阴”，所谓点翠这门手艺，取的是翠鸟羽毛，羽毛的部位不一样，点翠的颜色也不一样，软翠是翠鸟颈部的羽毛色。",
+  "meaning_pages": [
+   152,
+   186
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "浅云",
+  "index_name": "浅云",
+  "chapter": "秋分",
+  "cmyk": "C10M5Y5K0",
+  "rgb": "R234G238B241",
+  "hex": "#EAEEF1",
+  "cmyk_rgb_delta": 4,
+  "votes": 4,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   153,
+   295
+  ],
+  "flags": [],
+  "meaning": "起于“浅云”，蜀笺是出名的传统色衍生品，不只有薛涛笺，还有谢公笺，据制作工艺看，浅云属浅蓝基调的银白色。",
+  "meaning_pages": [
+   153,
+   188
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "素采",
+  "index_name": "素采",
+  "chapter": "秋分",
+  "cmyk": "C20M10Y10K0",
+  "rgb": "R212G221B225",
+  "hex": "#D4DDE1",
+  "cmyk_rgb_delta": 9,
+  "votes": 4,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   153,
+   294
+  ],
+  "flags": [],
+  "meaning": "承之“素采”，“波间素采涵秋净”，清秋月光照耀在水面或其他表面的反射色。",
+  "meaning_pages": [
+   153,
+   188,
+   294
+  ],
+  "meaning_source": "“波间素采涵秋净”",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "影青",
+  "index_name": "影青",
+  "chapter": "秋分",
+  "cmyk": "C30M15Y15K0",
+  "rgb": "R189G203B210",
+  "hex": "#BDCBD2",
+  "cmyk_rgb_delta": 14,
+  "votes": 5,
+  "read_deviation": 10,
+  "near_names": [],
+  "pages": [
+   153,
+   188,
+   294
+  ],
+  "flags": [
+   "RGB有2种读法"
+  ],
+  "meaning": "转而“影青”，薄透可见影，微观可见青，妙不可言。",
+  "meaning_pages": [
+   153,
+   188,
+   294
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "逍遥游",
+  "index_name": "逍遥游",
+  "chapter": "秋分",
+  "cmyk": "C35M20Y20K0",
+  "rgb": "R178G191B195",
+  "hex": "#B2BFC3",
+  "cmyk_rgb_delta": 13,
+  "votes": 5,
+  "read_deviation": 61,
+  "near_names": [],
+  "pages": [
+   153,
+   188,
+   294
+  ],
+  "flags": [
+   "CMYK有2种读法"
+  ],
+  "meaning": "合乎“逍遥游”，“绝云气负青天”的颜色，自由自在，元气冲天。",
+  "meaning_pages": [
+   153,
+   188,
+   294
+  ],
+  "meaning_source": "“绝云气负青天”",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "醺醂",
+  "index_name": "醺醂",
+  "chapter": "寒露",
+  "cmyk": "C40M20Y30K0",
+  "rgb": "R166G186B177",
+  "hex": "#A6BAB1",
+  "cmyk_rgb_delta": null,
+  "votes": 0,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   153
+  ],
+  "flags": [
+   "色值经序列对齐推定（索引「醺醂」在正文中读作「醹醁」，值取自书页 153）"
+  ],
+  "meaning": "",
+  "meaning_pages": [],
+  "meaning_source": "",
+  "meaning_agreement": null
+ },
+ {
+  "name": "翠涛",
+  "index_name": "翠涛",
+  "chapter": "寒露",
+  "cmyk": "C55M30Y45K0",
+  "rgb": "R129G157B142",
+  "hex": "#819D8E",
+  "cmyk_rgb_delta": 21,
+  "votes": 3,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   153,
+   190
+  ],
+  "flags": [],
+  "meaning": "承之“翠涛”，玉手舞动银筝柱，绿酒荡漾金杯卮，海天盛宴，“劝君金曲卮，勿谓朱颜酡”。",
+  "meaning_pages": [
+   153,
+   190
+  ],
+  "meaning_source": "“劝君金曲卮，勿谓朱颜酡”",
+  "meaning_agreement": 0.952
+ },
+ {
+  "name": "青梅",
+  "index_name": "青梅",
+  "chapter": "寒露",
+  "cmyk": "C60M40Y55K0",
+  "rgb": "R119G138B119",
+  "hex": "#778A77",
+  "cmyk_rgb_delta": 17,
+  "votes": 3,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   153,
+   190
+  ],
+  "flags": [],
+  "meaning": "转而“青梅”，青梅煮酒，不论英雄论颜色，色谱若如封神榜，青梅好比魔礼青，话说四大天王之魔礼青，面如活蟹，须如铜线。",
+  "meaning_pages": [
+   153,
+   190
+  ],
+  "meaning_source": "封神榜",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "翕艳",
+  "index_name": "翕艳",
+  "chapter": "寒露",
+  "cmyk": "C70M50Y60K0",
+  "rgb": "R95G118B106",
+  "hex": "#5F766A",
+  "cmyk_rgb_delta": null,
+  "votes": 0,
+  "read_deviation": null,
+  "near_names": [
+   "翕赩"
+  ],
+  "pages": [
+   153
+  ],
+  "flags": [
+   "名称待核对(近似:翕赩)",
+   "色值经序列对齐推定（索引「翕艳」在正文中读作「翕赩」，值取自书页 153）"
+  ],
+  "meaning": "",
+  "meaning_pages": [],
+  "meaning_source": "",
+  "meaning_agreement": null
+ },
+ {
+  "name": "九斤黄",
+  "index_name": "九斤黄",
+  "chapter": "寒露",
+  "cmyk": "C15M35Y55K0",
+  "rgb": "R221G176B120",
+  "hex": "#DDB078",
+  "cmyk_rgb_delta": 10,
+  "votes": 5,
+  "read_deviation": 15,
+  "near_names": [],
+  "pages": [
+   153,
+   192,
+   288
+  ],
+  "flags": [
+   "CMYK有2种读法",
+   "RGB有2种读法"
+  ],
+  "meaning": "起于“九斤黄”，《清宫鸟谱》生动有趣，绘形绘色，不仅有油葫芦，还有九斤黄。",
+  "meaning_pages": [
+   153,
+   192
+  ],
+  "meaning_source": "《清宫鸟谱》",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "杏子",
+  "index_name": "杏子",
+  "chapter": "寒露",
+  "cmyk": "C15M50Y85K0",
+  "rgb": "R218G146B51",
+  "hex": "#DA9233",
+  "cmyk_rgb_delta": 18,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   153,
+   192,
+   288
+  ],
+  "flags": [],
+  "meaning": "承之“杏子”，杏子色颇有古意，演进到清代，杏黄色就是皇家禁色了，清代太子杏黄服色和日本皇储黄丹服色相近。",
+  "meaning_pages": [
+   153,
+   192
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "媚蝶",
+  "index_name": "媚蝶",
+  "chapter": "寒露",
+  "cmyk": "C30M65Y85K0",
+  "rgb": "R188G110B55",
+  "hex": "#BC6E37",
+  "cmyk_rgb_delta": 21,
+  "votes": 7,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   145,
+   153,
+   192,
+   288
+  ],
+  "flags": [],
+  "meaning": "转而“媚蝶”，闺房媚色，着此色衣上此色妆，脱单身，防劈腿，功效大矣。",
+  "meaning_pages": [
+   153,
+   192
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "韎韐",
+  "index_name": "韎韐",
+  "chapter": "寒露",
+  "cmyk": "C40M75Y100K10",
+  "rgb": "R159G82B33",
+  "hex": "#9F5221",
+  "cmyk_rgb_delta": 33,
+  "votes": 2,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   153,
+   192
+  ],
+  "flags": [],
+  "meaning": "合乎“韎韐”，掉掉书袋，韎与缊同是赤黄色，韎韐与缊韍同是赤黄色的蔽膝，区别在韎韐属于靠本事吃饭的士人，缊韍属于靠出身吃饭的贵族。",
+  "meaning_pages": [
+   153,
+   192
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "东方既白",
+  "index_name": "东方既白",
+  "chapter": "寒露",
+  "cmyk": "C50M30Y10K0",
+  "rgb": "R139G163B199",
+  "hex": "#8BA3C7",
+  "cmyk_rgb_delta": 31,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   154,
+   194,
+   294
+  ],
+  "flags": [],
+  "meaning": "起于“东方既白”，日将出而未出，酒将醒而未醒，天色透白，睡意阑珊。",
+  "meaning_pages": [
+   154,
+   194,
+   294
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "绀宇",
+  "index_name": "绀宇",
+  "chapter": "寒露",
+  "cmyk": "C100M85Y35K0",
+  "rgb": "R0G61B116",
+  "hex": "#003D74",
+  "cmyk_rgb_delta": 50,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   154,
+   194,
+   292
+  ],
+  "flags": [],
+  "meaning": "承之“绀宇”，绀是青与赤的间色，也是很重要的基本传统色。",
+  "meaning_pages": [
+   154,
+   194
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "佛头青",
+  "index_name": "佛头青",
+  "chapter": "寒露",
+  "cmyk": "C100M95Y50K0",
+  "rgb": "R25G50B95",
+  "hex": "#19325F",
+  "cmyk_rgb_delta": 37,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   154,
+   194,
+   293
+  ],
+  "flags": [],
+  "meaning": "转而“佛头青”，同样是绀色系，所以也叫绀琉璃，绀色系是佛寺、佛像的重要色彩。",
+  "meaning_pages": [
+   154,
+   194
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "花青",
+  "index_name": "花青",
+  "chapter": "寒露",
+  "cmyk": "C100M100Y65K15",
+  "rgb": "R26G40B71",
+  "hex": "#1A2847",
+  "cmyk_rgb_delta": 40,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   154,
+   194,
+   293
+  ],
+  "flags": [],
+  "meaning": "合乎“花青”，属中国画颜料的水色系，与矿物色石青不同，花青是植物色。",
+  "meaning_pages": [
+   154,
+   194
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "弗肯红",
+  "index_name": "弗肯红",
+  "chapter": "寒露",
+  "cmyk": "C5M15Y20K5",
+  "rgb": "R236G217B199",
+  "hex": "#ECD9C7",
+  "cmyk_rgb_delta": 11,
+  "votes": 3,
+  "read_deviation": 10,
+  "near_names": [],
+  "pages": [
+   154,
+   288
+  ],
+  "flags": [
+   "CMYK有2种读法",
+   "RGB有2种读法"
+  ],
+  "meaning": "起于“弗肯红”，形容色值的传统色字词比现代要有趣，浅色形容词诸如窃、盗、小、退（褪）、柔（揉）、不肯（弗肯）等都很生动。",
+  "meaning_pages": [
+   154,
+   196
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "赤璋",
+  "index_name": "赤璋",
+  "chapter": "寒露",
+  "cmyk": "C10M25Y40K5",
+  "rgb": "R225G193B153",
+  "hex": "#E1C199",
+  "cmyk_rgb_delta": 11,
+  "votes": 4,
+  "read_deviation": 10,
+  "near_names": [],
+  "pages": [
+   154,
+   196,
+   288
+  ],
+  "flags": [
+   "CMYK有2种读法"
+  ],
+  "meaning": "承之“赤璋”，赤璋是礼南方的玉色，璋的形制是圭的一半，象征着事物的生命在夏天已经过去一半，这是珍惜时光的颜色。",
+  "meaning_pages": [
+   154,
+   196
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "茧色",
+  "index_name": "茧色",
+  "chapter": "寒露",
+  "cmyk": "C20M35Y60K10",
+  "rgb": "R198G162B104",
+  "hex": "#C6A268",
+  "cmyk_rgb_delta": 14,
+  "votes": 3,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   154,
+   196,
+   288
+  ],
+  "flags": [
+   "典故两模型不一致(6%)",
+   "典故两模型不一致(6%)"
+  ],
+  "meaning": "陆龟蒙《袭美以鱼笺见寄因谢成篇》咏“向日乍惊新茧色，临风时辨白萍文”。丁复《送僧还径山》咏“半岭晴云堆茧色，上方朝雨杂龙涎”。张仲深《谢易之自京回遗余文物七品各赋律诗一首谢之》咏“龙香浸润驼油滑，兔颖分明茧色新”。茧色考据不易，“兔颖分明茧色新”甚是有力，以兔毫笔的毛色可以推知茧色。孙珮《苏州织造局志》载“茧色，经每两生染银二分，八五就算”。",
+  "meaning_pages": [
+   196
+  ],
+  "meaning_source": "《袭美以鱼笺见寄因谢成篇》、《送僧还径山》、《谢易之自京回遗余文物七品各赋律诗一首谢之》、《苏州织造局志》",
+  "meaning_agreement": 0.061
+ },
+ {
+  "name": "密陀僧",
+  "index_name": "密陀僧",
+  "chapter": "寒露",
+  "cmyk": "C30M40Y75K10",
+  "rgb": "R179G147B75",
+  "hex": "#B3934B",
+  "cmyk_rgb_delta": 18,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   154,
+   196,
+   288
+  ],
+  "flags": [],
+  "meaning": "合乎“密陀僧”，东汉时从波斯传入，按波斯语音译为密陀僧，俗称铅黄，是中国画传统颜料色，也是美人们的妆品，更是炼丹术士的神物，炼丹术士认为它有衍生万物、驱魔辟邪的威力。",
+  "meaning_pages": [
+   154,
+   196
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 0.988
+ },
+ {
+  "name": "银朱",
+  "index_name": "银朱",
+  "chapter": "霜降",
+  "cmyk": "C15M95Y95K0",
+  "rgb": "R209G41B32",
+  "hex": "#D12920",
+  "cmyk_rgb_delta": 28,
+  "votes": 3,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   154,
+   198
+  ],
+  "flags": [],
+  "meaning": "起于“银朱”，和铅黄一样，也是中国画传统颜料色，银是形容色值亮度高的传统色词汇，翠也有这个功能，譬如翠蓝。",
+  "meaning_pages": [
+   154,
+   198
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "胭脂虫",
+  "index_name": "胭脂虫",
+  "chapter": "霜降",
+  "cmyk": "C35M100Y100K5",
+  "rgb": "R171G29B34",
+  "hex": "#AB1D22",
+  "cmyk_rgb_delta": 34,
+  "votes": 3,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   154,
+   198
+  ],
+  "flags": [],
+  "meaning": "承之“胭脂虫”，和密陀僧一样，也是由域外传入中国的，时间上稍晚，明代时从美洲传入。",
+  "meaning_pages": [
+   154,
+   198
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "朱樱",
+  "index_name": "朱樱",
+  "chapter": "霜降",
+  "cmyk": "C45M100Y100K15",
+  "rgb": "R143G29B34",
+  "hex": "#8F1D22",
+  "cmyk_rgb_delta": 34,
+  "votes": 3,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   154,
+   198
+  ],
+  "flags": [],
+  "meaning": "转而“朱樱”，熟透的樱桃色，说起来樱桃在中国有三千年的种植史。",
+  "meaning_pages": [
+   154,
+   198
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "爵头",
+  "index_name": "爵头",
+  "chapter": "霜降",
+  "cmyk": "C55M100Y100K40",
+  "rgb": "R99G18B22",
+  "hex": "#631216",
+  "cmyk_rgb_delta": 30,
+  "votes": 3,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   154,
+   198
+  ],
+  "flags": [],
+  "meaning": "合乎“爵头”，赤多黑少的雀头颜色，古代贵族男子二十岁时行加冠礼，礼仪第一回合的冠是这种颜色。",
+  "meaning_pages": [
+   154,
+   198
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "甘石",
+  "index_name": "甘石",
+  "chapter": "霜降",
+  "cmyk": "C30M30Y25K0",
+  "rgb": "R189G178B178",
+  "hex": "#BDB2B2",
+  "cmyk_rgb_delta": 13,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   155,
+   200,
+   287
+  ],
+  "flags": [],
+  "meaning": "起于“甘石”，出自炉甘石的矿物色，炉甘石是一种能解毒、明目、退翳、止痒、敛疮的中药。",
+  "meaning_pages": [
+   155,
+   200
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "迷楼灰",
+  "index_name": "迷楼灰",
+  "chapter": "霜降",
+  "cmyk": "C50M50Y35K0",
+  "rgb": "R145G130B143",
+  "hex": "#91828F",
+  "cmyk_rgb_delta": 23,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   155,
+   200,
+   287
+  ],
+  "flags": [],
+  "meaning": "承之“迷楼灰”，隋炀帝扬州迷楼化作灰烬的颜色意象，魏武帝的铜雀台、隋炀帝的迷楼，都是痴梦。",
+  "meaning_pages": [
+   155,
+   200
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "鵻维",
+  "index_name": "鵻维",
+  "chapter": "霜降",
+  "cmyk": "",
+  "rgb": "",
+  "hex": "",
+  "cmyk_rgb_delta": null,
+  "votes": 0,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [],
+  "flags": [
+   "缺少数值"
+  ],
+  "meaning": "",
+  "meaning_pages": [],
+  "meaning_source": "",
+  "meaning_agreement": null
+ },
+ {
+  "name": "烟墨",
+  "index_name": "烟墨",
+  "chapter": "霜降",
+  "cmyk": "C70M70Y60K15",
+  "rgb": "R92G79B85",
+  "hex": "#5C4F55",
+  "cmyk_rgb_delta": 27,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   155,
+   200,
+   287
+  ],
+  "flags": [],
+  "meaning": "合乎“烟墨”，中国画传统颜料色，按传统技法，墨分五色：焦、浓、重、淡、清。",
+  "meaning_pages": [
+   155,
+   200
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "十样锦",
+  "index_name": "十样锦",
+  "chapter": "霜降",
+  "cmyk": "C0M30Y25K0",
+  "rgb": "R248G198B181",
+  "hex": "#F8C6B5",
+  "cmyk_rgb_delta": 20,
+  "votes": 4,
+  "read_deviation": 10,
+  "near_names": [],
+  "pages": [
+   155,
+   202,
+   284
+  ],
+  "flags": [
+   "RGB有2种读法"
+  ],
+  "meaning": "起于“十样锦”，出名的传统色衍生品，除了蜀笺还有蜀锦，十样锦从锦名到色名，正是中国传统色的成形过程。",
+  "meaning_pages": [
+   155,
+   202,
+   284
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "檀唇",
+  "index_name": "檀唇",
+  "chapter": "霜降",
+  "cmyk": "C15M45Y40K0",
+  "rgb": "R218G158B140",
+  "hex": "#DA9E8C",
+  "cmyk_rgb_delta": 18,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   155,
+   202,
+   290
+  ],
+  "flags": [],
+  "meaning": "承之“檀唇”，浅蓝的衣、杏黄的裙，与檀色的唇膏搭不搭？",
+  "meaning_pages": [
+   155,
+   202
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "琼琚",
+  "index_name": "琼琚",
+  "chapter": "霜降",
+  "cmyk": "C15M60Y55K0",
+  "rgb": "R215G127B102",
+  "hex": "#D77F66",
+  "cmyk_rgb_delta": 25,
+  "votes": 6,
+  "read_deviation": 46,
+  "near_names": [],
+  "pages": [
+   86,
+   155,
+   202,
+   284
+  ],
+  "flags": [
+   "CMYK有2种读法",
+   "RGB有2种读法"
+  ],
+  "meaning": "转而“琼琚”，孔颖达讲，琼琚这个词中的琼不是玉名本义，而是美玉的意思，琼的玉名本义是丹砂色的红玉。",
+  "meaning_pages": [
+   155,
+   202,
+   284
+  ],
+  "meaning_source": "孔颖达",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "棠梨",
+  "index_name": "棠梨",
+  "chapter": "霜降",
+  "cmyk": "C35M75Y75K0",
+  "rgb": "R177G90B67",
+  "hex": "#B15A43",
+  "cmyk_rgb_delta": 26,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   155,
+   202,
+   284
+  ],
+  "flags": [],
+  "meaning": "合乎“棠梨”，棠梨确实是果子，这里讲颜色说的却是其叶子，而且是干枯后的叶子，不到最后就看不到最美。",
+  "meaning_pages": [
+   155,
+   202,
+   284
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 0.99
+ },
+ {
+  "name": "蜜合",
+  "index_name": "蜜合",
+  "chapter": "霜降",
+  "cmyk": "C15M15Y25K0",
+  "rgb": "R223G215B194",
+  "hex": "#DFD7C2",
+  "cmyk_rgb_delta": 6,
+  "votes": 3,
+  "read_deviation": 1,
+  "near_names": [],
+  "pages": [
+   155,
+   289
+  ],
+  "flags": [
+   "RGB有2种读法"
+  ],
+  "meaning": "起于“蜜合”，蜂蜜调和之色，“望文生义”没有错。",
+  "meaning_pages": [
+   155,
+   204,
+   289
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "假山南",
+  "index_name": "假山南",
+  "chapter": "霜降",
+  "cmyk": "C20M25Y35K0",
+  "rgb": "R212G193B166",
+  "hex": "#D4C1A6",
+  "cmyk_rgb_delta": 8,
+  "votes": 4,
+  "read_deviation": 2,
+  "near_names": [],
+  "pages": [
+   155,
+   204,
+   289
+  ],
+  "flags": [
+   "RGB有2种读法"
+  ],
+  "meaning": "承之“假山南”，蜀笺不光有传统色衍生品如薛涛笺、谢公笺，还有楮纸，这是原浆楮纸的颜色。",
+  "meaning_pages": [
+   155,
+   204,
+   289
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "紫花布",
+  "index_name": "紫花布",
+  "chapter": "霜降",
+  "cmyk": "C30M35Y45K0",
+  "rgb": "R190G167B139",
+  "hex": "#BEA78B",
+  "cmyk_rgb_delta": 12,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   155,
+   204,
+   289
+  ],
+  "flags": [],
+  "meaning": "转而“紫花布”，不可望文生义，这不是紫色而是淡赭色，中国传统色对日、韩的影响比较大，影响欧洲的案例此为一宗。",
+  "meaning_pages": [
+   155,
+   204,
+   289
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "沉香",
+  "index_name": "沉香",
+  "chapter": "霜降",
+  "cmyk": "C45M50Y55K5",
+  "rgb": "R153G128B108",
+  "hex": "#99806C",
+  "cmyk_rgb_delta": 20,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   155,
+   204,
+   290
+  ],
+  "flags": [],
+  "meaning": "合乎“沉香”，文人之四大雅事，熏香、点茶、插花、挂画，香烟缭绕上通天意。",
+  "meaning_pages": [
+   155,
+   204
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "半见",
+  "index_name": "半见",
+  "chapter": "立冬",
+  "cmyk": "C0M0Y30K0",
+  "rgb": "R255G251B199",
+  "hex": "#FFFBC7",
+  "cmyk_rgb_delta": 21,
+  "votes": 2,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   212
+  ],
+  "flags": [],
+  "meaning": "起于“半见”，这次全面整理失落的中国传统色，怀着对美学的敬意打捞出“半见”这个色名，从史游《急就篇》记录下它到如今已经将近两千年了，它的若隐若现依然楚楚动人。",
+  "meaning_pages": [
+   212,
+   222
+  ],
+  "meaning_source": "史游《急就篇》",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "女贞黄",
+  "index_name": "女贞黄",
+  "chapter": "立冬",
+  "cmyk": "C5M5Y40K0",
+  "rgb": "R247G238B173",
+  "hex": "#F7EEAD",
+  "cmyk_rgb_delta": 20,
+  "votes": 2,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   212
+  ],
+  "flags": [],
+  "meaning": "承之“女贞黄”，明代的色彩接近当代审美，天缥、退红、天水碧、女贞黄之类，如果形而上去分析，这是平民化的美学进击时代。",
+  "meaning_pages": [
+   212,
+   222
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "绢纨",
+  "index_name": "绢纨",
+  "chapter": "立冬",
+  "cmyk": "C10M10Y50K0",
+  "rgb": "R236G224B147",
+  "hex": "#ECE093",
+  "cmyk_rgb_delta": 19,
+  "votes": 2,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   212
+  ],
+  "flags": [],
+  "meaning": "转而“绢纨”，绢是很令人困惑的基本传统色，它是未漂白的生丝黄色，未练染的生丝白色称为“缟”。",
+  "meaning_pages": [
+   212,
+   222
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "姜黄",
+  "index_name": "姜黄",
+  "chapter": "立冬",
+  "cmyk": "C20M20Y70K0",
+  "rgb": "R214G197B96",
+  "hex": "#D6C560",
+  "cmyk_rgb_delta": 19,
+  "votes": 3,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   212,
+   222
+  ],
+  "flags": [],
+  "meaning": "合乎“姜黄”，姜黄攻心结、抗抑郁，或许是爱情的疗伤色。",
+  "meaning_pages": [
+   212,
+   222
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "纁",
+  "index_name": "纁",
+  "chapter": "立冬",
+  "cmyk": "",
+  "rgb": "",
+  "hex": "",
+  "cmyk_rgb_delta": null,
+  "votes": 0,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [],
+  "flags": [
+   "缺少数值"
+  ],
+  "meaning": "转而“纁黄”，上玄下纁是华夏最神圣的服色，玄为太阳跃出地平线前的天色，纁为太阳跌入地平线时的天色，天地为大，敬畏而已。",
+  "meaning_pages": [],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "二绿",
+  "index_name": "二绿",
+  "chapter": "立冬",
+  "cmyk": "C65M20Y40K0",
+  "rgb": "R93G163B157",
+  "hex": "#5DA39D",
+  "cmyk_rgb_delta": 41,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   212,
+   224,
+   294
+  ],
+  "flags": [],
+  "meaning": "承之“二绿”，同样是研磨石绿矿石，古代中国人按照研磨细度分四目，也就是分为四种层级的绿色，现代日本人分十七目。",
+  "meaning_pages": [
+   212,
+   224,
+   294
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "铜青",
+  "index_name": "铜青",
+  "chapter": "立冬",
+  "cmyk": "C75M30Y50K0",
+  "rgb": "R61G142B134",
+  "hex": "#3D8E86",
+  "cmyk_rgb_delta": 36,
+  "votes": 7,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   209,
+   212,
+   224,
+   294
+  ],
+  "flags": [],
+  "meaning": "转而“铜青”，描述色彩最具财神意象的句子之一，“野菊荒苔各铸钱，金黄铜绿两争妍”。",
+  "meaning_pages": [
+   212,
+   224,
+   294
+  ],
+  "meaning_source": "“野菊荒苔各铸钱，金黄铜绿两争妍”",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "石绿",
+  "index_name": "石绿",
+  "chapter": "立冬",
+  "cmyk": "C85M50Y60K10",
+  "rgb": "R32G104B100",
+  "hex": "#206864",
+  "cmyk_rgb_delta": 11,
+  "votes": 8,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   1,
+   212,
+   224,
+   294
+  ],
+  "flags": [],
+  "meaning": "C85 M50 Y60 K10 R32 G104 B100",
+  "meaning_pages": [
+   1,
+   212,
+   224,
+   294
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "黄琮",
+  "index_name": "黄琮",
+  "chapter": "立冬",
+  "cmyk": "C45M45Y60K0",
+  "rgb": "R158G140B107",
+  "hex": "#9E8C6B",
+  "cmyk_rgb_delta": 18,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   212,
+   226,
+   292
+  ],
+  "flags": [],
+  "meaning": "起于“黄琮”，颜色的概念来自事物的具象和意象，黄琮模拟了大地的形态和颜色，所以是礼地的皇家玉器。",
+  "meaning_pages": [
+   212,
+   226
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "茶色",
+  "index_name": "茶色",
+  "chapter": "立冬",
+  "cmyk": "C55M55Y70K0",
+  "rgb": "R136G118B87",
+  "hex": "#887657",
+  "cmyk_rgb_delta": 21,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   212,
+   226,
+   292
+  ],
+  "flags": [],
+  "meaning": "承之“茶色”，宋代的审美是细腻而贴近自然的，目送友人离去，记录的是友人的衣服在朝暮光线间的颜色变化，“来衣茶色袍，归变椹色服”。",
+  "meaning_pages": [
+   212,
+   226
+  ],
+  "meaning_source": "“来衣茶色袍，归变椹色服”",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "伽罗",
+  "index_name": "伽罗",
+  "chapter": "立冬",
+  "cmyk": "C60M60Y80K20",
+  "rgb": "R109G92B61",
+  "hex": "#6D5C3D",
+  "cmyk_rgb_delta": 27,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   212,
+   226,
+   292
+  ],
+  "flags": [],
+  "meaning": "转而“伽罗”，中日的传统色都记录了这个颜色。",
+  "meaning_pages": [
+   212,
+   226
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "苍艾",
+  "index_name": "苍艾",
+  "chapter": "立冬",
+  "cmyk": "C65M65Y75K30",
+  "rgb": "R90G76B59",
+  "hex": "#5A4C3B",
+  "cmyk_rgb_delta": 28,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   212,
+   226,
+   292
+  ],
+  "flags": [],
+  "meaning": "合乎“苍艾”，艾蒿既老之色。",
+  "meaning_pages": [
+   212,
+   226
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "藕丝褐",
+  "index_name": "藕丝褐",
+  "chapter": "立冬",
+  "cmyk": "C40M50Y40K0",
+  "rgb": "R168G135B135",
+  "hex": "#A88787",
+  "cmyk_rgb_delta": 18,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   213,
+   228,
+   287
+  ],
+  "flags": [],
+  "meaning": "起于“藕丝褐”，从“藕丝秋半”而“藕丝褐”，藕丝由灰而褐，渐染趋深。",
+  "meaning_pages": [
+   213,
+   228
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "葡萄褐",
+  "index_name": "葡萄褐",
+  "chapter": "立冬",
+  "cmyk": "C45M65Y50K0",
+  "rgb": "R158G105B109",
+  "hex": "#9E696D",
+  "cmyk_rgb_delta": 19,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   213,
+   228,
+   285
+  ],
+  "flags": [],
+  "meaning": "承之“葡萄褐”，道家的理念、游牧的环境，这两个因素促使宋元之际褐色在社会各阶层大规模流行，且褐色的色目细分趋向极致。",
+  "meaning_pages": [
+   213,
+   228,
+   285
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "苏方",
+  "index_name": "苏方",
+  "chapter": "立冬",
+  "cmyk": "C55M80Y65K10",
+  "rgb": "R129G71B76",
+  "hex": "#81474C",
+  "cmyk_rgb_delta": 26,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   213,
+   228,
+   286
+  ],
+  "flags": [],
+  "meaning": "转而“苏方”，日本的传统色亦有苏芳，且有深浅色目，其实苏方是从印尼传入中国的染料。",
+  "meaning_pages": [
+   213,
+   228,
+   286
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "福色",
+  "index_name": "福色",
+  "chapter": "立冬",
+  "cmyk": "C60M90Y80K30",
+  "rgb": "R102G43B47",
+  "hex": "#662B2F",
+  "cmyk_rgb_delta": 31,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   213,
+   228,
+   286
+  ],
+  "flags": [],
+  "meaning": "合乎“福色”，蔡京的太师青、福康安的福色，都是因向往显贵而流传。",
+  "meaning_pages": [
+   213,
+   228,
+   286
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "龙膏烛",
+  "index_name": "龙膏烛",
+  "chapter": "小雪",
+  "cmyk": "C10M60Y10K0",
+  "rgb": "R222G130B167",
+  "hex": "#DE82A7",
+  "cmyk_rgb_delta": 63,
+  "votes": 3,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   213,
+   230
+  ],
+  "flags": [
+   "CMYK与RGB不匹配(偏差63)"
+  ],
+  "meaning": "起于“龙膏烛”，“龙膏为灯，光耀百里，烟色丹紫”的颜色意象。",
+  "meaning_pages": [
+   213,
+   230,
+   286
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "黪紫",
+  "index_name": "黪紫",
+  "chapter": "小雪",
+  "cmyk": "C20M65Y10K0",
+  "rgb": "R204G115B160",
+  "hex": "#CC73A0",
+  "cmyk_rgb_delta": 70,
+  "votes": 1,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   286
+  ],
+  "flags": [
+   "共识不足(1票)",
+   "CMYK与RGB不匹配(偏差70)"
+  ],
+  "meaning": "C20 M65 Y10 K0 R204 G115 B160 213",
+  "meaning_pages": [
+   286
+  ],
+  "meaning_source": "",
+  "meaning_agreement": null
+ },
+ {
+  "name": "胭脂水",
+  "index_name": "胭脂水",
+  "chapter": "小雪",
+  "cmyk": "C30M75Y20K0",
+  "rgb": "R185G90B137",
+  "hex": "#B95A89",
+  "cmyk_rgb_delta": 67,
+  "votes": 3,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   213,
+   230
+  ],
+  "flags": [
+   "CMYK与RGB不匹配(偏差67)"
+  ],
+  "meaning": "转而“胭脂水”，梳妆的胭脂水，可以飞上枝头作杏花，可以飞上瓷胎作釉色。",
+  "meaning_pages": [
+   213,
+   230,
+   286
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "胭脂紫",
+  "index_name": "胭脂紫",
+  "chapter": "小雪",
+  "cmyk": "C35M85Y35K0",
+  "rgb": "R176G67B111",
+  "hex": "#B0436F",
+  "cmyk_rgb_delta": 55,
+  "votes": 3,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   213,
+   230
+  ],
+  "flags": [],
+  "meaning": "合乎“胭脂紫”，比胭脂水深一些的就是胭脂紫。",
+  "meaning_pages": [
+   213,
+   230,
+   286
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "小红",
+  "index_name": "小红",
+  "chapter": "小雪",
+  "cmyk": "C5M65Y55K0",
+  "rgb": "R230G119B98",
+  "hex": "#E67762",
+  "cmyk_rgb_delta": 30,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   213,
+   232,
+   284
+  ],
+  "flags": [],
+  "meaning": "起于“小红”，浅云小，甚雅致，《居家必用事类全集》叙述其染法甚详尽，这是比较容易复原的中国传统色。",
+  "meaning_pages": [
+   213,
+   232,
+   284
+  ],
+  "meaning_source": "居家必用事类全集",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "岱赭",
+  "index_name": "岱赭",
+  "chapter": "小雪",
+  "cmyk": "C10M70Y65K0",
+  "rgb": "R221G107B79",
+  "hex": "#DD6B4F",
+  "cmyk_rgb_delta": 30,
+  "votes": 5,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   213,
+   232,
+   284
+  ],
+  "flags": [],
+  "meaning": "承之“岱赭”，姜思序堂的颜料铺子依然有售，传之有序。",
+  "meaning_pages": [
+   213,
+   232,
+   284
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "鹤顶红",
+  "index_name": "鹤顶红",
+  "chapter": "小雪",
+  "cmyk": "C15M85Y80K0",
+  "rgb": "R210G71B53",
+  "hex": "#D24735",
+  "cmyk_rgb_delta": 33,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   213,
+   232,
+   284
+  ],
+  "flags": [],
+  "meaning": "转而“鹤顶红”，矿物色而不是动物色，并非来自柔美的丹顶鹤，而是来自惊悚的砒霜。",
+  "meaning_pages": [
+   213,
+   232,
+   284
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "朱殷",
+  "index_name": "朱殷",
+  "chapter": "小雪",
+  "cmyk": "C30M90Y95K0",
+  "rgb": "R185G58B38",
+  "hex": "#B93A26",
+  "cmyk_rgb_delta": 33,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   213,
+   232,
+   284
+  ],
+  "flags": [],
+  "meaning": "合乎“朱殷”，司马青衫的白居易向往的服饰是“紫烂复朱殷”，着刺史绯、脱刺史绯，蹉跎复蹉跎。",
+  "meaning_pages": [
+   213,
+   232,
+   284
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 0.978
+ },
+ {
+  "name": "月白",
+  "index_name": "月白",
+  "chapter": "小雪",
+  "cmyk": "C20M5Y5K0",
+  "rgb": "R212G229B239",
+  "hex": "#D4E5EF",
+  "cmyk_rgb_delta": 13,
+  "votes": 4,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   214,
+   294
+  ],
+  "flags": [],
+  "meaning": "起于“月白”，写这本书的过程中，我曾去景德镇请教陶瓷的颜色，粉彩大师搞不清像月白这种颜色到底怎么准确定义，故宫收藏的月白色服装之间也有很大颜色差异，我们的标准传统色谱形成尚须努力。",
+  "meaning_pages": [
+   214,
+   234,
+   294
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "星郎",
+  "index_name": "星郎",
+  "chapter": "小雪",
+  "cmyk": "C30M10Y5K0",
+  "rgb": "R188G212B231",
+  "hex": "#BCD4E7",
+  "cmyk_rgb_delta": 18,
+  "votes": 4,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   214,
+   294
+  ],
+  "flags": [],
+  "meaning": "承之“星郎”，郎官对应星宿的典故，衍生而出的颜色意象。",
+  "meaning_pages": [
+   214,
+   234,
+   294
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "晴山",
+  "index_name": "晴山",
+  "chapter": "小雪",
+  "cmyk": "C40M20Y5K0",
+  "rgb": "R163G187B219",
+  "hex": "#A3BBDB",
+  "cmyk_rgb_delta": 23,
+  "votes": 5,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   214,
+   234,
+   292
+  ],
+  "flags": [],
+  "meaning": "转而“晴山”，云雾散而晴山蓝，也是一种约定俗成的颜色意象。",
+  "meaning_pages": [
+   214,
+   234
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "品月",
+  "index_name": "品月",
+  "chapter": "小雪",
+  "cmyk": "C50M25Y10K0",
+  "rgb": "R138G171B204",
+  "hex": "#8AABCC",
+  "cmyk_rgb_delta": 26,
+  "votes": 5,
+  "read_deviation": 20,
+  "near_names": [],
+  "pages": [
+   214,
+   234,
+   292
+  ],
+  "flags": [
+   "CMYK有2种读法"
+  ],
+  "meaning": "合乎“品月”，清代服饰流行色，从故宫收藏的服装看，品月较月白而言更深更蓝。",
+  "meaning_pages": [
+   214,
+   234
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "明茶褐",
+  "index_name": "明茶褐",
+  "chapter": "小雪",
+  "cmyk": "C45M50Y60K0",
+  "rgb": "R158G131B104",
+  "hex": "#9E8368",
+  "cmyk_rgb_delta": 18,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   214,
+   236,
+   290
+  ],
+  "flags": [],
+  "meaning": "起于“明茶褐”，宋元之际褐色大流行，明初亦是如此，褐色保持着分类最细致最繁杂的色目。",
+  "meaning_pages": [
+   214,
+   236
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "荆褐",
+  "index_name": "荆褐",
+  "chapter": "小雪",
+  "cmyk": "C50M60Y75K5",
+  "rgb": "R144G108B74",
+  "hex": "#906C4A",
+  "cmyk_rgb_delta": 23,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   214,
+   236,
+   290
+  ],
+  "flags": [],
+  "meaning": "承之“荆褐”，日本在江户后期也兴起近似褐色系的“四十八茶百鼠”，茶色和鼠色的分类也一样细致繁杂，极大地繁荣了日本的传统色。",
+  "meaning_pages": [
+   214,
+   236
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "驼褐",
+  "index_name": "驼褐",
+  "chapter": "小雪",
+  "cmyk": "C55M65Y80K15",
+  "rgb": "R124G91B62",
+  "hex": "#7C5B3E",
+  "cmyk_rgb_delta": 26,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   214,
+   236,
+   290
+  ],
+  "flags": [],
+  "meaning": "转而“驼褐”，春起早寒，晓寒飒飒，山色盈盈，暖意入酒杯，说的正是这种安逸。",
+  "meaning_pages": [
+   214,
+   236
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "椒褐",
+  "index_name": "椒褐",
+  "chapter": "小雪",
+  "cmyk": "C55M75Y75K25",
+  "rgb": "R114G69B58",
+  "hex": "#72453A",
+  "cmyk_rgb_delta": 28,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   214,
+   236,
+   290
+  ],
+  "flags": [],
+  "meaning": "合乎“椒褐”，褐色很有生活气息，褐色系的色名里茶香藕脆，驼走鹰飞，还有葡萄、麻椒和荆艾。",
+  "meaning_pages": [
+   214,
+   236
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 0.977
+ },
+ {
+  "name": "粉米",
+  "index_name": "粉米",
+  "chapter": "大雪",
+  "cmyk": "C5M30Y10K0",
+  "rgb": "R239G196B206",
+  "hex": "#EFC4CE",
+  "cmyk_rgb_delta": 24,
+  "votes": 1,
+  "read_deviation": 10,
+  "near_names": [],
+  "pages": [
+   214,
+   238
+  ],
+  "flags": [
+   "共识不足(1票)",
+   "CMYK有2种读法",
+   "RGB有3种读法"
+  ],
+  "meaning": "起于“粉米”，有关十二章纹的各种考证，粉色粳米是一说，十二章纹是帝王把江山社稷都揽于一身；不去考虑十二章纹，这种粮食是确实存在的。",
+  "meaning_pages": [
+   214,
+   238,
+   285
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "缥练",
+  "index_name": "缥练",
+  "chapter": "大雪",
+  "cmyk": "",
+  "rgb": "",
+  "hex": "",
+  "cmyk_rgb_delta": null,
+  "votes": 0,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   21,
+   36,
+   215,
+   218,
+   238,
+   260,
+   293,
+   294
+  ],
+  "flags": [
+   "缺少数值（自动配对证据不足，已撤回推定值，需人工确认）"
+  ],
+  "meaning": "",
+  "meaning_pages": [],
+  "meaning_source": "",
+  "meaning_agreement": null
+ },
+ {
+  "name": "美人祭",
+  "index_name": "美人祭",
+  "chapter": "大雪",
+  "cmyk": "C25M75Y45K0",
+  "rgb": "R195G92B106",
+  "hex": "#C35C6A",
+  "cmyk_rgb_delta": 34,
+  "votes": 4,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   214,
+   238
+  ],
+  "flags": [],
+  "meaning": "转而“美人祭”，釉色如佳人，而且是稀世佳人，以稀为贵。",
+  "meaning_pages": [
+   214,
+   238,
+   285
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "鞓红",
+  "index_name": "鞓红",
+  "chapter": "大雪",
+  "cmyk": "C35M85Y60K0",
+  "rgb": "R176G69B82",
+  "hex": "#B04552",
+  "cmyk_rgb_delta": 31,
+  "votes": 3,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   214,
+   238
+  ],
+  "flags": [],
+  "meaning": "合乎“鞓红”，皮带红，宋代画里官员模样的人物腰间都有这么一抹红。",
+  "meaning_pages": [
+   214,
+   238,
+   285
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "米汤娇",
+  "index_name": "米汤娇",
+  "chapter": "大雪",
+  "cmyk": "C10M10Y20K0",
+  "rgb": "R238G229B207",
+  "hex": "#EEE5CF",
+  "cmyk_rgb_delta": 8,
+  "votes": 1,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   215
+  ],
+  "flags": [
+   "共识不足(1票)"
+  ],
+  "meaning": "起于“米汤娇”，米汤娇等于鱼肚白，等于东方亮，等于湖色，湖色服装故宫收藏了不少，而浅绿浅蓝都有，可见湖色的重点是泛白的意象。",
+  "meaning_pages": [
+   215,
+   240
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "草白",
+  "index_name": "草白",
+  "chapter": "大雪",
+  "cmyk": "C30M20Y35K0",
+  "rgb": "R191G193B169",
+  "hex": "#BFC1A9",
+  "cmyk_rgb_delta": 13,
+  "votes": 4,
+  "read_deviation": 20,
+  "near_names": [],
+  "pages": [
+   215,
+   240,
+   295
+  ],
+  "flags": [
+   "CMYK有2种读法",
+   "RGB有2种读法"
+  ],
+  "meaning": "承之“草白”，草色枯，胡马出，两千年的南北战争拉锯，天地以万物为刍狗，“草白经霜地，云黄欲雪天”。",
+  "meaning_pages": [
+   215,
+   240
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "玄校",
+  "index_name": "玄校",
+  "chapter": "大雪",
+  "cmyk": "C40M35Y50K0",
+  "rgb": "R169G160B130",
+  "hex": "#A9A082",
+  "cmyk_rgb_delta": 16,
+  "votes": 5,
+  "read_deviation": 10,
+  "near_names": [],
+  "pages": [
+   215,
+   240,
+   292
+  ],
+  "flags": [
+   "RGB有2种读法"
+  ],
+  "meaning": "转而“玄校”，玄是太阳出地平线前一刻的天色，呈黑赤，玄形容色暗，校是青与黄的间色，呈绿色，玄校是暗绿色。",
+  "meaning_pages": [
+   215,
+   240
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "缁绶",
+  "index_name": "缁绶",
+  "chapter": "大雪",
+  "cmyk": "C60M55Y75K10",
+  "rgb": "R117G108B75",
+  "hex": "#756C4B",
+  "cmyk_rgb_delta": null,
+  "votes": 0,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   25,
+   60,
+   76,
+   150,
+   215,
+   240,
+   284,
+   287,
+   292,
+   294
+  ],
+  "flags": [
+   "色值经孤儿观测补齐（候选名 绾绶 / 绛绶 / 绀缁 / 緑绶 / 綟绶 / 綝绶，共 10 页印证：[25, 60, 76, 150, 215, 240, 284, 287, 292, 294]）"
+  ],
+  "meaning": "",
+  "meaning_pages": [],
+  "meaning_source": "",
+  "meaning_agreement": null
+ },
+ {
+  "name": "雀梅",
+  "index_name": "雀梅",
+  "chapter": "大雪",
+  "cmyk": "C60M40Y60K0",
+  "rgb": "R120G138B111",
+  "hex": "#788A6F",
+  "cmyk_rgb_delta": 18,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   215,
+   242,
+   283
+  ],
+  "flags": [],
+  "meaning": "起于“雀梅”，其果实的皮是应用不广的绿色染材。",
+  "meaning_pages": [
+   215,
+   242
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "油绿",
+  "index_name": "油绿",
+  "chapter": "大雪",
+  "cmyk": "C70M50Y70K5",
+  "rgb": "R93G114B89",
+  "hex": "#5D7259",
+  "cmyk_rgb_delta": 20,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   215,
+   242,
+   281
+  ],
+  "flags": [],
+  "meaning": "承之“油绿”，形容色值，传统色字词比现代要丰富，油、玄、闷可以形容暗，鲜、翠、银可以形容亮。",
+  "meaning_pages": [
+   215,
+   242
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "莓莓",
+  "index_name": "莓莓",
+  "chapter": "大雪",
+  "cmyk": "C75M55Y80K10",
+  "rgb": "R78G101B72",
+  "hex": "#4E6548",
+  "cmyk_rgb_delta": 26,
+  "votes": 5,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   215,
+   242,
+   281
+  ],
+  "flags": [],
+  "meaning": "转而“莓莓”，莓是青苔色，潮州人喜食芋茎，因芋茎之色青苍而呼之为芋莓。",
+  "meaning_pages": [
+   215,
+   242
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "螺青",
+  "index_name": "螺青",
+  "chapter": "大雪",
+  "cmyk": "C80M65Y85K20",
+  "rgb": "R63G80B59",
+  "hex": "#3F503B",
+  "cmyk_rgb_delta": 28,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   215,
+   242,
+   281
+  ],
+  "flags": [],
+  "meaning": "合乎“螺青”，古诗中以墨绿或黛来定义螺蛳的颜色，融于山水间，“螺青点出暮山色，石绿染成春浦潮”。",
+  "meaning_pages": [
+   215,
+   242
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "暮山紫",
+  "index_name": "暮山紫",
+  "chapter": "大雪",
+  "cmyk": "C40M30Y0K0",
+  "rgb": "R164G171B214",
+  "hex": "#A4ABD6",
+  "cmyk_rgb_delta": 41,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   215,
+   244,
+   293
+  ],
+  "flags": [],
+  "meaning": "起于“暮山紫”，云树苍苍，暮光凝噎，烟霏山紫，这是中国美学独有的、不可言传的大自然之美。",
+  "meaning_pages": [
+   215,
+   244
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "紫苑",
+  "index_name": "紫苑",
+  "chapter": "大雪",
+  "cmyk": "C60M50Y0K0",
+  "rgb": "R117G124B187",
+  "hex": "#757CBB",
+  "cmyk_rgb_delta": 68,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   215,
+   244,
+   293
+  ],
+  "flags": [
+   "CMYK与RGB不匹配(偏差68)"
+  ],
+  "meaning": "承之“紫苑”，日本的传统色里也有这个色名，同出于紫苑花的花色。",
+  "meaning_pages": [
+   215,
+   244
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "优昙瑞",
+  "index_name": "优昙瑞",
+  "chapter": "大雪",
+  "cmyk": "C70M65Y0K0",
+  "rgb": "R97G94B168",
+  "hex": "#615EA8",
+  "cmyk_rgb_delta": 87,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   215,
+   244,
+   293
+  ],
+  "flags": [
+   "CMYK与RGB不匹配(偏差87)"
+  ],
+  "meaning": "转而“优昙瑞”，陈曾寿讲雪青色的牵牛花好似优昙瑞，这也是颜色意象。",
+  "meaning_pages": [
+   215,
+   244
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "延维",
+  "index_name": "延维",
+  "chapter": "大雪",
+  "cmyk": "C80M75Y0K0",
+  "rgb": "R74G75B157",
+  "hex": "#4A4B9D",
+  "cmyk_rgb_delta": 98,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   215,
+   244,
+   293
+  ],
+  "flags": [
+   "CMYK与RGB不匹配(偏差98)"
+  ],
+  "meaning": "合乎“延维”，出自《山海经》的上古大神，紫衣双头怪，有点萌，听到打雷就抱头发呆不会动，你送给他一个抱抱，他许给你一个江山，这是君临天下的颜色。",
+  "meaning_pages": [
+   215,
+   244
+  ],
+  "meaning_source": "《山海经》",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "银红",
+  "index_name": "银红",
+  "chapter": "冬至",
+  "cmyk": "C10M25Y10K0",
+  "rgb": "R231G202B211",
+  "hex": "#E7CAD3",
+  "cmyk_rgb_delta": 19,
+  "votes": 2,
+  "read_deviation": 20,
+  "near_names": [],
+  "pages": [
+   216,
+   246
+  ],
+  "flags": [
+   "CMYK有2种读法",
+   "RGB有2种读法"
+  ],
+  "meaning": "起于“银红”，前面说过，银是形容色值亮的传统色说法。",
+  "meaning_pages": [
+   216,
+   246,
+   285
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "莲红",
+  "index_name": "莲红",
+  "chapter": "冬至",
+  "cmyk": "C15M45Y15K0",
+  "rgb": "R217G160B179",
+  "hex": "#D9A0B3",
+  "cmyk_rgb_delta": 38,
+  "votes": 4,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   216,
+   246
+  ],
+  "flags": [],
+  "meaning": "承之“莲红”，茧丝有黄白之分，宋应星特别嘱咐，染莲花、桃红、银红、水红这些娇嫩的颜色时应选用白丝，切不可选用黄茧丝。",
+  "meaning_pages": [
+   216,
+   246,
+   285
+  ],
+  "meaning_source": "宋应星",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "紫梅",
+  "index_name": "紫梅",
+  "chapter": "冬至",
+  "cmyk": "C30M60Y30K0",
+  "rgb": "R187G122B140",
+  "hex": "#BB7A8C",
+  "cmyk_rgb_delta": 38,
+  "votes": 4,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   216,
+   246
+  ],
+  "flags": [],
+  "meaning": "转而“紫梅”，一剪寒梅，再度春风，“东园紫梅初破蕊，北涧渌水方通流”。",
+  "meaning_pages": [
+   216,
+   246,
+   285
+  ],
+  "meaning_source": "东园紫梅初破蕊，北涧渌水方通流",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "紫矿",
+  "index_name": "紫矿",
+  "chapter": "冬至",
+  "cmyk": "C45M80Y60K0",
+  "rgb": "R158G78B86",
+  "hex": "#9E4E56",
+  "cmyk_rgb_delta": 27,
+  "votes": 4,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   216,
+   246
+  ],
+  "flags": [],
+  "meaning": "合乎“紫矿”，老茯神是寄生在松树上的真菌，紫矿是寄生在麒麟竭树上的紫胶虫，造化钟神秀，颜色出万象。",
+  "meaning_pages": [
+   216,
+   246,
+   285
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "咸池",
+  "index_name": "咸池",
+  "chapter": "冬至",
+  "cmyk": "C15M40Y25K0",
+  "rgb": "R218G169B169",
+  "hex": "#DAA9A9",
+  "cmyk_rgb_delta": 22,
+  "votes": 5,
+  "read_deviation": 2,
+  "near_names": [],
+  "pages": [
+   216,
+   248,
+   285
+  ],
+  "flags": [
+   "RGB有2种读法"
+  ],
+  "meaning": "起于“咸池”，太阳入浴或仙女入浴之处的颜色意象，推演成命理的四大桃花——所谓红鸾、红艳、咸池与天喜——之一。",
+  "meaning_pages": [
+   216,
+   248,
+   285
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "红麴",
+  "index_name": "红麴",
+  "chapter": "冬至",
+  "cmyk": "C20M65Y45K0",
+  "rgb": "R205G115B114",
+  "hex": "#CD7372",
+  "cmyk_rgb_delta": 26,
+  "votes": 2,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   216,
+   248
+  ],
+  "flags": [],
+  "meaning": "○ 古代红曲之色。红麴即红曲，小麦磨成麴而制曲。许慎《说文解字·麥部》曰“麴，麦核屑也”。红曲的早期用途并不是酿酒，而是发酵成腊糟，用于河西走廊经瓜州进贡的食品的增香、去腥、防腐等。苏轼《次韵钱穆父马上寄蒋颖叔二首》咏“剩与故人寻土物，腊糟红曲寄驼蹄”。王十朋《买鱼行》咏“止将烟水作生涯，红曲盐鱼荷裹鲊”。张昱《嘉禾湖上为谢参军题扇》咏“鹦鹉杯中红曲酒，鸳鸯湖上黑油船”。",
+  "meaning_pages": [
+   248,
+   285
+  ],
+  "meaning_source": "许慎《说文解字·麥部》、苏轼《次韵钱穆父马上寄蒋颖叔二首》、王十朋《买鱼行》、张昱《嘉禾湖上为谢参军题扇》",
+  "meaning_agreement": 0.997
+ },
+ {
+  "name": "蚩尤旗",
+  "index_name": "蚩尤旗",
+  "chapter": "冬至",
+  "cmyk": "C40M75Y60K0",
+  "rgb": "R168G88B88",
+  "hex": "#A85858",
+  "cmyk_rgb_delta": 24,
+  "votes": 5,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   216,
+   248,
+   285
+  ],
+  "flags": [],
+  "meaning": "转而“蚩尤旗”，战狼出，蚩尤升，赤气裂帛。",
+  "meaning_pages": [
+   216,
+   248,
+   285
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "霁红",
+  "index_name": "霁红",
+  "chapter": "冬至",
+  "cmyk": "C55M80Y65K15",
+  "rgb": "R124G68B73",
+  "hex": "#7C4449",
+  "cmyk_rgb_delta": 26,
+  "votes": 4,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   216,
+   248,
+   286
+  ],
+  "flags": [],
+  "meaning": "合乎“霁红”，景德镇的说法，这种颜色的瓷器是“千窑一宝”，也就是上百炉的窑火中，才能得到一两件霁红，所谓名瓷之首。",
+  "meaning_pages": [
+   216,
+   248,
+   286
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "莺儿",
+  "index_name": "莺儿",
+  "chapter": "冬至",
+  "cmyk": "C10M10Y40K0",
+  "rgb": "R235G225B169",
+  "hex": "#EBE1A9",
+  "cmyk_rgb_delta": 16,
+  "votes": 3,
+  "read_deviation": 18,
+  "near_names": [],
+  "pages": [
+   216,
+   250,
+   291
+  ],
+  "flags": [
+   "CMYK有2种读法",
+   "RGB有2种读法"
+  ],
+  "meaning": "起于“莺儿”，黄莺落在绿枝头，仿佛青春在歌唱。",
+  "meaning_pages": [
+   216,
+   250
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "禹余粮",
+  "index_name": "禹余粮",
+  "chapter": "冬至",
+  "cmyk": "C15M15Y60K0",
+  "rgb": "R225G210B121",
+  "hex": "#E1D279",
+  "cmyk_rgb_delta": 19,
+  "votes": 5,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   216,
+   250,
+   291
+  ],
+  "flags": [],
+  "meaning": "承之“禹余粮”，传说大禹治水的余粮弃于山川，李时珍讲“生于池泽者为禹余粮，生于山谷者为太一余粮”。",
+  "meaning_pages": [
+   216,
+   250
+  ],
+  "meaning_source": "李时珍",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "姚黄",
+  "index_name": "姚黄",
+  "chapter": "冬至",
+  "cmyk": "C20M25Y80K0",
+  "rgb": "R214G188B70",
+  "hex": "#D6BC46",
+  "cmyk_rgb_delta": 19,
+  "votes": 5,
+  "read_deviation": 30,
+  "near_names": [],
+  "pages": [
+   216,
+   250,
+   291
+  ],
+  "flags": [
+   "RGB有2种读法"
+  ],
+  "meaning": "转而“姚黄”，洛阳牡丹的花王之色，千年传承，王者荣耀。",
+  "meaning_pages": [
+   216,
+   250
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "蛾黄",
+  "index_name": "蛾黄",
+  "chapter": "冬至",
+  "cmyk": "C30M50Y90K0",
+  "rgb": "R190G138B47",
+  "hex": "#BE8A2F",
+  "cmyk_rgb_delta": 22,
+  "votes": 4,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   216,
+   250,
+   288
+  ],
+  "flags": [],
+  "meaning": "合乎“蛾黄”，蚕老而蛾黄，是生命积淀的荣耀，古人也用它代指女子妆容的铅黄。",
+  "meaning_pages": [
+   216,
+   250
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "濯绛",
+  "index_name": "濯绛",
+  "chapter": "冬至",
+  "cmyk": "C60M60Y60K5",
+  "rgb": "R121G104B96",
+  "hex": "#796860",
+  "cmyk_rgb_delta": 24,
+  "votes": 4,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   217,
+   252,
+   292
+  ],
+  "flags": [],
+  "meaning": "起于“濯绛”，中国画以赭色和淡墨色渲染山石，称之为濯绛或浅绛，清末这种技法在景德镇有了演化，成为饱含中国画传统神韵的彩瓷，称为浅绛彩。",
+  "meaning_pages": [
+   217,
+   252
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "墨黝",
+  "index_name": "墨黝",
+  "chapter": "冬至",
+  "cmyk": "C70M65Y70K20",
+  "rgb": "R88G82B72",
+  "hex": "#585248",
+  "cmyk_rgb_delta": 27,
+  "votes": 1,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   295
+  ],
+  "flags": [
+   "共识不足(1票)"
+  ],
+  "meaning": "C70 M65 Y70 K20 R88 G82 B72 235",
+  "meaning_pages": [
+   295
+  ],
+  "meaning_source": "",
+  "meaning_agreement": null
+ },
+ {
+  "name": "驈騵",
+  "index_name": "驈騵",
+  "chapter": "冬至",
+  "cmyk": "",
+  "rgb": "",
+  "hex": "",
+  "cmyk_rgb_delta": null,
+  "votes": 0,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [],
+  "flags": [
+   "缺少数值"
+  ],
+  "meaning": "",
+  "meaning_pages": [],
+  "meaning_source": "",
+  "meaning_agreement": null
+ },
+ {
+  "name": "京元",
+  "index_name": "京元",
+  "chapter": "冬至",
+  "cmyk": "C80M75Y80K45",
+  "rgb": "R49G50B44",
+  "hex": "#31322C",
+  "cmyk_rgb_delta": 21,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   217,
+   252,
+   296
+  ],
+  "flags": [],
+  "meaning": "合乎“京元”，明清之际南京地区市井染坊出品的元青色。",
+  "meaning_pages": [
+   217,
+   252
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "鄣白",
+  "index_name": "鄣白",
+  "chapter": "小寒",
+  "cmyk": "C5M0Y15K0",
+  "rgb": "R246G249B228",
+  "hex": "#F6F9E4",
+  "cmyk_rgb_delta": null,
+  "votes": 0,
+  "read_deviation": null,
+  "near_names": [
+   "酇白",
+   "鄢白"
+  ],
+  "pages": [
+   217,
+   295
+  ],
+  "flags": [
+   "名称待核对(近似:酇白/鄢白)",
+   "色值经孤儿观测补齐（候选名 麴白 / 酇白 / 酂白 / 鄢白 / 郁白 / 缟白 / 皛白，共 2 页印证：[217, 295]）"
+  ],
+  "meaning": "C5 M0 Y15 K0 R246 G249 B228 237",
+  "meaning_pages": [
+   295
+  ],
+  "meaning_source": "",
+  "meaning_agreement": null
+ },
+ {
+  "name": "断肠",
+  "index_name": "断肠",
+  "chapter": "小寒",
+  "cmyk": "C10M5Y30K0",
+  "rgb": "R236G235B194",
+  "hex": "#ECEBC2",
+  "cmyk_rgb_delta": 16,
+  "votes": 2,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   217
+  ],
+  "flags": [],
+  "meaning": "承之“断肠”，断肠比本季第一个提到的“半见”略深一些，柳梢黄绿初成，看似不真切，让人牵肠挂肚。",
+  "meaning_pages": [
+   217,
+   254
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "田赤",
+  "index_name": "田赤",
+  "chapter": "小寒",
+  "cmyk": "C15M15Y55K0",
+  "rgb": "R225G211B132",
+  "hex": "#E1D384",
+  "cmyk_rgb_delta": 17,
+  "votes": 2,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   217
+  ],
+  "flags": [],
+  "meaning": "转而“田赤”，拼入银的金，和拼入紫铜的金一样，都是出于成本考虑吧？",
+  "meaning_pages": [
+   217,
+   254
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "黄封",
+  "index_name": "黄封",
+  "chapter": "小寒",
+  "cmyk": "C25M30Y60K0",
+  "rgb": "R202G178B114",
+  "hex": "#CAB272",
+  "cmyk_rgb_delta": 12,
+  "votes": 3,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   217,
+   254
+  ],
+  "flags": [],
+  "meaning": "合乎“黄封”，“荣紫诰，醉黄封”，都是大官的排场。",
+  "meaning_pages": [
+   217,
+   254,
+   289
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "丁香褐",
+  "index_name": "丁香褐",
+  "chapter": "小寒",
+  "cmyk": "C30M45Y45K0",
+  "rgb": "R189G150B131",
+  "hex": "#BD9683",
+  "cmyk_rgb_delta": 11,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   217,
+   256,
+   290
+  ],
+  "flags": [],
+  "meaning": "起于“丁香褐”，北宋崇道，宋徽宗自称“教主道君皇帝”，老子讲“圣人被褐而怀玉”，故宫藏《听琴图》中褐色道袍抚琴者即为徽宗。",
+  "meaning_pages": [
+   217,
+   256
+  ],
+  "meaning_source": "老子、《听琴图》",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "棠梨褐",
+  "index_name": "棠梨褐",
+  "chapter": "小寒",
+  "cmyk": "C45M70Y75K10",
+  "rgb": "R149G90B66",
+  "hex": "#955A42",
+  "cmyk_rgb_delta": 23,
+  "votes": 5,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   217,
+   256,
+   290
+  ],
+  "flags": [],
+  "meaning": "承之“棠梨褐”，道家风范在赵家子孙中的遗响，近年黄岩南宋赵伯澐墓出土服饰可为佐证，保存完好的八重衣裳均为深浅不一的褐色。",
+  "meaning_pages": [
+   217,
+   256
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "朱石栗",
+  "index_name": "朱石栗",
+  "chapter": "小寒",
+  "cmyk": "C50M75Y90K20",
+  "rgb": "R129G73B44",
+  "hex": "#81492C",
+  "cmyk_rgb_delta": 27,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   217,
+   256,
+   290
+  ],
+  "flags": [],
+  "meaning": "转而“朱石栗”，石栗树又名黑桐油树，石栗子产生干性油可做油漆和绘画颜料。",
+  "meaning_pages": [
+   217,
+   256
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "枣褐",
+  "index_name": "枣褐",
+  "chapter": "小寒",
+  "cmyk": "C55M80Y100K35",
+  "rgb": "R104G54B26",
+  "hex": "#68361A",
+  "cmyk_rgb_delta": 29,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   217,
+   256,
+   290
+  ],
+  "flags": [],
+  "meaning": "合乎“枣褐”，宋元的褐色细分中，这是为数不多流传至今的色名。",
+  "meaning_pages": [
+   217,
+   256
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "秋蓝",
+  "index_name": "秋蓝",
+  "chapter": "小寒",
+  "cmyk": "C55M35Y30K5",
+  "rgb": "R125G146B159",
+  "hex": "#7D929F",
+  "cmyk_rgb_delta": 16,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   218,
+   258,
+   294
+  ],
+  "flags": [],
+  "meaning": "起于“秋蓝”，蓼蓝秋枯，秋蓝染不好罗衣，老瓜涂不得绿漆，颜郎爱不成少年，秋蓝寂寂则美，颜郎春心何苦。",
+  "meaning_pages": [
+   218,
+   258,
+   294
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "育阳染",
+  "index_name": "育阳染",
+  "chapter": "小寒",
+  "cmyk": "C70M55Y45K15",
+  "rgb": "R87G100B112",
+  "hex": "#576470",
+  "cmyk_rgb_delta": 22,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   218,
+   258,
+   294
+  ],
+  "flags": [],
+  "meaning": "承之“育阳染”，本书的重大发现之一，两千年前中国古人已经使用牛仔布的织法，织成与牛仔布一样的颜色。",
+  "meaning_pages": [
+   218,
+   258,
+   294
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "霁蓝",
+  "index_name": "霁蓝",
+  "chapter": "小寒",
+  "cmyk": "C80M70Y55K25",
+  "rgb": "R60G70B84",
+  "hex": "#3C4654",
+  "cmyk_rgb_delta": 22,
+  "votes": 4,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   218,
+   258,
+   294
+  ],
+  "flags": [],
+  "meaning": "转而“霁蓝”，我们说东方的色是青，五正色的青到底是什么颜色，天坛圜丘的顶就是这个青，圜丘的用瓷也是青色，霁蓝是青色瓷中的佼佼者。",
+  "meaning_pages": [
+   218,
+   258,
+   294
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "獭见",
+  "index_name": "獭见",
+  "chapter": "小寒",
+  "cmyk": "C85M75Y60K65",
+  "rgb": "R21G29B41",
+  "hex": "#151D29",
+  "cmyk_rgb_delta": 8,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   218,
+   258,
+   293
+  ],
+  "flags": [],
+  "meaning": "合乎“獭见”，清酒“獭祭”出自獭祭鱼的典故，摆一圈鱼来显摆，够有分量够有底气。",
+  "meaning_pages": [
+   218,
+   258
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "井天",
+  "index_name": "井天",
+  "chapter": "小寒",
+  "cmyk": "C40M10Y20K0",
+  "rgb": "R164G201B204",
+  "hex": "#A4C9CC",
+  "cmyk_rgb_delta": 29,
+  "votes": 4,
+  "read_deviation": 13,
+  "near_names": [],
+  "pages": [
+   218,
+   260,
+   293
+  ],
+  "flags": [
+   "RGB有3种读法"
+  ],
+  "meaning": "起于“井天”，坐井观天的颜色意象，量子物理的递进不断提醒我们，我们的已知不过是头顶小井天。",
+  "meaning_pages": [
+   218,
+   260
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "正青",
+  "index_name": "正青",
+  "chapter": "小寒",
+  "cmyk": "C60M20Y30K0",
+  "rgb": "R108G168B175",
+  "hex": "#6CA8AF",
+  "cmyk_rgb_delta": 36,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   218,
+   260,
+   293
+  ],
+  "flags": [],
+  "meaning": "承之“正青”，正经本义的青，看看就知道青在或蓝或绿的状态。",
+  "meaning_pages": [
+   218,
+   260
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "扁青",
+  "index_name": "扁青",
+  "chapter": "小寒",
+  "cmyk": "C70M30Y40K0",
+  "rgb": "R80G146B150",
+  "hex": "#509296",
+  "cmyk_rgb_delta": 32,
+  "votes": 5,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   218,
+   260,
+   293
+  ],
+  "flags": [],
+  "meaning": "转而“扁青”，石青大家族的成员，原产于湖北、四川。",
+  "meaning_pages": [
+   218,
+   260
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "𫟞色",
+  "index_name": "𫟞色",
+  "chapter": "小寒",
+  "cmyk": "",
+  "rgb": "",
+  "hex": "",
+  "cmyk_rgb_delta": null,
+  "votes": 0,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [],
+  "flags": [
+   "缺少数值"
+  ],
+  "meaning": "",
+  "meaning_pages": [],
+  "meaning_source": "",
+  "meaning_agreement": null
+ },
+ {
+  "name": "紫府",
+  "index_name": "紫府",
+  "chapter": "大寒",
+  "cmyk": "C45M70Y30K5",
+  "rgb": "R153G93B127",
+  "hex": "#995D7F",
+  "cmyk_rgb_delta": 43,
+  "votes": 3,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   218,
+   262
+  ],
+  "flags": [],
+  "meaning": "起于“紫府”，《红楼梦》写贾宝玉梦遇警幻仙姑，警幻是“瑶池不二，紫府无双”，仙女中的仙女。",
+  "meaning_pages": [
+   218,
+   262,
+   286
+  ],
+  "meaning_source": "红楼梦",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "地血",
+  "index_name": "地血",
+  "chapter": "大寒",
+  "cmyk": "C55M80Y45K10",
+  "rgb": "R129G70B98",
+  "hex": "#814662",
+  "cmyk_rgb_delta": 28,
+  "votes": 3,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   218,
+   262
+  ],
+  "flags": [],
+  "meaning": "承之“地血”，紫草之紫得火气，兰香之苗得土气，火土相生，中和万象。",
+  "meaning_pages": [
+   218,
+   262,
+   286
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "芥拾紫",
+  "index_name": "芥拾紫",
+  "chapter": "大寒",
+  "cmyk": "C60M90Y55K35",
+  "rgb": "R96G38B65",
+  "hex": "#602641",
+  "cmyk_rgb_delta": 30,
+  "votes": 3,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   218,
+   262
+  ],
+  "flags": [],
+  "meaning": "转而“芥拾紫”，金印紫绶的颜色意象，取功名如俯身拾地芥，也是一种豪气。",
+  "meaning_pages": [
+   218,
+   262,
+   286
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "油紫",
+  "index_name": "油紫",
+  "chapter": "大寒",
+  "cmyk": "C70M100Y60K50",
+  "rgb": "R66G11B47",
+  "hex": "#420B2F",
+  "cmyk_rgb_delta": 28,
+  "votes": 3,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   218,
+   262
+  ],
+  "flags": [],
+  "meaning": "合乎“油紫”，前面说过，油是形容色值暗，暗近黑。",
+  "meaning_pages": [
+   218,
+   262,
+   286
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "骨缥",
+  "index_name": "骨缥",
+  "chapter": "大寒",
+  "cmyk": "C10M10Y25K0",
+  "rgb": "R235G227B199",
+  "hex": "#EBE3C7",
+  "cmyk_rgb_delta": 8,
+  "votes": 2,
+  "read_deviation": 3,
+  "near_names": [],
+  "pages": [
+   219,
+   291
+  ],
+  "flags": [
+   "RGB有2种读法"
+  ],
+  "meaning": "起于“骨缥”，缥来自漂洗的具象，由漂洗之色淡而生浅青色，像天色湛清者为天缥，像枯骨微黄者为骨缥。",
+  "meaning_pages": [
+   219,
+   264
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "青白玉",
+  "index_name": "青白玉",
+  "chapter": "大寒",
+  "cmyk": "C25M20Y40K0",
+  "rgb": "R202G197B160",
+  "hex": "#CAC5A0",
+  "cmyk_rgb_delta": 11,
+  "votes": 4,
+  "read_deviation": 20,
+  "near_names": [],
+  "pages": [
+   219,
+   264,
+   291
+  ],
+  "flags": [
+   "RGB有2种读法"
+  ],
+  "meaning": "承之“青白玉”，故宫博物院收藏的青白玉物件，其色象不一，但主要还是浅青色近白玉。",
+  "meaning_pages": [
+   219,
+   264
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "绿豆褐",
+  "index_name": "绿豆褐",
+  "chapter": "大寒",
+  "cmyk": "C50M45Y60K0",
+  "rgb": "R146G137B107",
+  "hex": "#92896B",
+  "cmyk_rgb_delta": 18,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   219,
+   264,
+   292
+  ],
+  "flags": [],
+  "meaning": "转而“绿豆褐”，出自中国建筑彩画，这门技法盛于隋唐，成规于宋，宋代《营造法式》第十四卷是集大成者。",
+  "meaning_pages": [
+   219,
+   264
+  ],
+  "meaning_source": "《营造法式》",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "冥色",
+  "index_name": "冥色",
+  "chapter": "大寒",
+  "cmyk": "C65M60Y70K15",
+  "rgb": "R102G95B77",
+  "hex": "#665F4D",
+  "cmyk_rgb_delta": 26,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   219,
+   264,
+   292
+  ],
+  "flags": [],
+  "meaning": "合乎“冥色”，我们现在经常说“冥冥之中”，其实最早是在讲颜色，晦暗不清的具象生出非人力所能为的意象。",
+  "meaning_pages": [
+   219,
+   264
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "肉红",
+  "index_name": "肉红",
+  "chapter": "大寒",
+  "cmyk": "C15M25Y25K0",
+  "rgb": "R221G197B184",
+  "hex": "#DDC5B8",
+  "cmyk_rgb_delta": 7,
+  "votes": 4,
+  "read_deviation": 20,
+  "near_names": [],
+  "pages": [
+   219,
+   266,
+   290
+  ],
+  "flags": [
+   "CMYK有2种读法",
+   "RGB有3种读法"
+  ],
+  "meaning": "起于“肉红”，观察人体的具象而生意象肉红，观察人体的具象而生意象朱颜酡。",
+  "meaning_pages": [
+   219,
+   266
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "珠子褐",
+  "index_name": "珠子褐",
+  "chapter": "大寒",
+  "cmyk": "C30M35Y35K0",
+  "rgb": "R190G168B157",
+  "hex": "#BEA89D",
+  "cmyk_rgb_delta": 12,
+  "votes": 5,
+  "read_deviation": 10,
+  "near_names": [],
+  "pages": [
+   219,
+   266,
+   289
+  ],
+  "flags": [
+   "CMYK有2种读法"
+  ],
+  "meaning": "承之“珠子褐”，宋元两代褐色在民间生命力强大，褐的细分色来自具象而不是意象，这一特征明显。",
+  "meaning_pages": [
+   219,
+   266,
+   289
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "鹰背褐",
+  "index_name": "鹰背褐",
+  "chapter": "大寒",
+  "cmyk": "C50M60Y60K5",
+  "rgb": "R143G109B95",
+  "hex": "#8F6D5F",
+  "cmyk_rgb_delta": 22,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   219,
+   266,
+   290
+  ],
+  "flags": [],
+  "meaning": "转而“鹰背褐”，褐色来自生动鲜活的具象，金茶、秋茶、酱茶、沉香、鹰背、砖、豆、葱、竹、珠子、霜、藕丝、茶绿、葡萄、油栗、檀、荆、艾、银、驼。",
+  "meaning_pages": [
+   219,
+   266
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "蔚香褐",
+  "index_name": "蔚香褐",
+  "chapter": "大寒",
+  "cmyk": "C60M70Y75K25",
+  "rgb": "R105G75B60",
+  "hex": "#694B3C",
+  "cmyk_rgb_delta": null,
+  "votes": 0,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   219,
+   266,
+   290
+  ],
+  "flags": [
+   "色值经孤儿观测补齐（候选名 麝香褐，共 3 页印证：[219, 266, 290]）"
+  ],
+  "meaning": "合乎“麝香褐”，当具象在生活中的活跃度减弱，或者被更新更活跃的具象替代，细分色就成为文化遗产。",
+  "meaning_pages": [],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "石英",
+  "index_name": "石英",
+  "chapter": "大寒",
+  "cmyk": "C25M30Y20K0",
+  "rgb": "R200G182B187",
+  "hex": "#C8B6BB",
+  "cmyk_rgb_delta": 17,
+  "votes": 5,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   219,
+   268,
+   287
+  ],
+  "flags": [],
+  "meaning": "起于“石英”，魏晋盛行长生不老仙药，以石钟乳、白石英、石硫黄、赤石脂、紫石英这五种石头制成“五石散”，现在看不过是无知无畏的兴奋剂。",
+  "meaning_pages": [
+   219,
+   268
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "银褐",
+  "index_name": "银褐",
+  "chapter": "大寒",
+  "cmyk": "C45M45Y30K0",
+  "rgb": "R156G141B155",
+  "hex": "#9C8D9B",
+  "cmyk_rgb_delta": 23,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   219,
+   268,
+   287
+  ],
+  "flags": [],
+  "meaning": "承之“银褐”，宋代皇家仪仗用过这个高雅的褐色。",
+  "meaning_pages": [
+   219,
+   268
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "烟红",
+  "index_name": "烟红",
+  "chapter": "大寒",
+  "cmyk": "C45M50Y35K0",
+  "rgb": "R157G133B143",
+  "hex": "#9D858F",
+  "cmyk_rgb_delta": 23,
+  "votes": 6,
+  "read_deviation": null,
+  "near_names": [],
+  "pages": [
+   219,
+   268,
+   287
+  ],
+  "flags": [],
+  "meaning": "转而“烟红”，紫烟、红雾，是为烟红。",
+  "meaning_pages": [
+   219,
+   268
+  ],
+  "meaning_source": "",
+  "meaning_agreement": 1.0
+ },
+ {
+  "name": "紫浩",
+  "index_name": "紫浩",
+  "chapter": "大寒",
+  "cmyk": "",
+  "rgb": "",
+  "hex": "",
+  "cmyk_rgb_delta": null,
+  "votes": 0,
+  "read_deviation": null,
+  "near_names": [
+   "紫府",
+   "油紫"
+  ],
+  "pages": [],
+  "flags": [
+   "缺少数值",
+   "名称待核对(近似:紫府/油紫)"
+  ],
+  "meaning": "",
+  "meaning_pages": [],
+  "meaning_source": "",
+  "meaning_agreement": null
+ }
+]
